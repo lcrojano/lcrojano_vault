@@ -10,5 +10,9 @@
 2. problem ius that at mobile there is not git complete version sop will be limited.
 3. is compllicated to work obsidian inside wsl2
 
+## SSH problem
+when trying to use git obsidiam with ssh coudl be problems
+for example, make sure that your rsa pub key is setted up in github
+
 ## How to share some folder aka team folders?
 1. is important to check what to do with [[Obsidian team folder's]]
