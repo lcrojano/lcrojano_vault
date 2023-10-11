@@ -1,0 +1,1 @@
+1. after [[creating ssh key in windows]] you should be able to git push to the repo.

@@ -1,3 +1,4 @@
+ 
 # Welcome to My Personal Brain 🧠
 
 In this digital vault, I harness the power of PARA and GTD methodologies to efficiently organize information, make informed decisions, and boost productivity.
@@ -12,4 +13,4 @@ Feel free to explore, learn, and adapt these methodologies to supercharge your k
 Happy exploring! 🚀
 
 
-This was edited at mobile version using syncthing
+ 
