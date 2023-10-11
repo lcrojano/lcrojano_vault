@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1696989215123,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1696989197115,
+          "path": "3. Resources/Obsidian instalation/Obsidian notes.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696989197115,
+          "path": "3. Resources/Obsidian instalation/Creating ssh key in windows..md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696989197115,
+          "path": "3. Resources/Obsidian instalation/Sharing Obsidian Team Folders.md"
+        }
+      ],
+      "title": "obsidian set up"
+    }
+  ]
+}

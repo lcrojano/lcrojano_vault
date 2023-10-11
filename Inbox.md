@@ -1,2 +1,0 @@
-- [x] escribir sobre como [[creating ssh key in windows]]
-- [ ] 
