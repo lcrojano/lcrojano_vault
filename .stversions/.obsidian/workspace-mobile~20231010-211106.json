@@ -11,8 +11,12 @@
             "id": "714d5618f6a44607",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "README.md"
+          }
         }
       }
     ],
@@ -123,6 +131,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "714d5618f6a44607",
-  "lastOpenFiles": []
+  "active": "608281f1ead9827d",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "_Inbox.md",
+    "2. Areas",
+    "1. Projects/Installing Obsidian/Obsidian team folder's.md",
+    "1. Projects/Installing Obsidian/Using ssh and git.md",
+    "1. Projects/Robottel e-commerce",
+    "1. Projects/Installing Obsidian",
+    "1. Projects",
+    "LICENSE",
+    "4. Archive",
+    "3. Resources/Obsidian instalation/Sharing Obsidian Team Folders.md",
+    "3. Resources/Obsidian instalation/Creating ssh key in windows..md",
+    "3. Resources/Obsidian instalation/Obsidian notes.md",
+    "3. Resources/Obsidian instalation",
+    "3. Resources",
+    "Installing Obsidian/Obsidian team folder's.md",
+    "README.md",
+    "Installing Obsidian",
+    "Resources/Obsidian notes.md"
+  ]
 }
