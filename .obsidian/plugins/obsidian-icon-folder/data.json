@@ -1,0 +1,30 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RaDeadTree",
+      "RaBook",
+      "RaBullets",
+      "RaCrossedAxes",
+      "RaAnvil"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconsBackgroundCheckEnabled": false
+  },
+  "1. Projects": "RaCrossedAxes",
+  "2. Areas": "RaAnvil",
+  "3. Resources": "RaBook",
+  "4. Archive": "RaDeadTree"
+}

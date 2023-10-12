@@ -1,3 +1,14 @@
 {
-  "spellcheck": true
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "propertiesInDocument": "visible",
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "rightToLeft": false,
+  "vimMode": false,
+  "trashOption": "system",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./attachments"
 }

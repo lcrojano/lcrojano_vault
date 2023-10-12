@@ -21,6 +21,29 @@
         }
       ],
       "title": "obsidian set up"
+    },
+    {
+      "type": "group",
+      "ctime": 1697052356168,
+      "items": [
+        {
+          "type": "folder",
+          "ctime": 1697052323416,
+          "path": "3. Resources/GTD"
+        },
+        {
+          "type": "folder",
+          "ctime": 1697052323416,
+          "path": "3. Resources/PARA"
+        }
+      ],
+      "title": "Second Brain Resources"
+    },
+    {
+      "type": "file",
+      "ctime": 1697052400877,
+      "path": "2. Areas/Personal Development/Dashboard for Personal Development.md",
+      "subpath": "#Resources"
     }
   ]
 }

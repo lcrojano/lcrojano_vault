@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Books/Self improvement Books.md",
+                "file": "2023-10-11.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -48,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#selfimprovement",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Books/Self improvement Books.md",
+                "file": "2023-10-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/Books/Self improvement Books.md",
+                "file": "2023-10-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/Books/Self improvement Books.md"
+                "file": "2023-10-11.md"
               }
             }
           },
@@ -144,13 +145,22 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "f607dfdc5f367107",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,38 +175,42 @@
   },
   "active": "60e18bc11aac21fd",
   "lastOpenFiles": [
-    "3. Resources/Books/Growth Hacking Books.md",
-    "3. Resources/Books/Self improvement Books.md",
-    "_Inbox.md",
-    "1. Projects/Implement a dashboard.md",
-    "3. Resources/Books",
-    "1. Projects/PARA GTD.md",
-    "Untitled",
     "Dashboard.md",
     "README.md",
-    "3. Resources/GTD/_GTD mindmap.canvas",
-    "3. Resources/GTD/5. Engage.md",
-    "3. Resources/GTD/4. Reflect.md",
-    "3. Resources/GTD/3. Organize.md",
-    "3. Resources/GTD/2. Clarify.md",
-    "4. Archive/Someday_Maybe",
-    "4. Archive/Reference",
-    "4. Archive/Trash",
-    "3. Resources/GTD/1. Capture.md",
-    "3. Resources/GTD/0. What is GTD.md",
-    "3. Resources/GTD",
-    "2. Areas/Learning",
-    "1. Projects/Installing Obsidian/Obsidian team folder's.md",
-    "1. Projects/Untitled.md",
-    "1. Projects/Installing Obsidian/Using ssh and git.md",
-    "3. Resources/Obsidian instalation/Creating ssh key in windows..md",
+    "2023-10-11.md",
     "3. Resources/Obsidian instalation/Sharing Obsidian Team Folders.md",
-    "3. Resources/Obsidian instalation/Obsidian notes.md",
-    "3. Resources/Obsidian instalation",
-    "LICENSE",
-    "1. Projects/Robottel e-commerce",
-    "2023-10-09.md",
-    "test.md",
-    "2023-01-29.md"
+    "1. Projects/Installing Obsidian/Obsidian team folder's.md",
+    "2023-10-11.sync-conflict-20231011-173158-VRODC5W.md",
+    "~syncthing~2023-10-11.sync-conflict-20231011-173158-VRODC5W.md.tmp",
+    "1. Projects/Installing Obsidian/Using ssh and git.md",
+    "_Inbox.md",
+    "2. Areas/Personal Development/Dashboard for Personal Development.md",
+    "1. Projects/Building a second brain/Build a PARA - GTD framework.md",
+    "3. Resources/PARA/building-a-second-brain-a-proven-method-to-organize-your-digital-life-and-unlock-your-creative-potential.pdf.md",
+    "2. Areas/M.A.G/Dashboard MAG.md",
+    "1. Projects/Build MAG Website/MAG UX research insights.md",
+    "1. Projects/Build MAG Website/landing page of MAG.md",
+    "3. Resources/Git Github/How to communicate like a GitHub engineer.md",
+    "2. Areas/Research",
+    "1. Projects/Build MAG Website/Untitled",
+    "2. Areas/Vacations",
+    "Untitled",
+    "3. Resources/Git Github",
+    "3. Resources/Git Github/A Note About Git Commit Messages.md",
+    "2. Areas/M.A.G",
+    "2. Areas/House",
+    "2. Areas/Professional Development",
+    "1. Projects/Build MAG Website/BLOG",
+    "Chrome Clippings.md",
+    "3. Resources/PARA/1.1 Capture criteria.md",
+    "3. Resources/PARA/8. 12 problems.md",
+    "3. Resources/PARA/7. External knowledge.md",
+    "3. Resources/PARA/6. Thoughts Knowledge.md",
+    "3. Resources/PARA/5. Hook books.md",
+    "PARA.md",
+    "3. Resources/PARA/4. Express.md",
+    "3. Resources/GTD/3. Organize.md",
+    "3. Resources/PARA/1. Capture.md",
+    "3. Resources/GTD/_GTD mindmap.canvas"
   ]
 }
