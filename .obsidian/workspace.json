@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6ce92636bd406971",
+        "id": "692375ff31129831",
         "type": "tabs",
         "children": [
           {
-            "id": "51d26c09b12e9fb3",
+            "id": "acb4974866d513bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Inbox/Algorithm Visualizer.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#pdf",
+                "query": "tag:#AinW/Enemy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Inbox/Algorithm Visualizer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Inbox/Algorithm Visualizer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Inbox/Algorithm Visualizer.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,44 +164,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "65b34e469c76e6b1",
+  "active": "acb4974866d513bd",
   "lastOpenFiles": [
+    "300 Resources/GTD/3. Organize.md",
+    "100 Projects/150 Alice in Wonderland/Game Logic/turn.md",
+    "100 Projects/150 Alice in Wonderland/Game Logic/tea canteen.md",
+    "100 Projects/150 Alice in Wonderland/Game Logic/Gameplay mechanics.md",
+    "100 Projects/150 Alice in Wonderland/Alice in wonderland.md",
+    "100 Projects/150 Alice in Wonderland/_Game idea.md",
+    "100 Projects/150 Alice in Wonderland/Development.md",
+    "100 Projects/150 Alice in Wonderland/Characters/Bandersnatch.md",
+    "100 Projects/150 Alice in Wonderland/Characters/Alice.md",
+    "100 Projects/150 Alice in Wonderland/Characters/White Queen.md",
+    "100 Projects/150 Alice in Wonderland/Characters/Red Queen.md",
+    "100 Projects/150 Alice in Wonderland/Characters/Red Card Soliders.md",
+    "100 Projects/150 Alice in Wonderland/Characters/players.md",
+    "100 Projects/150 Alice in Wonderland/Characters/Goblin.md",
+    "Red Queen's Castle.md",
+    "100 Projects/150 Alice in Wonderland/Settings/Wonderland.md",
+    "100 Projects/150 Alice in Wonderland/Settings",
+    "100 Projects/150 Alice in Wonderland/Game Logic",
+    "300 Resources/Game Development",
+    "300 Resources/Game Development/Text-based game.md",
+    "100 Projects/150 Alice in Wonderland/Characters",
+    "100 Projects/150 Alice in Wonderland/TODO dev.md",
+    "100 Projects/150 Alice in Wonderland/TODO lead.md",
+    "100 Projects/150 Alice in Wonderland/TODO all.md",
+    "Untitled",
+    "_Inbox/Algorithm Visualizer.md",
+    "100 Projects/150 Alice in Wonderland",
     "_Inbox/Animated Icons.md",
     "_Inbox/Dashboard.md",
     "300 Resources/_Books.md",
     "300 Resources/Books/Self improvement Books.md",
     "300 Resources/Books/Growth Hacking Books.md",
     "300 Resources/Books/attachments/building-a-second-brain-a-proven-method-to-organize-your-digital-life-and-unlock-your-creative-potential.pdf",
-    "_Inbox/Algorithm Visualizer.md",
-    "_Inbox/2023-10-11.md",
-    "300 Resources/Git Github/why to ignore large binary files.md",
-    "_Task.md",
-    "2023-10-12.md",
-    "300 Resources/PARA/books/building-a-second-brain-a-proven-method-to-organize-your-digital-life-and-unlock-your-creative-potential.md",
     "300 Resources/PARA/books",
-    "300 Resources/PARA/building-a-second-brain-a-proven-method-to-organize-your-digital-life-and-unlock-your-creative-potential.pdf.md",
-    "200 Areas/Accountability/Daybook/2023-1-12 Embedding a online pdf to obsidian.md",
-    "300 Resources/PARA/8. 12 problems.md",
-    "200 Areas/Accountability/Daybook/2023-1-12  large file management in git.md",
-    "300 Resources/PARA/5. Hook books.md",
-    "300 Resources/PARA/000 What is para method.md",
-    "200 Areas/Accountability/Daybook/000 Daybook Template.md",
     "200 Areas/Accountability/Daybook",
-    "300 Resources/Git Github/Git Large File Storage.md",
-    "Git Large File System LFS.md",
-    "300 Resources/Daybook/Daybook.md",
     "200 Areas/Accountability",
-    "300 Resources/Zettelkasten/Zettelkasten.md",
-    "300 Resources/Zettelkasten",
-    "300 Resources/Daybook",
-    "README.md",
-    "adas.md",
-    "_nbox",
-    "Chrome Clippings.md",
-    "200 Areas/Blog/Why Zetelkasten for devs.md",
-    "300 Resources/Books/attachments",
-    "300 Resources/Books/Libros.lnk",
-    "200 Areas/Blog",
     "300 Resources/GTD/_GTD mindmap.canvas"
   ]
 }
