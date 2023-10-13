@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b00de423d2bd778d",
+        "id": "6ce92636bd406971",
         "type": "tabs",
         "children": [
           {
-            "id": "60e18bc11aac21fd",
+            "id": "51d26c09b12e9fb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-10-11.md",
+                "file": "_Inbox/Algorithm Visualizer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#selfimprovement",
+                "query": "tag:#pdf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 269
   },
   "right": {
     "id": "2d1ab4ea006b17c6",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-11.md",
+                "file": "_Inbox/Algorithm Visualizer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-11.md",
+                "file": "_Inbox/Algorithm Visualizer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-10-11.md"
+                "file": "_Inbox/Algorithm Visualizer.md"
               }
             }
           },
@@ -173,44 +173,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "60e18bc11aac21fd",
+  "active": "65b34e469c76e6b1",
   "lastOpenFiles": [
-    "Dashboard.md",
+    "_Inbox/Animated Icons.md",
+    "_Inbox/Dashboard.md",
+    "300 Resources/_Books.md",
+    "300 Resources/Books/Self improvement Books.md",
+    "300 Resources/Books/Growth Hacking Books.md",
+    "300 Resources/Books/attachments/building-a-second-brain-a-proven-method-to-organize-your-digital-life-and-unlock-your-creative-potential.pdf",
+    "_Inbox/Algorithm Visualizer.md",
+    "_Inbox/2023-10-11.md",
+    "300 Resources/Git Github/why to ignore large binary files.md",
+    "_Task.md",
+    "2023-10-12.md",
+    "300 Resources/PARA/books/building-a-second-brain-a-proven-method-to-organize-your-digital-life-and-unlock-your-creative-potential.md",
+    "300 Resources/PARA/books",
+    "300 Resources/PARA/building-a-second-brain-a-proven-method-to-organize-your-digital-life-and-unlock-your-creative-potential.pdf.md",
+    "200 Areas/Accountability/Daybook/2023-1-12 Embedding a online pdf to obsidian.md",
+    "300 Resources/PARA/8. 12 problems.md",
+    "200 Areas/Accountability/Daybook/2023-1-12  large file management in git.md",
+    "300 Resources/PARA/5. Hook books.md",
+    "300 Resources/PARA/000 What is para method.md",
+    "200 Areas/Accountability/Daybook/000 Daybook Template.md",
+    "200 Areas/Accountability/Daybook",
+    "300 Resources/Git Github/Git Large File Storage.md",
+    "Git Large File System LFS.md",
+    "300 Resources/Daybook/Daybook.md",
+    "200 Areas/Accountability",
+    "300 Resources/Zettelkasten/Zettelkasten.md",
+    "300 Resources/Zettelkasten",
+    "300 Resources/Daybook",
     "README.md",
-    "2023-10-11.md",
-    "3. Resources/Obsidian instalation/Sharing Obsidian Team Folders.md",
-    "1. Projects/Installing Obsidian/Obsidian team folder's.md",
-    "2023-10-11.sync-conflict-20231011-173158-VRODC5W.md",
-    "~syncthing~2023-10-11.sync-conflict-20231011-173158-VRODC5W.md.tmp",
-    "1. Projects/Installing Obsidian/Using ssh and git.md",
-    "_Inbox.md",
-    "2. Areas/Personal Development/Dashboard for Personal Development.md",
-    "1. Projects/Building a second brain/Build a PARA - GTD framework.md",
-    "3. Resources/PARA/building-a-second-brain-a-proven-method-to-organize-your-digital-life-and-unlock-your-creative-potential.pdf.md",
-    "2. Areas/M.A.G/Dashboard MAG.md",
-    "1. Projects/Build MAG Website/MAG UX research insights.md",
-    "1. Projects/Build MAG Website/landing page of MAG.md",
-    "3. Resources/Git Github/How to communicate like a GitHub engineer.md",
-    "2. Areas/Research",
-    "1. Projects/Build MAG Website/Untitled",
-    "2. Areas/Vacations",
-    "Untitled",
-    "3. Resources/Git Github",
-    "3. Resources/Git Github/A Note About Git Commit Messages.md",
-    "2. Areas/M.A.G",
-    "2. Areas/House",
-    "2. Areas/Professional Development",
-    "1. Projects/Build MAG Website/BLOG",
+    "adas.md",
+    "_nbox",
     "Chrome Clippings.md",
-    "3. Resources/PARA/1.1 Capture criteria.md",
-    "3. Resources/PARA/8. 12 problems.md",
-    "3. Resources/PARA/7. External knowledge.md",
-    "3. Resources/PARA/6. Thoughts Knowledge.md",
-    "3. Resources/PARA/5. Hook books.md",
-    "PARA.md",
-    "3. Resources/PARA/4. Express.md",
-    "3. Resources/GTD/3. Organize.md",
-    "3. Resources/PARA/1. Capture.md",
-    "3. Resources/GTD/_GTD mindmap.canvas"
+    "200 Areas/Blog/Why Zetelkasten for devs.md",
+    "300 Resources/Books/attachments",
+    "300 Resources/Books/Libros.lnk",
+    "200 Areas/Blog",
+    "300 Resources/GTD/_GTD mindmap.canvas"
   ]
 }

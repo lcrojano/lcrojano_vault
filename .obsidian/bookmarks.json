@@ -7,17 +7,17 @@
         {
           "type": "file",
           "ctime": 1696989197115,
-          "path": "3. Resources/Obsidian instalation/Obsidian notes.md"
+          "path": "300 Resources/Obsidian instalation/Obsidian notes.md"
         },
         {
           "type": "file",
           "ctime": 1696989197115,
-          "path": "3. Resources/Obsidian instalation/Creating ssh key in windows..md"
+          "path": "300 Resources/Obsidian instalation/Creating ssh key in windows..md"
         },
         {
           "type": "file",
           "ctime": 1696989197115,
-          "path": "3. Resources/Obsidian instalation/Sharing Obsidian Team Folders.md"
+          "path": "300 Resources/Obsidian instalation/Sharing Obsidian Team Folders.md"
         }
       ],
       "title": "obsidian set up"
@@ -29,12 +29,12 @@
         {
           "type": "folder",
           "ctime": 1697052323416,
-          "path": "3. Resources/GTD"
+          "path": "300 Resources/GTD"
         },
         {
           "type": "folder",
           "ctime": 1697052323416,
-          "path": "3. Resources/PARA"
+          "path": "300 Resources/PARA"
         }
       ],
       "title": "Second Brain Resources"
@@ -42,7 +42,7 @@
     {
       "type": "file",
       "ctime": 1697052400877,
-      "path": "2. Areas/Personal Development/Dashboard for Personal Development.md",
+      "path": "200 Areas/Personal Development/Dashboard for Personal Development.md",
       "subpath": "#Resources"
     }
   ]

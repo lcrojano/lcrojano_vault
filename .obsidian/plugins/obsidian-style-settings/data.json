@@ -1,0 +1,10 @@
+{
+  "encore-settings@@theme-dark": "encore-theme-dark",
+  "encore-settings@@colors": "encore-colors-neutral",
+  "encore-settings@@encore-fancy-headers": false,
+  "encore-settings@@encore-mobile-oled-mode": true,
+  "encore-settings@@encore-mobile-translucency": false,
+  "encore-settings@@encore-coloured-tooltip": true,
+  "encore-settings@@encore-bright-accent": false,
+  "encore-settings@@encore-disable-clickability-fix": false
+}

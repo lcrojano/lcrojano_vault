@@ -11,25 +11,16 @@
             "id": "714d5618f6a44607",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6ee65f8811b5cd91",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "2. Areas/M.A.G/Dashboard MAG.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
+            "file": "2. Areas/M.A.G/Dashboard MAG.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled.md",
+            "file": "2. Areas/M.A.G/Dashboard MAG.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.md"
+            "file": "2. Areas/M.A.G/Dashboard MAG.md"
           }
         }
       }
@@ -142,14 +133,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ee65f8811b5cd91",
+  "active": "714d5618f6a44607",
   "lastOpenFiles": [
-    "Untitled.md",
     "1. Projects/Build MAG Website/landing page of MAG.md",
     "2023-10-11.md",
     "3. Resources/Obsidian instalation/Sharing Obsidian Team Folders.md",
     "1. Projects/Installing Obsidian/Obsidian team folder's.md",
     "README.md",
+    "Untitled.md",
     "_Inbox.md",
     "2. Areas",
     "1. Projects/Installing Obsidian/Using ssh and git.md",

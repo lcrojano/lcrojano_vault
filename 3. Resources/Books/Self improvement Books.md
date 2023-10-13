@@ -1,3 +1,0 @@
-- [building-a-second-brain-a-proven-method-to-organize-your-digital-life-and-unlock-your-creative-potential.pdf - Google Drive](https://drive.google.com/file/d/15YWIAgdCqx3EQrJUU5lGIcT6nDSGXSAq/view) #pdf
-- [So Good They Can't Ignore You PDF](https://drive.google.com/file/d/1-7RBfHKBfiHezvyRwKA4yn2rJmvu-_7H/view?usp=sharing #pdf )
-- 

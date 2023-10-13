@@ -23,8 +23,8 @@
     "iconInTabsEnabled": false,
     "iconsBackgroundCheckEnabled": false
   },
-  "1. Projects": "RaCrossedAxes",
-  "2. Areas": "RaAnvil",
-  "3. Resources": "RaBook",
-  "4. Archive": "RaDeadTree"
+  "200 Areas": "RaAnvil",
+  "300 Resources": "RaBook",
+  "400 Archive": "RaDeadTree",
+  "100 Projects": "RaCrossedAxes"
 }
