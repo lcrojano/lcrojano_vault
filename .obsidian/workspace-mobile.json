@@ -19,12 +19,9 @@
             "id": "6ee65f8811b5cd91",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "300 Resources/PARA/books/building-a-second-brain-a-proven-method-to-organize-your-digital-life-and-unlock-your-creative-potential.md"
               }
             }
           }
@@ -95,7 +92,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
+            "file": "300 Resources/PARA/books/building-a-second-brain-a-proven-method-to-organize-your-digital-life-and-unlock-your-creative-potential.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled.md",
+            "file": "300 Resources/PARA/books/building-a-second-brain-a-proven-method-to-organize-your-digital-life-and-unlock-your-creative-potential.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +121,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.md"
+            "file": "300 Resources/PARA/books/building-a-second-brain-a-proven-method-to-organize-your-digital-life-and-unlock-your-creative-potential.md"
           }
         }
       }
@@ -144,6 +141,12 @@
   },
   "active": "6ee65f8811b5cd91",
   "lastOpenFiles": [
+    "2023-10-14.md",
+    "100 Projects/150 Alice in Wonderland/Red Queen's Castle.md",
+    "300 Resources/PARA/books/building-a-second-brain-a-proven-method-to-organize-your-digital-life-and-unlock-your-creative-potential.md",
+    "300 Resources/PARA/000 What is para method.md",
+    "300 Resources/PARA/001 CODE.md",
+    "100 Projects/150 Alice in Wonderland/_Game idea.md",
     "Untitled.md",
     "1. Projects/Build MAG Website/landing page of MAG.md",
     "2023-10-11.md",
