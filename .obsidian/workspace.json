@@ -18,20 +18,12 @@
             }
           },
           {
-<<<<<<< Updated upstream
             "id": "597b5010d2047c43",
-=======
-            "id": "05bad538a352f285",
->>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
                 "file": "100 Projects/110 Build MAG Website/MAG UX research insights.md",
-=======
-                "file": "100 Projects/160 Git Commit/Setting up commits structure.md",
->>>>>>> Stashed changes
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,33 +31,12 @@
             }
           },
           {
-<<<<<<< Updated upstream
             "id": "b921b95c54d7b067",
-=======
-            "id": "597b5010d2047c43",
->>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "200 Areas/Accountability/Daybook/000 Daybook Template.md",
-=======
                 "file": "100 Projects/Projects.md",
->>>>>>> Stashed changes
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b921b95c54d7b067",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Inbox/codes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alice",
+                "query": "projects",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,15 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-                "file": "200 Areas/Accountability/Daybook/000 Daybook Template.md",
-=======
                 "file": "100 Projects/Projects.md",
->>>>>>> Stashed changes
-=======
-                "file": "_Inbox/codes.md",
->>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,15 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-                "file": "200 Areas/Accountability/Daybook/000 Daybook Template.md",
-=======
                 "file": "100 Projects/Projects.md",
->>>>>>> Stashed changes
-=======
-                "file": "_Inbox/codes.md",
->>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,15 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-                "file": "200 Areas/Accountability/Daybook/000 Daybook Template.md"
-=======
                 "file": "100 Projects/Projects.md"
->>>>>>> Stashed changes
-=======
-                "file": "_Inbox/codes.md"
->>>>>>> Stashed changes
               }
             }
           },
@@ -249,93 +196,44 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
   "active": "b921b95c54d7b067",
   "lastOpenFiles": [
+    "100 Projects/Implement a dashboard.md",
+    "README.md",
+    "2023-10-14.md",
+    "2023-10-13.md",
+    "_Task.md",
+    "300 Resources/GTD/3. Organize.md",
     "200 Areas/Learning/Software Engineering.md",
     "200 Areas/Learning/JavaScript.md",
     "200 Areas/Learning/Git y Github.md",
     "200 Areas/Learning/Angular.md",
-    "200 Areas/Learning",
-    "100 Projects/170 WDO/price market appl.md",
-    "100 Projects/170 WDO",
+    "100 Projects/120 Building a second brain/Build a PARA - GTD framework.md",
+    "200 Areas/Personal Development/Dashboard for Personal Development.md",
     "100 Projects/160 Git Commit/Setting up commits structure.md",
     "100 Projects/160 Git Commit/Blog Entry - Better commits.md",
-    "100 Projects/160 Git Commit",
-    "_Inbox/codes.md",
-    "300 Resources/Notes Taking/Notes Taking App.md",
-    "300 Resources/Notes Taking",
-    "300 Resources/AI tools/AI LLM.md",
-    "300 Resources/AI tools",
-    "100 Projects/110 Build MAG Website/MAG UX research insights.md",
-    "100 Projects/150 Alice in Wonderland/_Game idea.md",
-    "200 Areas/Accountability/Daybook/000 Daybook Template.md",
-    "200 Areas/Blog/Why Zetelkasten for devs.md",
-    "200 Areas/Personal Development/Dashboard for Personal Development.md",
-    "200 Areas/M.A.G/Dashboard MAG.md",
-    "100 Projects/110 Build MAG Website/landing page of MAG.md",
-    "100 Projects/Projects.md",
-    "Untitled",
-=======
-  "active": "597b5010d2047c43",
-=======
-  "active": "65b34e469c76e6b1",
->>>>>>> Stashed changes
-  "lastOpenFiles": [
-    "200 Areas/Accountability/Daybook/000 Daybook Template.md",
-    "200 Areas/Blog/Why Zetelkasten for devs.md",
-    "200 Areas/Personal Development/Dashboard for Personal Development.md",
-    "200 Areas/M.A.G/Dashboard MAG.md",
-    "100 Projects/110 Build MAG Website/landing page of MAG.md",
-    "100 Projects/110 Build MAG Website/MAG UX research insights.md",
-    "_Inbox/codes.md",
-    "100 Projects/Projects.md",
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
-    "Untitled",
->>>>>>> Stashed changes
-    "100 Projects/120 Building a second brain/Implementing DataView.md",
-    "100 Projects/120 Building a second brain/Build a PARA - GTD framework.md",
-    "100 Projects/130 Installing Obsidian/How to link areas and projects PARA.md",
     "100 Projects/130 Installing Obsidian/Obsidian team folder's.md",
     "100 Projects/130 Installing Obsidian/Using ssh and git.md",
-    "100 Projects/Implement a dashboard.md",
-<<<<<<< Updated upstream
-    "100 Projects/150 Alice in Wonderland/Resources.md",
-    "100 Projects/150 Alice in Wonderland/Alice in wonderland.md",
-    "100 Projects/120 Building a second brain/Implement DataView",
-    "300 Resources/PARA/books/~syncthing~building-a-second-brain-a-proven-method-to-organize-your-digital-life-and-unlock-your-creative-potential.md.tmp",
-    "300 Resources/PARA/articles",
-    "100 Projects/150 Alice in Wonderland/Settings",
-=======
-    "200 Areas/Learning/JavaScript.md",
-    "100 Projects/150 Alice in Wonderland/Resources.md",
-    "100 Projects/150 Alice in Wonderland/Alice in wonderland.md",
-    "100 Projects/150 Alice in Wonderland/Alice In Wonderland - Game idea.md",
-    "100 Projects/160 Git Commit/Setting up commits structure.md",
-    "100 Projects/160 Git Commit/Blog Entry - Better commits.md",
-    "100 Projects/120 Building a second brain/Resources.md",
-    "300 Resources/Notes Taking/Notes Taking App.md",
-    "300 Resources/Notes Taking",
+    "100 Projects/170 WDO/price market appl.md",
+    "_Inbox/codes.md",
+    "_Inbox/2023-10-11.md",
+    "_Inbox/Algorithm Visualizer.md",
+    "_Inbox/Animated Icons.md",
+    "_Inbox/Dashboard.md",
+    "300 Resources/Zettelkasten/Zettelkasten.md",
+    "300 Resources/_Books.md",
     "300 Resources/AI tools/AI LLM.md",
-    "300 Resources/AI tools",
-    "_Task.md",
-    "100 Projects/120 Building a second brain/Implement DataView",
-    "200 Areas/Learning/Git y Github.md",
-    "200 Areas/Learning/Angular.md",
-    "100 Projects/160 Git Commit",
+    "200 Areas/Accountability/Daybook/000 Daybook Template.md",
+    "200 Areas/Learning",
     "100 Projects/170 WDO",
+    "100 Projects/160 Git Commit",
+    "300 Resources/Notes Taking",
+    "300 Resources/AI tools",
+    "Untitled",
+    "100 Projects/120 Building a second brain/Implement DataView",
     "300 Resources/PARA/books/~syncthing~building-a-second-brain-a-proven-method-to-organize-your-digital-life-and-unlock-your-creative-potential.md.tmp",
     "300 Resources/PARA/articles",
     "100 Projects/150 Alice in Wonderland/Settings",
-    "100 Projects/150 Alice in Wonderland/Game Logic",
-<<<<<<< Updated upstream
-    "300 Resources/Game Development",
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
     "300 Resources/GTD/_GTD mindmap.canvas"
   ]
 }
