@@ -1,9 +1,20 @@
 [
   "obsidian-git",
   "tag-wrangler",
-  "table-editor-obsidian",
   "obsidian-local-rest-api",
   "obsidian-icon-folder",
   "obsidian-style-settings",
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "obsidian-annotator"
+=======
+  "obsidian-annotator",
+  "file-explorer-note-count",
+  "dataview"
+>>>>>>> Stashed changes
+=======
+  "obsidian-annotator",
+  "file-explorer-note-count",
+  "dataview"
+>>>>>>> Stashed changes
 ]

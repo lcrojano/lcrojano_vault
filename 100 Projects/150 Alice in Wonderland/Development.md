@@ -1,4 +1,4 @@
-to develop [[_Game idea]]  
+to develop [[Alice In Wonderland - Game idea]]  
 
 ## Git workflow
 
