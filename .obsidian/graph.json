@@ -5,16 +5,8 @@
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#hacktoberfest  ",
-      "color": {
-        "a": 1,
-        "rgb": 13112340
-      }
-    }
-  ],
+  "collapse-color-groups": true,
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -1.3,
@@ -25,6 +17,6 @@
   "repelStrength": 13.3264033264033,
   "linkStrength": 0.878378378378378,
   "linkDistance": 58,
-  "scale": 1.0000000000000098,
+  "scale": 0.12102024442732004,
   "close": false
 }

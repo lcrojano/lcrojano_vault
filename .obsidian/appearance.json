@@ -4,5 +4,6 @@
   "cssTheme": "",
   "translucency": true,
   "nativeMenus": true,
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "",
+  "baseFontSize": 15
 }
