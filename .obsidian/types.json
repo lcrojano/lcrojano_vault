@@ -4,6 +4,9 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "area": "text",
-    "topic": "multitext"
+    "topic": "multitext",
+    "Current Page": "number",
+    "Date Started": "date",
+    "Type": "multitext"
   }
 }

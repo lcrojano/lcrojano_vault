@@ -1,3 +1,9 @@
+---
+Type:
+  - Blog
+  - Task
+Date Started: 2023-10-31
+---
 
 For the challenge of [[hacktoberfest]], [[Alice in wonderland]]
 is a Text-based, html/css/ vanilla javascript game:

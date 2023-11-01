@@ -4,23 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "0ae0f2f474668250",
+        "id": "9d04fa568b47007e",
         "type": "tabs",
         "children": [
           {
-            "id": "113efaa05e6f7ba6",
+            "id": "eef2e3a3dd9d75d4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "300 Resources/Software Engineering/JavaScript/Clean Code Javascript.md"
+              }
+            }
+          },
+          {
+            "id": "6fb16c3097e32d20",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "300 Resources/Software Engineering/JavaScript/Clean Code Javascript.md"
+              }
+            }
+          },
+          {
+            "id": "cd00173e55154a57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Projects/1500 Hacktoberfest/150 Alice in Wonderland/Game Logic/Gameplay mechanics.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -49,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vim",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269
+    "width": 269,
+    "collapsed": true
   },
   "right": {
     "id": "2d1ab4ea006b17c6",
@@ -94,11 +116,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Projects/1500 Hacktoberfest/150 Alice in Wonderland/Game Logic/Gameplay mechanics.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -111,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Projects/1500 Hacktoberfest/150 Alice in Wonderland/Game Logic/Gameplay mechanics.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Projects/1500 Hacktoberfest/150 Alice in Wonderland/Game Logic/Gameplay mechanics.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -155,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,54 +198,54 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "113efaa05e6f7ba6",
+  "active": "cd00173e55154a57",
   "lastOpenFiles": [
-    "100 Projects/1500 Hacktoberfest/150 Alice in Wonderland/Game Logic/turn.md",
+    "300 Resources/Software Engineering/JavaScript/Clean Code Javascript.md",
+    "Untitled.md",
+    "Dashboard.md",
     "100 Projects/1500 Hacktoberfest/150 Alice in Wonderland/Alice In Wonderland - Game idea.md",
-    "100 Projects/1500 Hacktoberfest/150 Alice in Wonderland/Resources.md",
-    "300 Resources/PARA/books/building-a-second-brain-a-proven-method-to-organize-your-digital-life-and-unlock-your-creative-potential.md",
-    "300 Resources/pw-test-db.kdbx",
-    "202310231601i.md",
-    "300 Resources/Tools.md",
+    "100 Projects/1500 Hacktoberfest/150 Alice in Wonderland/Alice in wonderland.md",
+    "_Inbox/Animated Iconsi.md",
+    "_Inbox/Implement Github action.md",
+    "100 Projects/1300 Installing Obsidian/Obsidian team folder's.md",
+    "100 Projects/1300 Installing Obsidian/How to link areas and projects PARA.md",
+    "100 Projects/1600 Git Github Improvements/Blog Entry - Better commits.md",
+    "300 Resources/Software Engineering/Angular/Becoming an Angular Ninja.md",
+    "300 Resources/Software Engineering/Typescript/Programming TypeScript.md",
+    "300 Resources/Second Brain/PARA/books/building-a-second-brain-a-proven-method-to-organize-your-digital-life-and-unlock-your-creative-potential.md",
+    "README.md",
+    "200 Areas/Learning/JavaScript.md",
+    "300 Resources/Software Engineering/Typescript/Untitled.md",
+    "300 Resources/Software Engineering/Typescript",
+    "300 Resources/Ideas",
+    "300 Resources/Second Brain",
+    "300 Resources/Software Engineering",
+    "LICENSE.md",
+    "Movistar.md",
+    "Rewards.md",
+    "300 Resources/Tools/Tools.md",
+    "300 Resources/Tools/Free resources.md",
+    "300 Resources/Ideas/202310252254 Selling luxury of being yourself.md",
+    "300 Resources/_Books.md",
+    "300 Resources/Software Engineering/Angular",
+    "300 Resources/Software Engineering/Game Development/Text-based game.md",
+    "300 Resources/Tools/Algorithm Visualizer.md",
+    "300 Resources/Tools",
     "_Inbox/_Task.md",
-    "300 Resources/AI tools/AI LLM.md",
-    "300 Resources/JavaScript/When to Use JavaScript for Animations.md",
-    "300 Resources/JavaScript/JavaScript Animations.md",
-    "300 Resources/Free resources.md",
-    "100 Projects/2100 En Venta Directa/enventadirecta task.md",
-    "100 Projects/2000 remorques/Remorques task.md",
-    "300 Resources/Docs tools/Docs templates.md",
-    "100 Projects/2100 En Venta Directa",
+    "100 Projects/2300 Build personal blog",
+    "Untitled 1",
+    "Untitled",
+    "300 Resources/pw-test-db.kdbx",
     "100 Projects/1500 Hacktoberfest/GHW/domain.png",
     "100 Projects/1500 Hacktoberfest/GHW/insta.png",
     "100 Projects/1500 Hacktoberfest/GHW/do.png",
     "100 Projects/1500 Hacktoberfest/Captura de pantalla 2023-10-23 144943.png",
     "100 Projects/1500 Hacktoberfest/GHW/hacktoberfest.png",
-    "100 Projects/1500 Hacktoberfest/GHW",
-    "100 Projects/1500 Hacktoberfest/Nueva carpeta",
-    "300 Resources/Docs tools",
-    "300 Resources/PARA/attachments/Deverge cnverge.png",
-    "200 Areas/Blog/How To Write Good Commits.md",
-    "200 Areas/Personal Development/Dashboard for Personal Development.md",
-    "200 Areas/Blog/Linked In Top Community voice.md",
-    "100 Projects/1500 Hacktoberfest/Code Labs/Codelabs.md",
-    "300 Resources/PARA/7. External knowledge.md",
-    "300 Resources/PARA/attachments",
-    "300 Resources/PARA/Nueva carpeta",
-    "300 Resources/CSS/When to Use CSS Animations.md",
-    "300 Resources/CSS/Transition.md",
-    "300 Resources/CSS/Keyframe.md",
-    "300 Resources/CSS/CSS animation.md",
-    "How to Combine CSS and JavaScript Animations.md",
-    "Venta direct website.md",
-    "100 Projects/2000 remorques/~syncthing~Remorques task.md.tmp",
-    "100 Projects/2000 remorques",
-    "100 Projects/Learn Vim/Vim.md",
-    "300 Resources/JavaScript",
+    "300 Resources/Second Brain/PARA/attachments/Deverge cnverge.png",
     "100 Projects/1500 Hacktoberfest/attachments/planted tree.png",
     "100 Projects/1500 Hacktoberfest/attachments/Captura de pantalla 2023-10-20 163107.png",
     "100 Projects/1500 Hacktoberfest/attachments/Captura de pantalla 2023-10-20 162926.png",
     "100 Projects/1500 Hacktoberfest/180 Daily.dev/attachments/Pasted image 20231017202217.png",
-    "300 Resources/GTD/_GTD mindmap.canvas"
+    "300 Resources/Second Brain/GTD/_GTD mindmap.canvas"
   ]
 }
