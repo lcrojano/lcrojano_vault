@@ -1,14 +1,13 @@
 ---
-Type: Book
 annotation-target: https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=
+Type:
+  - Book
 Status: Reading
 Date Finished: 
 Pages: "156"
-Current Page: 1
+Current Page: 10
 Date Started: 2021-10-31
 ---
-
-
 >%%
 >```annotation-json
 >{"created":"2023-11-01T04:10:21.640Z","updated":"2023-11-01T04:10:21.640Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":12995,"end":13252},{"type":"TextQuoteSelector","exact":"os desarrolladores, por norma general, solemosescribir código sin la intención explícita de que vaya a ser entendido por otra persona,ya que la mayoría de las veces nos centramos simplemente en implementar unasolución que funcione y que resuelva el problema","prefix":"lidad y legibilidad. Y es que, l","suffix":". La mayoría de las veces, trata"}]}]}

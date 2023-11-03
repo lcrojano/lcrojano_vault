@@ -4,8 +4,8 @@
 
 ``` dataview 
 TABLE pages, current-page, date-started, status
-WHERE Type = "Book"
-AND status = "Reading"
+WHERE contains(type, "Book")
+AND (status = "Reading" OR status = "New")
 FLATTEN choice(status = "New", "<b>📚" + status + "</b>", status) as status 
 FLATTEN choice(status = "Reading", "<i>🚀" + status + "</i>", status) as status 
 FLATTEN choice(status = "Completed", "<s>✅" + status + "</s>", status) as status

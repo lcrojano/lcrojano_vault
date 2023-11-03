@@ -4,44 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9d04fa568b47007e",
+        "id": "c89827f7c0826bd8",
         "type": "tabs",
         "children": [
           {
-            "id": "eef2e3a3dd9d75d4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "300 Resources/Software Engineering/JavaScript/Clean Code Javascript.md"
-              }
-            }
-          },
-          {
-            "id": "6fb16c3097e32d20",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "300 Resources/Software Engineering/JavaScript/Clean Code Javascript.md"
-              }
-            }
-          },
-          {
-            "id": "cd00173e55154a57",
+            "id": "21028d937a415978",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "202311021921 make backup rejean server.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "202311021921 make backup rejean server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "202311021921 make backup rejean server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "202311021921 make backup rejean server.md"
               }
             }
           },
@@ -181,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,11 +176,31 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "cd00173e55154a57",
+  "active": "21028d937a415978",
   "lastOpenFiles": [
+    "202311021128 Typescript Tips.md",
+    "202311021921 make backup rejean server.md",
+    "200 Areas/Personal Development/PROFILE LCROJANO3 (1).png",
+    "200 Areas/Personal Development/PROFILE LCROJANO4.png",
+    "200 Areas/Personal Development/PROFILE LCROJANO3.png",
+    "200 Areas/Personal Development/PROFILE LCROJANO2.png",
+    "200 Areas/Personal Development/PROFILE LCROJANO.png",
+    "200 Areas/Personal Development/LCROJANO BANNER.png",
     "300 Resources/Software Engineering/JavaScript/Clean Code Javascript.md",
-    "Untitled.md",
     "Dashboard.md",
+    "300 Resources/Software Engineering/Typescript/TypeScript in 50 lessons.md",
+    "300 Resources/Software Engineering/Typescript/Programming TypeScript.md",
+    "Untitled.md",
+    "300 Resources/Software Engineering/Angular/Becoming an Angular Ninja.md",
+    "300 Resources/Software Engineering/JavaScript/Drawing 2023-11-02 09.47.52.excalidraw.md",
+    "400 Archive/Trash/WP Rocket.md",
+    "400 Archive/Trash/Untitled.md",
+    "400 Archive/Trash/Smush.md",
+    "100 Projects/1500 Hacktoberfest/Write article for DEV community.md",
+    "100 Projects/1500 Hacktoberfest/Post at DEV.md",
+    "100 Projects/1500 Hacktoberfest/hacktoberfest.png",
+    "100 Projects/1500 Hacktoberfest/hacktoberfest.png.crdownload",
+    "100 Projects/1500 Hacktoberfest/hacktoberfest finished.png",
     "100 Projects/1500 Hacktoberfest/150 Alice in Wonderland/Alice In Wonderland - Game idea.md",
     "100 Projects/1500 Hacktoberfest/150 Alice in Wonderland/Alice in wonderland.md",
     "_Inbox/Animated Iconsi.md",
@@ -210,42 +208,22 @@
     "100 Projects/1300 Installing Obsidian/Obsidian team folder's.md",
     "100 Projects/1300 Installing Obsidian/How to link areas and projects PARA.md",
     "100 Projects/1600 Git Github Improvements/Blog Entry - Better commits.md",
-    "300 Resources/Software Engineering/Angular/Becoming an Angular Ninja.md",
-    "300 Resources/Software Engineering/Typescript/Programming TypeScript.md",
     "300 Resources/Second Brain/PARA/books/building-a-second-brain-a-proven-method-to-organize-your-digital-life-and-unlock-your-creative-potential.md",
     "README.md",
     "200 Areas/Learning/JavaScript.md",
-    "300 Resources/Software Engineering/Typescript/Untitled.md",
     "300 Resources/Software Engineering/Typescript",
     "300 Resources/Ideas",
     "300 Resources/Second Brain",
     "300 Resources/Software Engineering",
     "LICENSE.md",
     "Movistar.md",
-    "Rewards.md",
-    "300 Resources/Tools/Tools.md",
-    "300 Resources/Tools/Free resources.md",
-    "300 Resources/Ideas/202310252254 Selling luxury of being yourself.md",
-    "300 Resources/_Books.md",
     "300 Resources/Software Engineering/Angular",
-    "300 Resources/Software Engineering/Game Development/Text-based game.md",
-    "300 Resources/Tools/Algorithm Visualizer.md",
     "300 Resources/Tools",
-    "_Inbox/_Task.md",
     "100 Projects/2300 Build personal blog",
     "Untitled 1",
     "Untitled",
-    "300 Resources/pw-test-db.kdbx",
     "100 Projects/1500 Hacktoberfest/GHW/domain.png",
     "100 Projects/1500 Hacktoberfest/GHW/insta.png",
-    "100 Projects/1500 Hacktoberfest/GHW/do.png",
-    "100 Projects/1500 Hacktoberfest/Captura de pantalla 2023-10-23 144943.png",
-    "100 Projects/1500 Hacktoberfest/GHW/hacktoberfest.png",
-    "300 Resources/Second Brain/PARA/attachments/Deverge cnverge.png",
-    "100 Projects/1500 Hacktoberfest/attachments/planted tree.png",
-    "100 Projects/1500 Hacktoberfest/attachments/Captura de pantalla 2023-10-20 163107.png",
-    "100 Projects/1500 Hacktoberfest/attachments/Captura de pantalla 2023-10-20 162926.png",
-    "100 Projects/1500 Hacktoberfest/180 Daily.dev/attachments/Pasted image 20231017202217.png",
     "300 Resources/Second Brain/GTD/_GTD mindmap.canvas"
   ]
 }
