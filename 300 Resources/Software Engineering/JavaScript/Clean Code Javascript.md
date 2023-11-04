@@ -5,7 +5,7 @@ Type:
 Status: Reading
 Date Finished: 
 Pages: "156"
-Current Page: 10
+Current Page: 33
 Date Started: 2021-10-31
 ---
 >%%
@@ -160,3 +160,457 @@ Date Started: 2021-10-31
 >%%TAGS%%
 >
 ^c3f9ptfftr
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T03:10:37.475Z","updated":"2023-11-03T03:10:37.475Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":16302,"end":16359},{"type":"TextQuoteSelector","exact":"Me considero un artesano de software (SoftwareCraftsman),","prefix":"ca e Ingeniería en Informática. ","suffix":" sin los dogmatismos propios de "}]}]}
+>```
+>%%
+>*%%PREFIX%%ca e Ingeniería en Informática.%%HIGHLIGHT%% ==Me considero un artesano de software (SoftwareCraftsman),== %%POSTFIX%%sin los dogmatismos propios de*
+>%%LINK%%[[#^fiia5pe4qgs|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^fiia5pe4qgs
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T04:05:00.049Z","updated":"2023-11-03T04:05:00.049Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":24353,"end":24499},{"type":"TextQuoteSelector","exact":"refactorizar a diario, considero que es un “buen calentamiento”, es decir, una buenaforma de reconectar con lo que estaba haciendo el día anterior","prefix":"libro. A nivel personal me gusta","suffix":".Por otro lado, puede darse el c"}]}]}
+>```
+>%%
+>*%%PREFIX%%libro. A nivel personal me gusta%%HIGHLIGHT%% ==refactorizar a diario, considero que es un “buen calentamiento”, es decir, una buenaforma de reconectar con lo que estaba haciendo el día anterior== %%POSTFIX%%.Por otro lado, puede darse el c*
+>%%LINK%%[[#^smjnk02t33i|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^smjnk02t33i
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T04:06:41.246Z","updated":"2023-11-03T04:06:41.246Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":25543,"end":25746},{"type":"TextQuoteSelector","exact":"las cuatro reglas del diseño simple planteadas por Kent Beck:• El código pasa correctamente los test• Revela la intención del diseño• Respeta el principio DRY• Tiene el menor número posible de elementos.","prefix":"ar valorar si estamoscumpliendo ","suffix":"A lo largo del libro veremos cóm"}]}]}
+>```
+>%%
+>*%%PREFIX%%ar valorar si estamoscumpliendo%%HIGHLIGHT%% ==las cuatro reglas del diseño simple planteadas por Kent Beck:• El código pasa correctamente los test• Revela la intención del diseño• Respeta el principio DRY• Tiene el menor número posible de elementos.== %%POSTFIX%%A lo largo del libro veremos cóm*
+>%%LINK%%[[#^yqi6rhobfln|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^yqi6rhobfln
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T04:07:48.217Z","updated":"2023-11-03T04:07:48.217Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":26045,"end":26355},{"type":"TextQuoteSelector","exact":"Clean Code, o Código Limpio en español, es un término al que ya hacían referenciadesarrolladores de la talla de Ward Cunningham o Kent Beck, aunque no sepopularizó hasta que Robert C. Martin²³, también conocido como Uncle Bob, publicósu libro “Clean Code: A Handbook of Agile Software Craftsmanship²⁴” en 2008.","prefix":"ordenadorhaga”. – Donald Knuth²²","suffix":"El libro, aunque sea bastante do"}]}]}
+>```
+>%%
+>*%%PREFIX%%ordenadorhaga”. – Donald Knuth²²%%HIGHLIGHT%% ==Clean Code, o Código Limpio en español, es un término al que ya hacían referenciadesarrolladores de la talla de Ward Cunningham o Kent Beck, aunque no sepopularizó hasta que Robert C. Martin²³, también conocido como Uncle Bob, publicósu libro “Clean Code: A Handbook of Agile Software Craftsmanship²⁴” en 2008.== %%POSTFIX%%El libro, aunque sea bastante do*
+>%%LINK%%[[#^9sztoe8hzc|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^9sztoe8hzc
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T04:09:16.926Z","text":"![](https://i.imgur.com/PGpoHeV.png)","updated":"2023-11-03T04:09:16.926Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":26596,"end":26652},{"type":"TextQuoteSelector","exact":"Viñeta de osnews.com/comics/ sobre la calidad del código","prefix":"cie, aunque sea para criticarlo.","suffix":"²²https://es.wikipedia.org/wiki/"}]}]}
+>```
+>%%
+>*%%PREFIX%%cie, aunque sea para criticarlo.%%HIGHLIGHT%% ==Viñeta de osnews.com/comics/ sobre la calidad del código== %%POSTFIX%%²²https://es.wikipedia.org/wiki/*
+>%%LINK%%[[#^pu6y0ejbrse|show annotation]]
+>%%COMMENT%%
+>![](https://i.imgur.com/PGpoHeV.png)
+>%%TAGS%%
+>
+^pu6y0ejbrse
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T04:10:35.896Z","updated":"2023-11-03T04:10:35.896Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":26955,"end":27087},{"type":"TextQuoteSelector","exact":"“Código Limpio es aquel que se ha escrito con la intención de que otra persona(o tú mismo en el futuro) lo entienda.” – Carlos Blé²⁵","prefix":"en con el objetivode este libro:","suffix":"Los desarrolladores solemos escr"}]}]}
+>```
+>%%
+>*%%PREFIX%%en con el objetivode este libro:%%HIGHLIGHT%% ==“Código Limpio es aquel que se ha escrito con la intención de que otra persona(o tú mismo en el futuro) lo entienda.” – Carlos Blé²⁵== %%POSTFIX%%Los desarrolladores solemos escr*
+>%%LINK%%[[#^32pekiicc01|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^32pekiicc01
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T04:13:17.240Z","updated":"2023-11-03T04:13:17.240Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":28890,"end":29150},{"type":"TextQuoteSelector","exact":"En JavaScript clásico, antes de ES6, únicamente teníamos una forma de declarar lasvariables y era a través del uso de la palabra var. A partir de ES6 se introducen lety const, con lo que pasamos a tener tres palabras reservadas para la declaración devariables.","prefix":"Uso correcto de var, let y const","suffix":"Lo ideal sería tratar de evitar "}]}]}
+>```
+>%%
+>*%%PREFIX%%Uso correcto de var, let y const%%HIGHLIGHT%% ==En JavaScript clásico, antes de ES6, únicamente teníamos una forma de declarar lasvariables y era a través del uso de la palabra var. A partir de ES6 se introducen lety const, con lo que pasamos a tener tres palabras reservadas para la declaración devariables.== %%POSTFIX%%Lo ideal sería tratar de evitar*
+>%%LINK%%[[#^a7dcs31zay9|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^a7dcs31zay9
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T04:14:17.572Z","updated":"2023-11-03T04:14:17.572Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":29483,"end":29852},{"type":"TextQuoteSelector","exact":"La diferencia entre let y const radica en que a esta última no se le puede reasignarsu valor, aunque sí modificarlo. Es decir, se puede modificar (mutar) en el caso de unobjeto, pero no si se trata de un tipo primitivo. Por este motivo, usar const en variablesen las que no tengamos pensado cambiar su valor puede ayudarnos a mejorar laintencionalidad de nuestro código","prefix":"eremos al final de estecapítulo.","suffix":".Ejemplo de uso de var1 var vari"}]}]}
+>```
+>%%
+>*%%PREFIX%%eremos al final de estecapítulo.%%HIGHLIGHT%% ==La diferencia entre let y const radica en que a esta última no se le puede reasignarsu valor, aunque sí modificarlo. Es decir, se puede modificar (mutar) en el caso de unobjeto, pero no si se trata de un tipo primitivo. Por este motivo, usar const en variablesen las que no tengamos pensado cambiar su valor puede ayudarnos a mejorar laintencionalidad de nuestro código== %%POSTFIX%%.Ejemplo de uso de var1 var vari*
+>%%LINK%%[[#^t1zlo0pvgpq|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^t1zlo0pvgpq
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T04:16:23.223Z","updated":"2023-11-03T04:16:23.223Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":30647,"end":30995},{"type":"TextQuoteSelector","exact":"Nombres pronunciables y expresivosLos nombres de las variables, imprescindiblemente en inglés, deben ser pronuncia-bles. Esto quiere decir que no deben ser abreviaturas ni llevar guión bajo o medio,priorizando el estilo CamelCase. Por otro lado, debemos intentar no ahorrarnoscaracteres en los nombres, la idea es que sean lo más expresivos posible","prefix":"ejemplo interactivo desde aquí²⁹","suffix":".²⁸https://repl.it/@SoftwareCraf"}]}]}
+>```
+>%%
+>*%%PREFIX%%ejemplo interactivo desde aquí²⁹%%HIGHLIGHT%% ==Nombres pronunciables y expresivosLos nombres de las variables, imprescindiblemente en inglés, deben ser pronuncia-bles. Esto quiere decir que no deben ser abreviaturas ni llevar guión bajo o medio,priorizando el estilo CamelCase. Por otro lado, debemos intentar no ahorrarnoscaracteres en los nombres, la idea es que sean lo más expresivos posible== %%POSTFIX%%.²⁸https://repl.it/@SoftwareCraf*
+>%%LINK%%[[#^4u7we1cqt65|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^4u7we1cqt65
+
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T04:17:11.288Z","text":"definir","updated":"2023-11-03T04:17:11.288Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":31353,"end":31400},{"type":"TextQuoteSelector","exact":"software de tipo vertical (orientado a negocio)","prefix":"mbresSi estamos construyendo un ","suffix":", debemosintentar que los nombre"}]}]}
+>```
+>%%
+>*%%PREFIX%%mbresSi estamos construyendo un%%HIGHLIGHT%% ==software de tipo vertical (orientado a negocio)== %%POSTFIX%%, debemosintentar que los nombre*
+>%%LINK%%[[#^d6pop2os42p|show annotation]]
+>%%COMMENT%%
+>definir
+>%%TAGS%%
+>#por definir
+^d6pop2os42p
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T04:17:58.073Z","updated":"2023-11-03T04:17:58.073Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":31326,"end":31699},{"type":"TextQuoteSelector","exact":"Si estamos construyendo un software de tipo vertical (orientado a negocio), debemosintentar que los nombres no contengan información técnica en ellos, es decir, evitarincluir información relacionada con la tecnología, como el tipo de dato o la notaciónhúngara³⁰, el tipo de clase, etc. Esto sí se admite en desarrollo de software horizontalo librerías de propósito general.","prefix":"nformación técnica en losnombres","suffix":"Evitar que los nombres contengan"}]}]}
+>```
+>%%
+>*%%PREFIX%%nformación técnica en losnombres%%HIGHLIGHT%% ==Si estamos construyendo un software de tipo vertical (orientado a negocio), debemosintentar que los nombres no contengan información técnica en ellos, es decir, evitarincluir información relacionada con la tecnología, como el tipo de dato o la notaciónhúngara³⁰, el tipo de clase, etc. Esto sí se admite en desarrollo de software horizontalo librerías de propósito general.== %%POSTFIX%%Evitar que los nombres contengan*
+>%%LINK%%[[#^oiz6rocsokr|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^oiz6rocsokr
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T04:18:31.797Z","updated":"2023-11-03T04:18:31.797Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":31815,"end":32005},{"type":"TextQuoteSelector","exact":"Establecer un lenguaje ubicuoEl término “lenguaje ubicuo” lo introdujo Eric Evans en su famoso libro sobre DDD,Implementing Domain-Driven Design, también conocido como “el libro rojo delDDD”","prefix":".}34 //better5 class User(){...}","suffix":". Aunque el DDD queda fuera del "}]}]}
+>```
+>%%
+>*%%PREFIX%%.}34 //better5 class User(){...}%%HIGHLIGHT%% ==Establecer un lenguaje ubicuoEl término “lenguaje ubicuo” lo introdujo Eric Evans en su famoso libro sobre DDD,Implementing Domain-Driven Design, también conocido como “el libro rojo delDDD”== %%POSTFIX%%. Aunque el DDD queda fuera del*
+>%%LINK%%[[#^7gkfjulbpw4|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^7gkfjulbpw4
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T04:18:49.832Z","updated":"2023-11-03T04:18:49.832Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":31938,"end":31960},{"type":"TextQuoteSelector","exact":" Domain-Driven Design,","prefix":"oso libro sobre DDD,Implementing","suffix":" también conocido como “el libro"}]}]}
+>```
+>%%
+>*%%PREFIX%%oso libro sobre DDD,Implementing%%HIGHLIGHT%% ==Domain-Driven Design,== %%POSTFIX%%también conocido como “el libro*
+>%%LINK%%[[#^sbn6b10ll1|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>#por definir
+^sbn6b10ll1
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T04:19:13.308Z","updated":"2023-11-03T04:19:13.308Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":32253,"end":32463},{"type":"TextQuoteSelector","exact":"El lenguaje ubicuo es un proceso en el cual se trata de establecer un lenguaje comúnentre programadores y stakeholders(expertos de dominio), basado en las definicionesy terminología que se emplean en el negocio","prefix":"raVariables, nombres y ámbito 18","suffix":".Una buena forma de comenzar con"}]}]}
+>```
+>%%
+>*%%PREFIX%%raVariables, nombres y ámbito 18%%HIGHLIGHT%% ==El lenguaje ubicuo es un proceso en el cual se trata de establecer un lenguaje comúnentre programadores y stakeholders(expertos de dominio), basado en las definicionesy terminología que se emplean en el negocio== %%POSTFIX%%.Una buena forma de comenzar con*
+>%%LINK%%[[#^sxlxzlteyt|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^sxlxzlteyt
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T04:19:44.275Z","updated":"2023-11-03T04:19:44.275Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":32844,"end":32973},{"type":"TextQuoteSelector","exact":"o debemos usar en algunos lados User, en otro Client y en otro Customer,a no ser que representen claramente conceptos diferentes.","prefix":"r referencia al mismoconcepto, n","suffix":"Léxico coherente1 //bad2 getUser"}]}]}
+>```
+>%%
+>*%%PREFIX%%r referencia al mismoconcepto, n%%HIGHLIGHT%% ==o debemos usar en algunos lados User, en otro Client y en otro Customer,a no ser que representen claramente conceptos diferentes.== %%POSTFIX%%Léxico coherente1 //bad2 getUser*
+>%%LINK%%[[#^txo3ccz1pz|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^txo3ccz1pz
+
+
+
+
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T05:11:05.779Z","updated":"2023-11-03T05:11:05.779Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":34141,"end":34206},{"type":"TextQuoteSelector","exact":"FuncionesLos nombres de las funciones deben representar acciones,","prefix":"its = 1;7 const totalFruits = 3;","suffix":" por lo que deben construir-se u"}]}]}
+>```
+>%%
+>*%%PREFIX%%its = 1;7 const totalFruits = 3;%%HIGHLIGHT%% ==FuncionesLos nombres de las funciones deben representar acciones,== %%POSTFIX%%por lo que deben construir-se u*
+>%%LINK%%[[#^cfx3db6y5kc|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^cfx3db6y5kc
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T05:11:17.228Z","updated":"2023-11-03T05:11:17.228Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":33899,"end":33998},{"type":"TextQuoteSelector","exact":"NúmerosPara los números es interesante escoger palabras que describan números, como min,max o total","prefix":" = true;9 const hasFruit = true;","suffix":":Variables, nombres y ámbito 20N"}]}]}
+>```
+>%%
+>*%%PREFIX%%= true;9 const hasFruit = true;%%HIGHLIGHT%% ==NúmerosPara los números es interesante escoger palabras que describan números, como min,max o total== %%POSTFIX%%:Variables, nombres y ámbito 20N*
+>%%LINK%%[[#^g18vb3rbknl|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^g18vb3rbknl
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T05:11:32.340Z","updated":"2023-11-03T05:11:32.340Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":33539,"end":33694},{"type":"TextQuoteSelector","exact":"BooleanosLos booleanos solo pueden tener 2 valores: verdadero o falso. Dado esto, el uso deprefijos como is, has y can ayudará inferir el tipo de variable,","prefix":"['manzana', 'platano', 'fresa'];","suffix":" mejorando así lalegibilidad de "}]}]}
+>```
+>%%
+>*%%PREFIX%%['manzana', 'platano', 'fresa'];%%HIGHLIGHT%% ==BooleanosLos booleanos solo pueden tener 2 valores: verdadero o falso. Dado esto, el uso deprefijos como is, has y can ayudará inferir el tipo de variable,== %%POSTFIX%%mejorando así lalegibilidad de*
+>%%LINK%%[[#^8zz9sc9gzf2|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^8zz9sc9gzf2
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T05:11:48.779Z","updated":"2023-11-03T05:11:48.779Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":33103,"end":33261},{"type":"TextQuoteSelector","exact":"ArraysLos arrays son una lista iterable de elementos, generalmente del mismo tipo. Es porello que pluralizar el nombre de la variable puede ser una buena idea","prefix":"r()Nombres según el tipo de dato","suffix":":Variables, nombres y ámbito 19A"}]}]}
+>```
+>%%
+>*%%PREFIX%%r()Nombres según el tipo de dato%%HIGHLIGHT%% ==ArraysLos arrays son una lista iterable de elementos, generalmente del mismo tipo. Es porello que pluralizar el nombre de la variable puede ser una buena idea== %%POSTFIX%%:Variables, nombres y ámbito 19A*
+>%%LINK%%[[#^mdguuh5awz|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^mdguuh5awz
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T05:21:18.244Z","updated":"2023-11-03T05:21:18.244Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":34645,"end":34769},{"type":"TextQuoteSelector","exact":"En el caso de las funciones de acceso, modificación o predicado, el nombre debe serel prefijo get, set e is, respectivamente","prefix":".)8 updateUser(...)9 sendEmail()","suffix":".Variables, nombres y ámbito 21F"}]}]}
+>```
+>%%
+>*%%PREFIX%%.)8 updateUser(...)9 sendEmail()%%HIGHLIGHT%% ==En el caso de las funciones de acceso, modificación o predicado, el nombre debe serel prefijo get, set e is, respectivamente== %%POSTFIX%%.Variables, nombres y ámbito 21F*
+>%%LINK%%[[#^6jur3jjic7e|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^6jur3jjic7e
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T05:24:43.654Z","updated":"2023-11-03T05:24:43.654Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":34885,"end":35041},{"type":"TextQuoteSelector","exact":"Get y setEn el caso de los getters y setters, sería interesante hacer uso de las palabras claveget y set cuando estamos accediendo a propiedades de objetos.","prefix":"r()2 setUser(...)3 isValidUser()","suffix":" Estas se introdujeronen ES6 y n"}]}]}
+>```
+>%%
+>*%%PREFIX%%r()2 setUser(...)3 isValidUser()%%HIGHLIGHT%% ==Get y setEn el caso de los getters y setters, sería interesante hacer uso de las palabras claveget y set cuando estamos accediendo a propiedades de objetos.== %%POSTFIX%%Estas se introdujeronen ES6 y n*
+>%%LINK%%[[#^6yh3vi7276s|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^6yh3vi7276s
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T05:27:35.383Z","updated":"2023-11-03T05:27:35.383Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":35360,"end":35506},{"type":"TextQuoteSelector","exact":"ClasesLas clases y los objetos deben tener nombres formados por un sustantivo o frases desustantivo como User,UserProfile, Account o AdressParser.","prefix":"erson.name); // Outputs ‘Miguel’","suffix":" Debemos evitar nombresgenéricos"}]}]}
+>```
+>%%
+>*%%PREFIX%%erson.name); // Outputs ‘Miguel’%%HIGHLIGHT%% ==ClasesLas clases y los objetos deben tener nombres formados por un sustantivo o frases desustantivo como User,UserProfile, Account o AdressParser.== %%POSTFIX%%Debemos evitar nombresgenéricos*
+>%%LINK%%[[#^6rmw5adq6hb|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^6rmw5adq6hb
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T05:28:53.219Z","updated":"2023-11-03T05:28:53.219Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":35606,"end":35742},{"type":"TextQuoteSelector","exact":"Hay que ser cuidadosos a la hora de escoger estos nombres, ya que son el paso previoa la hora de definir la responsabilidad de la clase.","prefix":"o.Variables, nombres y ámbito 22","suffix":" Si escogemos nombres demasiadog"}]}]}
+>```
+>%%
+>*%%PREFIX%%o.Variables, nombres y ámbito 22%%HIGHLIGHT%% ==Hay que ser cuidadosos a la hora de escoger estos nombres, ya que son el paso previoa la hora de definir la responsabilidad de la clase.== %%POSTFIX%%Si escogemos nombres demasiadog*
+>%%LINK%%[[#^8o459wr1kfk|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^8o459wr1kfk
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T05:41:30.430Z","updated":"2023-11-03T05:41:30.430Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":35988,"end":36116},{"type":"TextQuoteSelector","exact":"El scope, que se traduce como “ámbito” o“alcance” en español, hace referencia a la visibilidad y a la vida útil de una variable.","prefix":"unciona su scope en JavaScript. ","suffix":"El ámbito, en esencia, determina"}]}]}
+>```
+>%%
+>*%%PREFIX%%unciona su scope en JavaScript.%%HIGHLIGHT%% ==El scope, que se traduce como “ámbito” o“alcance” en español, hace referencia a la visibilidad y a la vida útil de una variable.== %%POSTFIX%%El ámbito, en esencia, determina*
+>%%LINK%%[[#^oapv9r9dml|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^oapv9r9dml
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T05:41:46.983Z","updated":"2023-11-03T05:41:46.983Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":36219,"end":36347},{"type":"TextQuoteSelector","exact":"En JavaScript existen principalmente tres tipos de ámbitos: el ámbito global, el ámbitolocal o de función y el ámbito de bloque.","prefix":"mos accesoa una cierta variable.","suffix":"Ámbito globalCualquier variable "}]}]}
+>```
+>%%
+>*%%PREFIX%%mos accesoa una cierta variable.%%HIGHLIGHT%% ==En JavaScript existen principalmente tres tipos de ámbitos: el ámbito global, el ámbitolocal o de función y el ámbito de bloque.== %%POSTFIX%%Ámbito globalCualquier variable*
+>%%LINK%%[[#^zwtzfyvqy1r|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^zwtzfyvqy1r
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T05:45:15.453Z","updated":"2023-11-03T05:45:15.453Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":36347,"end":36458},{"type":"TextQuoteSelector","exact":"Ámbito globalCualquier variable que no esté dentro de un bloque de una función, estará dentrodel ámbito global.","prefix":"e función y el ámbito de bloque.","suffix":" Dichas variables serán accesibl"}]}]}
+>```
+>%%
+>*%%PREFIX%%e función y el ámbito de bloque.%%HIGHLIGHT%% ==Ámbito globalCualquier variable que no esté dentro de un bloque de una función, estará dentrodel ámbito global.== %%POSTFIX%%Dichas variables serán accesibl*
+>%%LINK%%[[#^itbgmfdzt7o|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^itbgmfdzt7o
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T05:45:57.811Z","updated":"2023-11-03T05:45:57.811Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":36667,"end":36763},{"type":"TextQuoteSelector","exact":"Los bloques en Javascript se delimitan mediante llaves, una de apertura ‘{‘, y otrade cierre ‘}’","prefix":"//”Hello world”;Ámbito de bloque","suffix":". Como comentamos en el apartado"}]}]}
+>```
+>%%
+>*%%PREFIX%%//”Hello world”;Ámbito de bloque%%HIGHLIGHT%% ==Los bloques en Javascript se delimitan mediante llaves, una de apertura ‘{‘, y otrade cierre ‘}’== %%POSTFIX%%. Como comentamos en el apartado*
+>%%LINK%%[[#^bog3etuvrbi|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^bog3etuvrbi
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T05:49:26.944Z","updated":"2023-11-03T05:49:26.944Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":37483,"end":37511},{"type":"TextQuoteSelector","exact":"Ámbito estático vs. dinámico","prefix":"con comportamientos inesperados.","suffix":"El ámbito de las variables en Ja"}]}]}
+>```
+>%%
+>*%%PREFIX%%con comportamientos inesperados.%%HIGHLIGHT%% ==Ámbito estático vs. dinámico== %%POSTFIX%%El ámbito de las variables en Ja*
+>%%LINK%%[[#^qkg9yf77mhm|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^qkg9yf77mhm
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T05:49:58.756Z","updated":"2023-11-03T05:49:58.756Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":37511,"end":37693},{"type":"TextQuoteSelector","exact":"El ámbito de las variables en JavaScript tiene un comportamiento de naturalezaestática. Esto quiere decir que se determina en tiempo de compilación en lugar deen tiempo de ejecución.","prefix":"dos.Ámbito estático vs. dinámico","suffix":" Esto también se suele denominar"}]}]}
+>```
+>%%
+>*%%PREFIX%%dos.Ámbito estático vs. dinámico%%HIGHLIGHT%% ==El ámbito de las variables en JavaScript tiene un comportamiento de naturalezaestática. Esto quiere decir que se determina en tiempo de compilación en lugar deen tiempo de ejecución.== %%POSTFIX%%Esto también se suele denominar*
+>%%LINK%%[[#^30fravpxagb|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^30fravpxagb
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T05:58:10.422Z","updated":"2023-11-03T05:58:10.422Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":38265,"end":38380},{"type":"TextQuoteSelector","exact":"HoistingEn JavaScript las declaraciones de las variables y funciones se asignan en memoriaen tiempo de compilación;","prefix":"cutará la función printNumber().","suffix":" a nivel práctico es como si el "}]}]}
+>```
+>%%
+>*%%PREFIX%%cutará la función printNumber().%%HIGHLIGHT%% ==HoistingEn JavaScript las declaraciones de las variables y funciones se asignan en memoriaen tiempo de compilación;== %%POSTFIX%%a nivel práctico es como si el*
+>%%LINK%%[[#^moqqhzjqnwo|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^moqqhzjqnwo
+
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T06:03:22.495Z","updated":"2023-11-03T06:03:22.495Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":38919,"end":39075},{"type":"TextQuoteSelector","exact":"En el caso de las variables, el hoisting puede generar comportamientos inesperados,ya que como hemos dicho solo aplica a la declaración y no a su asignación","prefix":");4 }5 greet(); //”Hello world”;","suffix":":Variables, nombres y ámbito 25H"}]}]}
+>```
+>%%
+>*%%PREFIX%%);4 }5 greet(); //”Hello world”;%%HIGHLIGHT%% ==En el caso de las variables, el hoisting puede generar comportamientos inesperados,ya que como hemos dicho solo aplica a la declaración y no a su asignación== %%POSTFIX%%:Variables, nombres y ámbito 25H*
+>%%LINK%%[[#^x8x2vau8h4s|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^x8x2vau8h4s
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-03T06:04:39.350Z","updated":"2023-11-03T06:04:39.350Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":39244,"end":39425},{"type":"TextQuoteSelector","exact":"En el primer console.log del ejemplo, lo esperado es que escriba “Hi”, pero comohemos comentado, el intérprete “eleva” la declaración de la variable a la partesuperior de su scope. ","prefix":"ole.log(greet); //”Hello”6 })();","suffix":"Por lo tanto, el comportamiento "}]}]}
+>```
+>%%
+>*%%PREFIX%%ole.log(greet); //”Hello”6 })();%%HIGHLIGHT%% ==En el primer console.log del ejemplo, lo esperado es que escriba “Hi”, pero comohemos comentado, el intérprete “eleva” la declaración de la variable a la partesuperior de su scope.== %%POSTFIX%%Por lo tanto, el comportamiento*
+>%%LINK%%[[#^norrtp5wc9|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^norrtp5wc9

@@ -2,6 +2,8 @@
 topic:
   - css
   - animation
+tags:
+  - css/animations
 ---
 **Keyframe** in CSS defines specific points during an animation where you can set styling rules for elements, allowing precise control over animations by specifying intermediate states.
 

@@ -26,5 +26,9 @@
   "200 Areas": "RaAnvil",
   "300 Resources": "RaBook",
   "400 Archive": "RaDeadTree",
-  "100 Projects": "RaCrossedAxes"
+  "100 Projects": "RaCrossedAxes",
+  "300 Resources/Software Engineering/JavaScript/Clean Code Javascript.md": {
+    "iconName": null,
+    "inheritanceIcon": "RaAnvil"
+  }
 }

@@ -21,4 +21,6 @@ box.addEventListener("click", () => {
 });
 ```
 
-The code demonstrates a simple horizontal animation on the "box" element upon clicking, showcasing how JavaScript can manipulate CSS properties to achieve animations.
+The code demonstrates a simple horizontal animation on the "box" element upon clicking, showcasing how JavaScript can manipulate CSS properties to achieve [[CSS animation]].
+
+
