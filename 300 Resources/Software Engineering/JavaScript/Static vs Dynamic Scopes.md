@@ -3,6 +3,7 @@ Type:
   - Note
 tags:
   - javascript/best-practices
+Status: In-Progress
 ---
 JavaScript Scope is determined at compiling time, this makes javascript a Static Scope, it means that variables are determined at compilation time and not at execution time.
 also known as [[lexical scopelexical scope]]

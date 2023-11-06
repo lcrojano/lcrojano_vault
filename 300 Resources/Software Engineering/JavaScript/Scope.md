@@ -3,6 +3,7 @@ Type:
   - Note
 tags:
   - javascript/best-practices
+Status: In-Progress
 ---
 
 Three types of scopes:

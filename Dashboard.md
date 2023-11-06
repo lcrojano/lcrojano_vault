@@ -46,3 +46,20 @@ FLATTEN choice(status = "done", "<s>✅" + status + "</s>", status) as status
 ```
 
 
+
+## 📕 Books task
+``` dataview
+TASK
+WHERE contains(type,"Book")
+```
+
+
+# 📄 Notes
+``` dataview
+TABLE status
+WHERE contains(type, "Note")
+FLATTEN choice(status = "New", "<b>📚" + status + "</b>", status) as status 
+FLATTEN choice(status = "In-Progress", "<i>⌛" + status + "</i>", status) as status 
+FLATTEN choice(status = "ready", "<i>🚀" + status + "</i>", status) as status 
+FLATTEN choice(status = "done", "<s>✅" + status + "</s>", status) as status
+```

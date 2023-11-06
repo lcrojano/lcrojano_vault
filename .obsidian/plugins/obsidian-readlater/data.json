@@ -1,0 +1,23 @@
+{
+  "addRibbonIcon": true,
+  "showAtStartup": true,
+  "urlAttribute": "url",
+  "readLaterFolder": "300 Resources/Read Later",
+  "pocket": {
+    "markAsRead": false,
+    "frequency": "Daily",
+    "access_token": "d3a91fed-9a79-d18d-f194-8f0828",
+    "username": "lcrojano",
+    "folder": "300 Resources/Pocket",
+    "lastSynch": 1699293684933
+  },
+  "instapaper": {
+    "markAsRead": false,
+    "frequency": "Manual|"
+  },
+  "domainsForHeadless": [
+    "medium.com",
+    "msn.com"
+  ],
+  "synchPeriodMS": 900000
+}

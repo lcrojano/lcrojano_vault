@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e869973197d2af5e",
+            "id": "d74406ffda188eb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#PARA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269
+    "width": 309.5
   },
   "right": {
     "id": "2d1ab4ea006b17c6",
@@ -145,22 +145,13 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "f607dfdc5f367107",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,26 +167,36 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "e869973197d2af5e",
+  "active": "d74406ffda188eb8",
   "lastOpenFiles": [
-    "300 Resources/Software Engineering/CSS/CSS animation.md",
-    "300 Resources/Software Engineering/CSS/Keyframe.md",
-    "300 Resources/Software Engineering/JavaScript/JavaScript Animations.md",
-    "300 Resources/Software Engineering/CSS/Transition.md",
-    "CSS animations.md",
-    "300 Resources/Software Engineering/JavaScript/Hoisting.md",
     "300 Resources/Software Engineering/JavaScript/Clean Code Javascript.md",
+    "Dashboard.md",
     "300 Resources/Software Engineering/JavaScript/Static vs Dynamic Scopes.md",
     "300 Resources/Software Engineering/JavaScript/Scope.md",
-    "300 Resources/Software Engineering/JavaScript/Drawing 2023-11-03 00.37.42.excalidraw.md",
     "300 Resources/Software Engineering/JavaScript/JavaScript Naming Best Practices.md",
-    "300 Resources/Software Engineering/JavaScript/Drawing 2023-11-03 00.37.29.excalidraw.md",
-    "300 Resources/Software Engineering/JavaScript/When to Use JavaScript for Animations.md",
-    "300 Resources/Software Engineering/Typescript/202311021128 Typescript Tips.md",
-    "_Inbox/202311021921 make backup rejean server.md",
-    "300 Resources/Software Engineering/JavaScript/Drawing 2023-11-03 00.35.39.excalidraw.md",
-    "Dashboard.md",
-    "i.md",
+    "300 Resources/Software Engineering/JavaScript/Hoisting.md",
+    "README.md",
+    "LICENSE.md",
+    "200 Areas/Blog/Microsoft Universe github.md",
+    "CSS animations.md",
+    "300 Resources/Read Later/How to Call an API in JavaScript – with Examples.md",
+    "300 Resources/Software Engineering/Angular/ESbuild.md",
+    "300 Resources/Software Engineering/Angular/VITE.md",
+    "200 Areas/Blog/Angular 17 new updates.md",
+    "300 Resources/Pocket/Copia de [Plantilla] 6 Workflows de Automatización de Marketing y Ventas .p.md",
+    "300 Resources/Pocket/Comments - 6 skills required to be a senior software engineer.md",
+    "300 Resources/Pocket/Utilizing the Geolocation Service in Angular for Precise Location Tracking .md",
+    "300 Resources/Pocket/A Guide to Choosing the Best Jamstack CMS - Builder.io.md",
+    "300 Resources/Pocket/Rewind Pendant.md",
+    "300 Resources/Pocket/How to build an indie software business with Justin Jackson.md",
+    "300 Resources/Pocket/See How Humans around the World Spend the 24 Hours in a Day - Scientific Am.md",
+    "300 Resources/Pocket/Curso de Inmersión Definitivo - Google Drive.md",
+    "300 Resources/Pocket/3D in CSS.md",
+    "300 Resources/Pocket/API World 2023   AI DevWorld 2023 Live Online  Virtual Event Bags.md",
+    "300 Resources/Pocket/Event Scheduling Software by Sched.md",
+    "300 Resources/Pocket/Angular Component Library Part 1 How to Build a Library.md",
+    "300 Resources/Read Later",
+    "300 Resources/Pocket",
     "200 Areas/Personal Development/LCROJANO BANNER3 (1).png",
     "200 Areas/Personal Development/LCROJANO BANNER3.png",
     "200 Areas/Personal Development/Banner lcrojano 2.png",
@@ -205,14 +206,6 @@
     "200 Areas/Personal Development/PROFILE LCROJANO2.png",
     "200 Areas/Personal Development/PROFILE LCROJANO.png",
     "200 Areas/Personal Development/LCROJANO BANNER.png",
-    "300 Resources/Software Engineering/Typescript/TypeScript in 50 lessons.md",
-    "300 Resources/Software Engineering/Typescript/Programming TypeScript.md",
-    "300 Resources/Software Engineering/Angular/Becoming an Angular Ninja.md",
-    "300 Resources/Software Engineering/JavaScript/Drawing 2023-11-02 09.47.52.excalidraw.md",
-    "400 Archive/Trash/WP Rocket.md",
-    "400 Archive/Trash/Untitled.md",
-    "400 Archive/Trash/Smush.md",
-    "100 Projects/1500 Hacktoberfest/Write article for DEV community.md",
     "100 Projects/1500 Hacktoberfest/hacktoberfest.png",
     "100 Projects/1500 Hacktoberfest/hacktoberfest.png.crdownload",
     "300 Resources/Software Engineering/Typescript",
@@ -222,8 +215,6 @@
     "300 Resources/Software Engineering/Angular",
     "300 Resources/Tools",
     "100 Projects/2300 Build personal blog",
-    "Untitled 1",
-    "Untitled",
     "300 Resources/Second Brain/GTD/_GTD mindmap.canvas"
   ]
 }

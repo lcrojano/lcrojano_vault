@@ -5,7 +5,7 @@ Type:
 Status: Reading
 Date Finished: 
 Pages: "156"
-Current Page: 33
+Current Page: 42
 Date Started: 2021-10-31
 ---
 >%%
@@ -614,3 +614,284 @@ Date Started: 2021-10-31
 >%%TAGS%%
 >
 ^norrtp5wc9
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-04T06:41:31.962Z","updated":"2023-11-04T06:41:31.962Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":40495,"end":40741},{"type":"TextQuoteSelector","exact":"Declaración de una funciónLa forma clásica de definir funciones en JavaScript es a través de la declaración defunciones. Esta se declara con la palabra clave function seguida del nombre de lafunción y los paréntesis. Puede tener o no parámetros. ","prefix":"to poco intuitivo en JavaScript.","suffix":"A continuación, entre llaves,ten"}]}]}
+>```
+>%%
+>*%%PREFIX%%to poco intuitivo en JavaScript.%%HIGHLIGHT%% ==Declaración de una funciónLa forma clásica de definir funciones en JavaScript es a través de la declaración defunciones. Esta se declara con la palabra clave function seguida del nombre de lafunción y los paréntesis. Puede tener o no parámetros.== %%POSTFIX%%A continuación, entre llaves,ten*
+>%%LINK%%[[#^78febpjhuae|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^78febpjhuae
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-04T06:41:52.897Z","updated":"2023-11-04T06:41:52.897Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":40987,"end":41158},{"type":"TextQuoteSelector","exact":"Expresión de una funciónUna expresión de una función tiene una sintaxis similar a la declaración de unafunción, con la salvedad de que asignamos la función a una variable:","prefix":"oSomething() //\"Doing something\"","suffix":"³¹https://es.wikipedia.org/wiki/"}]}]}
+>```
+>%%
+>*%%PREFIX%%oSomething() //"Doing something"%%HIGHLIGHT%% ==Expresión de una funciónUna expresión de una función tiene una sintaxis similar a la declaración de unafunción, con la salvedad de que asignamos la función a una variable:== %%POSTFIX%%³¹https://es.wikipedia.org/wiki/*
+>%%LINK%%[[#^7jgditkyf7y|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^7jgditkyf7y
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-04T06:42:15.006Z","updated":"2023-11-04T06:42:15.006Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":41342,"end":41530},{"type":"TextQuoteSelector","exact":"Expresiones con funciones flecha (arrowfunctions)Con la aparición de ES6, se añadió al lenguaje la sintaxis de la función flecha, unaforma de definir funciones mucho más legible y concisa.","prefix":"oSomething() //\"Doing something\"","suffix":"Expresión con funciones flecha1 "}]}]}
+>```
+>%%
+>*%%PREFIX%%oSomething() //"Doing something"%%HIGHLIGHT%% ==Expresiones con funciones flecha (arrowfunctions)Con la aparición de ES6, se añadió al lenguaje la sintaxis de la función flecha, unaforma de definir funciones mucho más legible y concisa.== %%POSTFIX%%Expresión con funciones flecha1*
+>%%LINK%%[[#^ija739s1jlg|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^ija739s1jlg
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-04T06:42:44.177Z","updated":"2023-11-04T06:42:44.177Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":41660,"end":41847},{"type":"TextQuoteSelector","exact":"Las arrow functions son ideales para declarar expresiones lambda (funciones enlínea), puesto que se reduce el ruido en la sintaxis y se mejora la expresividad eintencionalidad del código.","prefix":"ícito si no añadimos las llaves.","suffix":"Expresiones lambda1 //Sin arrows"}]}]}
+>```
+>%%
+>*%%PREFIX%%ícito si no añadimos las llaves.%%HIGHLIGHT%% ==Las arrow functions son ideales para declarar expresiones lambda (funciones enlínea), puesto que se reduce el ruido en la sintaxis y se mejora la expresividad eintencionalidad del código.== %%POSTFIX%%Expresiones lambda1 //Sin arrows*
+>%%LINK%%[[#^a6tzt4i86ba|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^a6tzt4i86ba
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-04T06:43:22.040Z","updated":"2023-11-04T06:43:22.040Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":41983,"end":42201},{"type":"TextQuoteSelector","exact":"Las arrowfunctionstambién son muy útiles a la hora de escribir funciones currifica-das. Como sabrás, una función de este tipo toma un argumento, devuelve una funciónque toma el siguiente argumento, y así sucesivamente.","prefix":"ions4 [1, 2, 3].map(n => n * 2)￿","suffix":" Con las arrow functions, estepr"}]}]}
+>```
+>%%
+>*%%PREFIX%%ions4 [1, 2, 3].map(n => n * 2)￿%%HIGHLIGHT%% ==Las arrowfunctionstambién son muy útiles a la hora de escribir funciones currifica-das. Como sabrás, una función de este tipo toma un argumento, devuelve una funciónque toma el siguiente argumento, y así sucesivamente.== %%POSTFIX%%Con las arrow functions, estepr*
+>%%LINK%%[[#^9t77le4ohq7|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^9t77le4ohq7
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-04T06:46:22.454Z","updated":"2023-11-04T06:46:22.454Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":42554,"end":42603},{"type":"TextQuoteSelector","exact":"Funcionamiento del objeto this en arrow functions","prefix":"(2);11 console.log(addTwo(5))//7","suffix":"Otra característica interesante "}]}]}
+>```
+>%%
+>*%%PREFIX%%(2);11 console.log(addTwo(5))//7%%HIGHLIGHT%% ==Funcionamiento del objeto this en arrow functions== %%POSTFIX%%Otra característica interesante*
+>%%LINK%%[[#^eg4wee7y5c|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^eg4wee7y5c
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-04T06:48:22.566Z","updated":"2023-11-04T06:48:22.566Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":43045,"end":43159},{"type":"TextQuoteSelector","exact":"En el caso de encontrarse en el ámbito local de un método, el valor de this sería elvalor del ámbito de la función","prefix":"=== window;2 isWindow(); // true","suffix":". Veamos un ejemplo:Funciones 29"}]}]}
+>```
+>%%
+>*%%PREFIX%%=== window;2 isWindow(); // true%%HIGHLIGHT%% ==En el caso de encontrarse en el ámbito local de un método, el valor de this sería elvalor del ámbito de la función== %%POSTFIX%%. Veamos un ejemplo:Funciones 29*
+>%%LINK%%[[#^xmk5rqzb08|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^xmk5rqzb08
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-04T06:48:54.373Z","updated":"2023-11-04T06:48:54.373Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":42734,"end":42862},{"type":"TextQuoteSelector","exact":"Cuando creamos una arrowfunction,su valor de this queda asociado permanentemente al valor de this de su ámbitoexterno inmediato;","prefix":"o del objeto thisen JavaScript. ","suffix":" window en el caso del ámbito gl"}]}]}
+>```
+>%%
+>*%%PREFIX%%o del objeto thisen JavaScript.%%HIGHLIGHT%% ==Cuando creamos una arrowfunction,su valor de this queda asociado permanentemente al valor de this de su ámbitoexterno inmediato;== %%POSTFIX%%window en el caso del ámbito gl*
+>%%LINK%%[[#^82qgihq5ezx|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^82qgihq5ezx
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-04T06:50:35.375Z","updated":"2023-11-04T06:50:35.375Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":44664,"end":44693},{"type":"TextQuoteSelector","exact":"Funciones autoejecutadas IIFE","prefix":"de this sevuelve imprescindible.","suffix":"Una forma de definir funciones m"}]}]}
+>```
+>%%
+>*%%PREFIX%%de this sevuelve imprescindible.%%HIGHLIGHT%% ==Funciones autoejecutadas IIFE== %%POSTFIX%%Una forma de definir funciones m*
+>%%LINK%%[[#^a7x1iq0bdpd|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^a7x1iq0bdpd
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-04T06:50:58.815Z","updated":"2023-11-04T06:50:58.815Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":44995,"end":45097},{"type":"TextQuoteSelector","exact":"Este patrón era muy utilizado para crear un ámbito de bloque antes de que seintrodujeran let y const. ","prefix":"on(){2 // ... do something3 })()","suffix":"Desde la aparición de ES6 esto n"}]}]}
+>```
+>%%
+>*%%PREFIX%%on(){2 // ... do something3 })()%%HIGHLIGHT%% ==Este patrón era muy utilizado para crear un ámbito de bloque antes de que seintrodujeran let y const.== %%POSTFIX%%Desde la aparición de ES6 esto n*
+>%%LINK%%[[#^c1uw7luqarg|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^c1uw7luqarg
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-04T06:51:34.352Z","updated":"2023-11-04T06:51:34.352Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":45511,"end":45685},{"type":"TextQuoteSelector","exact":"Los argumentos son los valores con los que llamamos a las funciones, mientras que losparámetros son las variables nombradas que reciben estos valores dentro de nuestrafunción","prefix":"enceErrorParámetros y argumentos","suffix":":Funciones 32Parámetros y argume"}]}]}
+>```
+>%%
+>*%%PREFIX%%enceErrorParámetros y argumentos%%HIGHLIGHT%% ==Los argumentos son los valores con los que llamamos a las funciones, mientras que losparámetros son las variables nombradas que reciben estos valores dentro de nuestrafunción== %%POSTFIX%%:Funciones 32Parámetros y argume*
+>%%LINK%%[[#^crnn5dodk4p|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^crnn5dodk4p
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-04T06:52:32.404Z","updated":"2023-11-04T06:52:32.404Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":45860,"end":45890},{"type":"TextQuoteSelector","exact":"Limita el número de argumentos","prefix":"l que llamamos a nuestra función","suffix":"Una recomendación importante es "}]}]}
+>```
+>%%
+>*%%PREFIX%%l que llamamos a nuestra función%%HIGHLIGHT%% ==Limita el número de argumentos== %%POSTFIX%%Una recomendación importante es*
+>%%LINK%%[[#^s0ci33y32r|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^s0ci33y32r
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-04T06:55:00.469Z","updated":"2023-11-04T06:55:00.469Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":47864,"end":48023},{"type":"TextQuoteSelector","exact":"El parámetro rest unifica los argumentos restantes en la llamada de una funcióncuando el número de argumentos excede el número de parámetros declarados enesta.","prefix":" dependiendo de dónde se emplee.","suffix":"￿En cierta manera, el parámetro "}]}]}
+>```
+>%%
+>*%%PREFIX%%dependiendo de dónde se emplee.%%HIGHLIGHT%% ==El parámetro rest unifica los argumentos restantes en la llamada de una funcióncuando el número de argumentos excede el número de parámetros declarados enesta.== %%POSTFIX%%￿En cierta manera, el parámetro*
+>%%LINK%%[[#^5jokfdpbmtb|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^5jokfdpbmtb
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-04T06:55:16.281Z","updated":"2023-11-04T06:55:16.281Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":48024,"end":48248},{"type":"TextQuoteSelector","exact":"En cierta manera, el parámetro rest actúa de forma contraria a spread (operadorpropagación en español): mientras que spread “expande” los elementos de un arrayu objeto dado, rest unifica un conjunto de elementos en un array.","prefix":"e parámetros declarados enesta.￿","suffix":"Parámetro rest1 function add(x, "}]}]}
+>```
+>%%
+>*%%PREFIX%%e parámetros declarados enesta.￿%%HIGHLIGHT%% ==En cierta manera, el parámetro rest actúa de forma contraria a spread (operadorpropagación en español): mientras que spread “expande” los elementos de un arrayu objeto dado, rest unifica un conjunto de elementos en un array.== %%POSTFIX%%Parámetro rest1 function add(x,*
+>%%LINK%%[[#^j7t1bcnfkqa|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^j7t1bcnfkqa
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-04T06:58:45.046Z","updated":"2023-11-04T06:58:45.046Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":51335,"end":51391},{"type":"TextQuoteSelector","exact":" las funciones deben haceruna única cosa y hacerla bien.","prefix":"ación, quizás la más importante:","suffix":" Otro punto fundamental para log"}]}]}
+>```
+>%%
+>*%%PREFIX%%ación, quizás la más importante:%%HIGHLIGHT%% ==las funciones deben haceruna única cosa y hacerla bien.== %%POSTFIX%%Otro punto fundamental para log*
+>%%LINK%%[[#^84x0a5nw2gw|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^84x0a5nw2gw
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-04T07:00:31.053Z","updated":"2023-11-04T07:00:31.053Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":53815,"end":54035},{"type":"TextQuoteSelector","exact":"La evidencia nos dice que las frases afirmativas suelen ser más fáciles de entenderque las negativas, por esta razón deberíamos invertir, siempre que sea posible, lascondiciones negativas para convertirlas en afirmativas","prefix":"legibilidadde los condicionales.","suffix":":Condiciones asertivas1 //Negati"}]}]}
+>```
+>%%
+>*%%PREFIX%%legibilidadde los condicionales.%%HIGHLIGHT%% ==La evidencia nos dice que las frases afirmativas suelen ser más fáciles de entenderque las negativas, por esta razón deberíamos invertir, siempre que sea posible, lascondiciones negativas para convertirlas en afirmativas== %%POSTFIX%%:Condiciones asertivas1 //Negati*
+>%%LINK%%[[#^f1hwak2rri4|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^f1hwak2rri4
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-04T07:00:40.901Z","text":"- [ ] defnir Estilo declarativo frente al imperativo\n","updated":"2023-11-04T07:00:40.901Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":54156,"end":54195},{"type":"TextQuoteSelector","exact":"Estilo declarativo frente al imperativo","prefix":"ormat){8 format()9 }Funciones 40","suffix":"Aunque JavaScript no es un lengu"}]}]}
+>```
+>%%
+>*%%PREFIX%%ormat){8 format()9 }Funciones 40%%HIGHLIGHT%% ==Estilo declarativo frente al imperativo== %%POSTFIX%%Aunque JavaScript no es un lengu*
+>%%LINK%%[[#^f988vfohate|show annotation]]
+>%%COMMENT%%
+>- [ ] defnir Estilo declarativo frente al imperativo
+>
+>%%TAGS%%
+>
+^f988vfohate
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-04T07:03:19.545Z","updated":"2023-11-04T07:03:19.545Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":55495,"end":55513},{"type":"TextQuoteSelector","exact":"Funciones anónimas","prefix":"ejemplo interactivo desde aquí³⁵","suffix":"Como vimos en la sección de los "}]}]}
+>```
+>%%
+>*%%PREFIX%%ejemplo interactivo desde aquí³⁵%%HIGHLIGHT%% ==Funciones anónimas== %%POSTFIX%%Como vimos en la sección de los*
+>%%LINK%%[[#^tsp67j5vtjh|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^tsp67j5vtjh
+
+
+>%%
+>```annotation-json
+>{"text":"- [ ] define what is tranferencia refenceial ","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":56503,"end":56528},{"type":"TextQuoteSelector","exact":"Transparencia referencial","prefix":"al ejemplo completo desde aquí³⁶","suffix":"Muchas veces nos encontramos con"}]}],"created":"2023-11-04T07:03:50.317Z","updated":"2023-11-04T07:03:50.317Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}
+>```
+>%%
+>*%%PREFIX%%al ejemplo completo desde aquí³⁶%%HIGHLIGHT%% ==Transparencia referencial== %%POSTFIX%%Muchas veces nos encontramos con*
+>%%LINK%%[[#^zoc21gixc|show annotation]]
+>%%COMMENT%%
+>- [ ] define what is tranferencia refenceial 
+>%%TAGS%%
+>
+^zoc21gixc
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-05T01:11:46.117Z","text":"- [/] definir [[Programación Funcional]]","updated":"2023-11-05T01:11:46.117Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":56817,"end":57065},{"type":"TextQuoteSelector","exact":"Se dice que una función cumple el principio de transparencia referencial si, para unvalor de entrada, produce siempre el mismo valor de salida. Este tipo de funcionestambién se conocen como funciones puras y son la base de la programación funcional","prefix":"encial sobre nuestras funciones.","suffix":".Transparencia referencial1 //ba"}]}]}
+>```
+>%%
+>*%%PREFIX%%encial sobre nuestras funciones.%%HIGHLIGHT%% ==Se dice que una función cumple el principio de transparencia referencial si, para unvalor de entrada, produce siempre el mismo valor de salida. Este tipo de funcionestambién se conocen como funciones puras y son la base de la programación funcional== %%POSTFIX%%.Transparencia referencial1 //ba*
+>%%LINK%%[[#^xd70992pkh|show annotation]]
+>%%COMMENT%%
+>- [/] definir [[Programación Funcional]]
+>%%TAGS%%
+>
+^xd70992pkh

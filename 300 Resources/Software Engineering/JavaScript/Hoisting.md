@@ -3,6 +3,7 @@ Type:
   - Note
 tags:
   - javascript/best-practices
+Status: In-Progress
 ---
 variable declarations are assigned to memory at [[compilation]] time and not at [[execution]] time.
 
