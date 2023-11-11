@@ -21,7 +21,9 @@
       "left": 0
     },
     "iconInTabsEnabled": false,
-    "iconsBackgroundCheckEnabled": false
+    "iconsBackgroundCheckEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false
   },
   "200 Areas": "RaAnvil",
   "300 Resources": "RaBook",

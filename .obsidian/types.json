@@ -7,6 +7,7 @@
     "topic": "multitext",
     "Current Page": "number",
     "Date Started": "date",
-    "Type": "multitext"
+    "Type": "multitext",
+    "Date Finished": "date"
   }
 }

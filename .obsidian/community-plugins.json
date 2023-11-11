@@ -12,5 +12,7 @@
   "table-editor-obsidian",
   "obsidian-imgur-plugin",
   "obsidian-tasks-plugin",
-  "obsidian-readlater"
+  "obsidian-readlater",
+  "obsidian-auto-link-title",
+  "highlightr-plugin"
 ]
