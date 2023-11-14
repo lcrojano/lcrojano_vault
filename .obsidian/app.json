@@ -7,7 +7,7 @@
   "showLineNumber": false,
   "showIndentGuide": true,
   "rightToLeft": false,
-  "vimMode": true,
+  "vimMode": false,
   "trashOption": "system",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./attachments"

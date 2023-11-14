@@ -1,7 +1,0 @@
-```dataview 
-LIST 
-FROM 
-#Project 
-```
-
-

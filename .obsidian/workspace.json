@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8de8775da80609bf",
+        "id": "34168c0e3a435927",
         "type": "tabs",
         "children": [
           {
-            "id": "054cdccddc381c74",
+            "id": "68dc2895fadbd718",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Notes/2023/Daily/11/2023-11-13.md",
+                "file": "1. Projects/0003 Janeth Course/03 Ideas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,7 +32,7 @@
       {
         "id": "7fea14663baf9d47",
         "type": "tabs",
-        "dimension": 31.985294117647058,
+        "dimension": 34.92647058823529,
         "children": [
           {
             "id": "2bf86a90f14ab1c3",
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#accountability",
+                "query": "tag:#projects/second-brain",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
       {
         "id": "8488bc17781ccd8e",
         "type": "tabs",
-        "dimension": 68.01470588235294,
+        "dimension": 65.07352941176471,
         "children": [
           {
             "id": "65b34e469c76e6b1",
@@ -113,6 +113,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "43e2655f6fe2fa86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Projects/0003 Janeth Course/03 Ideas.md"
+              }
+            }
+          },
+          {
             "id": "d8ebe5e3676ca224",
             "type": "leaf",
             "state": {
@@ -129,8 +139,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Notes/2023/Daily/11/2023-11-13.md",
-                "collapseAll": false,
+                "file": "1. Projects/0003 Janeth Course/03 Ideas.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -146,19 +156,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Notes/2023/Daily/11/2023-11-13.md",
+                "file": "1. Projects/0003 Janeth Course/03 Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "43e2655f6fe2fa86",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "0. Notes/2023/Daily/11/2023-11-13.md"
               }
             }
           },
@@ -170,13 +170,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 423.5,
-    "collapsed": true
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,54 +191,55 @@
       "obsidian-read-it-later:ReadItLater: Save clipboard": false
     }
   },
-  "active": "054cdccddc381c74",
+  "active": "68dc2895fadbd718",
   "lastOpenFiles": [
-    "3 Resources/Personal Development/The Strangest Secret.md",
-    "Dashboard.md",
-    "LICENSE.md",
-    "3 Resources/Daybook/Daybook.md",
-    "3 Resources/Personal Development",
-    "0. Notes/2023/Daily/11/2023-11-13.md",
-    "3 Resources/Software Engineering/JavaScript/Clean Code Javascript.md",
-    "3 Resources/Software Engineering/JavaScript/Hoisting.md",
-    "3 Resources/Software Engineering/Angular/Becoming an Angular Ninja.md",
-    "1. Projects/1200 Building a second brain/Periodic notes.md",
-    "1. Projects/1200 Building a second brain/Implementing DataView.md",
-    "1. Projects/1200 Building a second brain/How to link areas and projects PARA.md",
-    "1. Projects/1200 Building a second brain/Building a Second Brain - README.md",
-    "1. Projects/1200 Building a second brain/Build a PARA - GTD framework.md",
-    "1. Projects/1200 Building a second brain/202310252257 add collaborative space.md",
-    "1. Projects/1200 Building a second brain/202310252243 add task sync.md",
+    "1. Projects/0003 Janeth Course/00 Diplomado Virtual - README.md",
     "3 Resources/excalibrain.md",
-    "0. Notes/2023/Weekly/2023-W46.md",
-    "0. Notes/Templates/Weekly.md",
-    "0. Notes/2023/Weekly",
-    "0. Notes/Templates/Daily.md",
-    "0. Notes/2023/Daily/11",
-    "0. Notes/2023/Daily",
-    "0. Notes/2023/2023/Daily/11/2023-11-13.md",
-    "_Inbox/make backup server.md",
+    "1. Projects/0003 Janeth Course/01 Project Description.md",
+    "1. Projects/0003 Janeth Course/Brochure.md",
+    "1. Projects/0003 Janeth Course/Proprosal.md",
+    "1. Projects/0003 Janeth Course/02 Requirements.md",
+    "1. Projects/0003 Janeth Course/04 Setup.md",
+    "1. Projects/0003 Janeth Course/03 Ideas.md",
+    "1. Projects/0002 Setting up obs/Setting Up OBS.md",
+    "0. Daybook/2023/Daily/11/2023-11-13.md",
+    "0. Daybook/2023/Daily/11/2023-11-14.md",
+    "0. Daybook/2023/Weekly/2023-W46.md",
+    "Dashboard canvas.canvas",
+    "Dashboard.md",
+    "README.md",
+    "1. Projects/Projects - README.md",
+    "1. Projects/0001 Setup templates/Setup Templates.md",
+    "1. Projects/1700 WDO/price market appl.md",
+    "2. Areas/Blog/Angular 17 new updates.md",
+    "2. Areas/Accountability/Daybook/2023-1-12 Embedding a online pdf to obsidian.md",
+    "2. Areas/Accountability/Daybook/2023-1-12  large file management in git.md",
+    "2. Areas/Accountability/Daybook/000 Daybook Template.md",
+    "2. Areas/Areas - README.md",
+    "2. Areas/Blog/Software Engineering Is About Thinking.md",
+    "2. Areas/Blog/Blog - README.md",
+    "1. Projects/1200 Building a second brain/Building a Second Brain - README.md",
+    "1. Projects/1200 Building a second brain/202310252257 add collaborative space.md",
+    "_Inbox/Read Later/assets/LifeOS-%E7%A4%BA%E4%BE%8B-%E6%A0%87%E6%B3%A8-EN.png",
+    "_Inbox/Read Later/assets/LifeOS-%E7%A4%BA%E4%BE%8B3-EN.png",
+    "_Inbox/Read Later/assets/LifeOS-%E7%A4%BA%E4%BE%8B4-EN.png",
+    "_Inbox/Read Later/assets/LifeOS-%E7%A4%BA%E4%BE%8B2-EN.png",
+    "_Inbox/Read Later/assets/%E7%A6%8F%E6%A0%BC%E8%A1%8C%E4%B8%BA%E6%A8%A1%E5%9E%8B-EN.png",
+    "_Inbox/Read Later/assets/LifeOS-%E7%A4%BA%E4%BE%8B-EN.png",
+    "_Inbox/Read Later/assets/%E7%AC%AC%E4%BA%8C%E5%A4%A7%E8%84%91%E7%B3%BB%E7%BB%9F%E5%9B%BE-%E8%BF%9E%E6%8E%A5-EN.png",
+    "_Inbox/Read Later/assets/%E7%AC%AC%E4%BA%8C%E5%A4%A7%E8%84%91%E7%B3%BB%E7%BB%9F%E5%9B%BE-EN.png",
+    "3 Resources/Personal Development",
+    "0. Daybook/2023/Weekly",
+    "0. Daybook/2023/Daily/11",
+    "0. Daybook/2023/Daily",
     "0. Notes/2023/2023/Daily/11",
     "0. Notes/2023/2023/Daily",
     "0. Notes/2023/2023",
-    "0. Notes/2023",
-    "0. Notes/Templates",
-    "0. Notes",
-    "1. Projects/3000 Hacktoberfest/150 Alice in Wonderland/Characters/Alice.md",
-    "1. Projects/Implement a dashboard.md",
-    "1. Projects/Projects.md",
-    "1. Projects/0003 Janeth Course/Description.md",
-    "1. Projects/0003 Janeth Course/Janeth Course.md",
+    "0. Daybook/2023",
+    "0. Daybook/Templates",
+    "0. Daybook",
     "2. Areas/Personal Development/PROFILE LCROJANO4.png",
     "2. Areas/Personal Development/PROFILE LCROJANO3.png",
-    "2. Areas/Personal Development/PROFILE LCROJANO2.png",
-    "2. Areas/Personal Development/PROFILE LCROJANO.png",
-    "2. Areas/Personal Development/LCROJANO BANNER3.png",
-    "2. Areas/Personal Development/Banner lcrojano 2.png",
-    "2. Areas/Personal Development/LCROJANO BANNER.png",
-    "1. Projects/Lobstr -ignore/VANGUARD.png",
-    "1. Projects/Lobstr -ignore/dinar.png",
-    "1. Projects/Lobstr -ignore/descarga (1).png",
     "3 Resources/Second Brain/GTD/_GTD mindmap.canvas"
   ]
 }

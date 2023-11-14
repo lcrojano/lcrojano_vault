@@ -4,8 +4,8 @@ Type:
 Short Description: Setup OBs to record Courses and streaming
 ---
 ## Task
-- [ ] Learn about obs basic📅 2023-11-13 
-- [ ] Meet Janeth 📅 2023-11-14 🔼 @5 pm
+- [x] Learn about obs basic 📅 2023-11-13 ✅ 2023-11-14
+- [ ] Setup Different  Scenes
 
 ## Resources
 

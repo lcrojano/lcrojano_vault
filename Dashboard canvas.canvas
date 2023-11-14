@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"a59a61ef3f3ff77c","type":"file","file":"1. Projects/Projects - README.md","x":-340,"y":-300,"width":400,"height":400,"color":"6"},
+		{"id":"858e211659b34165","type":"file","file":"2. Areas/Areas - README.md","x":60,"y":-300,"width":400,"height":400,"color":"#462d6c"}
+	],
+	"edges":[]
+}

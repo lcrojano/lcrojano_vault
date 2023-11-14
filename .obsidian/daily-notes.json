@@ -1,5 +1,5 @@
 {
   "format": "YYYY/[Daily]/MM/YYYY-MM-DD",
-  "folder": "0. Notes",
-  "template": "0. Notes/Templates/Daily"
+  "folder": "0. Daybook",
+  "template": "0. Daybook/Templates/Daily"
 }

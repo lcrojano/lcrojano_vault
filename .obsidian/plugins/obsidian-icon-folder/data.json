@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarCalendar",
       "FarCompass",
       "RaDeadTree",
       "RaBook",
-      "RaBullets",
-      "RaCrossedAxes"
+      "RaBullets"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -32,5 +32,6 @@
     "inheritanceIcon": "RaAnvil"
   },
   "4. Archive": "RaDeadTree",
-  "2. Areas": "FarCompass"
+  "2. Areas": "FarCompass",
+  "0. Daybook": "FarCalendar"
 }
