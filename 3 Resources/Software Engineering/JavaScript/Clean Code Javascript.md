@@ -892,6 +892,6 @@ Date Started: 2021-10-31
 >%%LINK%%[[#^xd70992pkh|show annotation]]
 >%%COMMENT%%
 >- [ ] definir [[Programación Funcional]]
->	>%%TAGS%%
+>%%TAGS%%
 >
 ^xd70992pkh
