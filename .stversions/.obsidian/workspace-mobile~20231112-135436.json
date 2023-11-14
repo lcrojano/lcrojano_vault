@@ -11,12 +11,9 @@
             "id": "714d5618f6a44607",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "_Inbox/How Creating Content as a Developer Changed My Life.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "100 Projects/1400 Robottel e-commerce/🗒️ Robottel Kanban.md"
               }
             }
           },
@@ -110,7 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_Inbox/How Creating Content as a Developer Changed My Life.md",
+            "file": "100 Projects/1400 Robottel e-commerce/🗒️ Robottel Kanban.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_Inbox/How Creating Content as a Developer Changed My Life.md",
+            "file": "100 Projects/1400 Robottel e-commerce/🗒️ Robottel Kanban.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_Inbox/How Creating Content as a Developer Changed My Life.md"
+            "file": "100 Projects/1400 Robottel e-commerce/🗒️ Robottel Kanban.md"
           }
         }
       }
@@ -161,12 +158,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "714d5618f6a44607",
+  "active": "608281f1ead9827d",
   "lastOpenFiles": [
-    "100 Projects/1400 Robottel e-commerce/Building Robottel e-commerce.md",
-    "Dashboard.md",
-    "Git Large File Storage  Git Large File Storage (LFS) replaces large files such as audio samples, videos, datasets, and graphics with text pointers inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise..md",
-    "100 Projects/1400 Robottel e-commerce/🗒️ Robottel Kanban.md",
     "_Inbox/_Task.md",
     "100 Projects/1400 Robottel e-commerce/Robottel Guidelines.md",
     "_Inbox/Applying the Onion Architecture to Angular Projects.md",
@@ -174,6 +167,7 @@
     "100 Projects/1500 Hacktoberfest/150 Alice in Wonderland/Alice In Wonderland - Game idea.md",
     "300 Resources/Software Engineering/Game Development/Text-based game.md",
     "300 Resources/Software Engineering/JavaScript/Clean Code Javascript.md",
+    "Dashboard.md",
     "Untitled.md",
     "100 Projects/1300 Installing Obsidian/How to link areas and projects PARA.md",
     "100 Projects/1900 GitPod/Setting up Git Pod.md",
@@ -189,9 +183,12 @@
     "100 Projects/1500 Hacktoberfest/attachments/planted tree cert.png",
     "100 Projects/1500 Hacktoberfest/150 Alice in Wonderland/Red Queen's Castle.md",
     "100 Projects/1500 Hacktoberfest/150 Alice in Wonderland/TODO all.md",
+    "100 Projects/1400 Robottel e-commerce/🗒️ Robottel Kanban.md",
     "100 Projects/1900 GitPod/GitPod.md",
     "100 Projects/1500 Hacktoberfest/150 Alice in Wonderland/Resources.md",
     "100 Projects/1500 Hacktoberfest/180 Daily.dev/attachments/Pasted image 20231017202107.png",
+    "100 Projects/1200 Building a second brain/Resources.md",
+    "300 Resources/CSS/CSS animation.md",
     "100 Projects/1500 Hacktoberfest/attachments/Captura de pantalla 2023-10-20 162926.png",
     "100 Projects/1500 Hacktoberfest/180 Daily.dev/attachments/Pasted image 20231017202217.png",
     "100 Projects/1500 Hacktoberfest/attachments/planted tree.png",

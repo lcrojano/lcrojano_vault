@@ -11,3 +11,4 @@
 - [ ] **Feature: Enhanced Search Filters**: **Description:** Improve the search filter options to include advanced filters like color, size, and date. Advanced search filters enhance the accuracy of search results and provide users with more control over their searches.
 - [ ] create book shared with Marie
 - [ ] Recover which knowledge is not enough saving in taking notes app page 50 para
+

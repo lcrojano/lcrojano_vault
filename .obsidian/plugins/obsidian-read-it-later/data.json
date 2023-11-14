@@ -1,6 +1,6 @@
 {
-  "inboxDir": "_Inbox",
-  "assetsDir": "_Inbox/assets",
+  "inboxDir": "_Inbox/Read Later",
+  "assetsDir": "_Inbox/Read Later/assets",
   "openNewNote": true,
   "youtubeNoteTitle": "Youtube - %title%",
   "youtubeNote": "[[ReadItLater]] [[Youtube]]\n\n# [%videoTitle%](%videoURL%)\n\n%videoPlayer%",
