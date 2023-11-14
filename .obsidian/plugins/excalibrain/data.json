@@ -261,7 +261,6 @@
     "1. Projects/0003 Janeth Course/Requirements.md",
     "1. Projects/0003 Janeth Course/Ideas.md",
     "1. Projects/0002 Setting up obs/Setting Up OBS.md",
-    "1. Projects/0003 Janeth Course/03 Ideas.md",
     "04 Setup.md",
     "1. Projects/0003 Janeth Course/04 Setup.md",
     "1. Projects/0003 Janeth Course/02 Requirements.md",
@@ -271,7 +270,8 @@
     "1. Projects/0003 Janeth Course/Proprosal.md",
     "1. Projects/0003 Janeth Course/Brochure.md",
     "1. Projects/0003 Janeth Course/01 Project Description.md",
-    "1. Projects/0003 Janeth Course/00 Diplomado Virtual - README.md"
+    "1. Projects/0003 Janeth Course/00 Diplomado Virtual - README.md",
+    "1. Projects/0003 Janeth Course/03 Ideas.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",

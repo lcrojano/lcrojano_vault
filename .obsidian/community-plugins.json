@@ -17,5 +17,7 @@
   "highlightr-plugin",
   "obsidian-read-it-later",
   "excalibrain",
-  "calendar"
+  "calendar",
+  "templater-obsidian",
+  "quickadd"
 ]

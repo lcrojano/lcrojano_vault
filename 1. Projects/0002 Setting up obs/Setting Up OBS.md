@@ -2,6 +2,9 @@
 Type:
   - Project
 Short Description: Setup OBs to record Courses and streaming
+tags:
+  - projects/janeth-course
+Related Projects:
 ---
 ## Task
 - [x] Learn about obs basic 📅 2023-11-13 ✅ 2023-11-14

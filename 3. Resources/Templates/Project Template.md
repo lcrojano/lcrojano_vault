@@ -1,11 +1,15 @@
 ---
 Type:
   - Project
-Short Description: Setup templates for data types
-tags:
-  - projects/template-system
+tags: 
+Status: 🟡 New
+Short Description:
 ---
+{{currentFolder}}
+## Tasks
+- [ ] Put task for {{ title }} here
 
+---
 ### Reviews
 ``` dataview
 LIST item.text
@@ -15,7 +19,16 @@ WHERE contains(item.tags, this.file.tags[0])
 
 ```
 
-## Resources
+
+### Related Projects
+
+``` dataview
+LIST 
+FROM "1. Projects"
+WHERE contains(file.tags,this.file.tags[0])
+```
+
+### Resources
 ``` dataview
 LIST 
 FROM "3. Resources"

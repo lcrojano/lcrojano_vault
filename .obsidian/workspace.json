@@ -4,23 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "34168c0e3a435927",
+        "id": "052454d60d5e2c73",
         "type": "tabs",
         "children": [
           {
-            "id": "68dc2895fadbd718",
+            "id": "8e864d38fc4ce291",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "423737acf0dc1c28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/0003 Janeth Course/03 Ideas.md",
+                "file": "1. Projects/0004 Backup REDG SERVER/🚀 Backup REDG server.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#projects/second-brain",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,22 +102,6 @@
     "type": "split",
     "children": [
       {
-        "id": "198d393993bb2928",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ee4a87fb924f07b1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "3 Resources/excalibrain.md"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "20edc07e74a6e79b",
         "type": "tabs",
         "children": [
@@ -118,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/0003 Janeth Course/03 Ideas.md"
+                "file": "1. Projects/0004 Backup REDG SERVER/🚀 Backup REDG server.md"
               }
             }
           },
@@ -139,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/0003 Janeth Course/03 Ideas.md",
+                "file": "1. Projects/0004 Backup REDG SERVER/🚀 Backup REDG server.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/0003 Janeth Course/03 Ideas.md",
+                "file": "1. Projects/0004 Backup REDG SERVER/🚀 Backup REDG server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,61 +167,66 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 309.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "zk-prefixer:Create new unique note": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-projects:Open projects": false,
-      "obsidian-read-it-later:ReadItLater: Save clipboard": false
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "68dc2895fadbd718",
+  "active": "423737acf0dc1c28",
   "lastOpenFiles": [
-    "1. Projects/0003 Janeth Course/00 Diplomado Virtual - README.md",
-    "3 Resources/excalibrain.md",
-    "1. Projects/0003 Janeth Course/01 Project Description.md",
-    "1. Projects/0003 Janeth Course/Brochure.md",
-    "1. Projects/0003 Janeth Course/Proprosal.md",
-    "1. Projects/0003 Janeth Course/02 Requirements.md",
-    "1. Projects/0003 Janeth Course/04 Setup.md",
-    "1. Projects/0003 Janeth Course/03 Ideas.md",
-    "1. Projects/0002 Setting up obs/Setting Up OBS.md",
-    "0. Daybook/2023/Daily/11/2023-11-13.md",
-    "0. Daybook/2023/Daily/11/2023-11-14.md",
-    "0. Daybook/2023/Weekly/2023-W46.md",
-    "Dashboard canvas.canvas",
-    "Dashboard.md",
-    "README.md",
-    "1. Projects/Projects - README.md",
+    "1. Projects/1100 Build MAG Website/🚀 Building Marie Wbsite.md",
+    "1. Projects/1100 Build MAG Website/🚀 tes.md",
+    "1. Projects/1100 Build MAG Website/🚀 ss.md",
+    "1. Projects/1100 Build MAG Website/🚀 1.md",
+    "1. Projects/1100 Build MAG Website/🚀 .md",
+    "1. Projects/1100 Build MAG Website/🚀.md",
+    "1. Projects/1100 Build MAG Website/Untitled.md",
+    "3. Resources/Templates/Project Template.md",
+    "1. Projects/1100 Build MAG Website/landing page of MAG.md",
+    "🚀.md",
+    "1. Projects/0004 Backup REDG SERVER/🚀 Backup REDG server.md",
     "1. Projects/0001 Setup templates/Setup Templates.md",
-    "1. Projects/1700 WDO/price market appl.md",
-    "2. Areas/Blog/Angular 17 new updates.md",
-    "2. Areas/Accountability/Daybook/2023-1-12 Embedding a online pdf to obsidian.md",
-    "2. Areas/Accountability/Daybook/2023-1-12  large file management in git.md",
-    "2. Areas/Accountability/Daybook/000 Daybook Template.md",
-    "2. Areas/Areas - README.md",
-    "2. Areas/Blog/Software Engineering Is About Thinking.md",
-    "2. Areas/Blog/Blog - README.md",
-    "1. Projects/1200 Building a second brain/Building a Second Brain - README.md",
-    "1. Projects/1200 Building a second brain/202310252257 add collaborative space.md",
+    "1. Projects/0003 Janeth Course/00 Diplomado Virtual - README.md",
+    "0. Daybook/2023/Daily/11/2023-11-14.md",
+    "1. Projects/Projects - README.md",
+    "1. Projects/TASK backlog.md",
+    "1. Projects/0004 Backup REDG SERVER",
+    "1. Projects/Implement a dashboard.md",
+    "1. Projects/0002 Setting up obs/Setting Up OBS.md",
+    "3. Resources/Second Brain/PARA/The three habits most important to your Second Brain.md",
+    "3. Resources/Second Brain/PARA/books/building-a-second-brain-a-proven-method-to-organize-your-digital-life-and-unlock-your-creative-potential.md",
+    "1. Projects/0003 Janeth Course/03 Ideas.md",
+    "3. Resources/excalibrain.md",
+    "1. Projects/1200 Building a second brain/Periodic notes.md",
+    "3. Resources/Second Brain/Notes Taking/Notes Taking App.md",
+    "3. Resources/Pocket/3D in CSS.md",
+    "3. Resources/Pocket/Angular Component Library Part 1 How to Build a Library.md",
+    "_Inbox/Read Later/assets/a5e15751eceacbf5fee44db71a2c5436a05ca848.gif",
+    "_Inbox/Read Later/assets/9f67ba8d4add0bdaf1ae0c5a098207da958de3a2.gif",
+    "_Inbox/Read Later/assets/image-4.png",
+    "_Inbox/Read Later/assets/image-3.png",
+    "_Inbox/Read Later/assets/teclado-60.jpg",
+    "_Inbox/Read Later/assets/image-2.png",
+    "_Inbox/Read Later/assets/image-1.png",
+    "_Inbox/Read Later/assets/image.png",
+    "_Inbox/Read Later/assets/giphy.gif",
+    "Dashboard canvas.canvas",
     "_Inbox/Read Later/assets/LifeOS-%E7%A4%BA%E4%BE%8B-%E6%A0%87%E6%B3%A8-EN.png",
-    "_Inbox/Read Later/assets/LifeOS-%E7%A4%BA%E4%BE%8B3-EN.png",
-    "_Inbox/Read Later/assets/LifeOS-%E7%A4%BA%E4%BE%8B4-EN.png",
-    "_Inbox/Read Later/assets/LifeOS-%E7%A4%BA%E4%BE%8B2-EN.png",
-    "_Inbox/Read Later/assets/%E7%A6%8F%E6%A0%BC%E8%A1%8C%E4%B8%BA%E6%A8%A1%E5%9E%8B-EN.png",
-    "_Inbox/Read Later/assets/LifeOS-%E7%A4%BA%E4%BE%8B-EN.png",
-    "_Inbox/Read Later/assets/%E7%AC%AC%E4%BA%8C%E5%A4%A7%E8%84%91%E7%B3%BB%E7%BB%9F%E5%9B%BE-%E8%BF%9E%E6%8E%A5-EN.png",
-    "_Inbox/Read Later/assets/%E7%AC%AC%E4%BA%8C%E5%A4%A7%E8%84%91%E7%B3%BB%E7%BB%9F%E5%9B%BE-EN.png",
-    "3 Resources/Personal Development",
+    "3. Resources/Personal Development",
     "0. Daybook/2023/Weekly",
     "0. Daybook/2023/Daily/11",
     "0. Daybook/2023/Daily",
@@ -237,9 +235,6 @@
     "0. Notes/2023/2023",
     "0. Daybook/2023",
     "0. Daybook/Templates",
-    "0. Daybook",
-    "2. Areas/Personal Development/PROFILE LCROJANO4.png",
-    "2. Areas/Personal Development/PROFILE LCROJANO3.png",
-    "3 Resources/Second Brain/GTD/_GTD mindmap.canvas"
+    "3. Resources/Second Brain/GTD/_GTD mindmap.canvas"
   ]
 }
