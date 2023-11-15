@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "149a364e2030b072",
+        "id": "e4a8f8f76c796fe6",
         "type": "tabs",
         "children": [
           {
-            "id": "7918f820182ef99e",
+            "id": "f11cbb28a2bcebee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Daybook/2023/Daily/11/2023-11-14.md",
+                "file": "0. Daybook/Habit Tracker.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:areas/learning",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "8488bc17781ccd8e",
@@ -96,14 +95,18 @@
       {
         "id": "20edc07e74a6e79b",
         "type": "tabs",
+        "dimension": 75.49019607843137,
         "children": [
           {
-            "id": "43e2655f6fe2fa86",
+            "id": "9fd400cb9a7dc17d",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "markdown",
               "state": {
-                "file": "0. Daybook/2023/Daily/11/2023-11-14.md"
+                "file": "0. Daybook/Habit Tracker.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -124,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Daybook/2023/Daily/11/2023-11-14.md",
+                "file": "0. Daybook/Habit Tracker.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Daybook/2023/Daily/11/2023-11-14.md",
+                "file": "0. Daybook/Habit Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,13 +158,28 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "a34bfd7309944f75",
+        "type": "tabs",
+        "dimension": 24.50980392156863,
+        "children": [
+          {
+            "id": "43e2655f6fe2fa86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0. Daybook/Habit Tracker.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 397.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,16 +191,21 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "zk-prefixer:Create new unique note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-projects:Open projects": false,
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
-      "templater-obsidian:Templater": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7918f820182ef99e",
+  "active": "f11cbb28a2bcebee",
   "lastOpenFiles": [
-    "2. Areas/Learning/Angular.md",
     "0. Daybook/2023/Daily/11/2023-11-14.md",
+    "0. Daybook/Habit Tracker.md",
+    "0. Daybook/2023/Daily/11/2023-11-15.md",
+    "0. Daybook/Templates/Weekly.md",
+    "0. Daybook/Templates/Daily.md",
+    "3. Resources/Software Engineering/Angular/VITE.md",
+    "3. Resources/Pocket/How to Implement Login and Role-Based Authorization with JWT in Angular.md",
+    "2. Areas/Learning/Angular.md",
     "1. Projects/0001 Setup templates/Setup Templates.md",
     "3. Resources/Software Engineering/Angular/SoloLearn/Angular + Sololearn - Learning Angular with Juan Núñez from Sololearn.md",
     "3. Resources/Software Engineering/Angular/Angular.dev/What is Angular.md",
@@ -206,12 +229,6 @@
     "1. Projects/1100 Build MAG Website/🚀 tes.md",
     "1. Projects/1100 Build MAG Website/🚀 ss.md",
     "1. Projects/1100 Build MAG Website/🚀 1.md",
-    "1. Projects/1100 Build MAG Website/🚀 .md",
-    "1. Projects/1100 Build MAG Website/🚀.md",
-    "1. Projects/1100 Build MAG Website/Untitled.md",
-    "3. Resources/Templates/Project Template.md",
-    "1. Projects/1100 Build MAG Website/landing page of MAG.md",
-    "🚀.md",
     "1. Projects/0004 Backup REDG SERVER",
     "_Inbox/Read Later/assets/a5e15751eceacbf5fee44db71a2c5436a05ca848.gif",
     "_Inbox/Read Later/assets/9f67ba8d4add0bdaf1ae0c5a098207da958de3a2.gif",

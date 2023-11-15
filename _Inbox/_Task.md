@@ -1,9 +1,9 @@
 - [x] Create tutorial about [[Creating ssh key in windows.]]
-- [ ] [[Robottel Guidelines| Robottel E-commerce ]] #Project 
-- [ ] Marie Anne Grace website #Project 
-- [ ] portafolio #Project 
-- [ ] [[Implement a dashboard]] #Project 
-- [ ] Implement a warning for delayed task for [[Build a PARA - GTD framework]] #Project
+- [ ] [[Robottel Guidelines| Robottel E-commerce ]] #projects 
+- [ ] Marie Anne Grace website #projects 
+- [ ] portafolio #projects 
+- [ ] [[Implement a dashboard]] #projects 
+- [ ] Implement a warning for delayed task for [[Build a PARA - GTD framework]] #projects
 - [x] Read 40 page of 
 - [x] write in computer science at linkind [What software testing tools do you recommend? (linkedin.com)](https://www.linkedin.com/advice/3/what-software-testing-tools-do-you-recommend?contributionUrn=urn%3Ali%3Acomment%3A%28articleSegment%3A%28urn%3Ali%3AlinkedInArticle%3A7112147632092794880%2C7112147633900527616%29%2C7118650456276393984%29) 
 ## tomorrow

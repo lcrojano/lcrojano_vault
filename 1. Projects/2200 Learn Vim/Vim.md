@@ -1,4 +1,4 @@
-#Project #resource 
+#projects #resource 
 - [ ] done
 - **Vim (Vi IMproved)** is a highly configurable and powerful text editor, widely used by programmers and system administrators for its efficiency and extensibility.
 - Notable versions include Vim 7 (introduced scriptable plugins and syntax highlighting), Vim 8 (brought asynchronous plugin support and more), and subsequent versions.

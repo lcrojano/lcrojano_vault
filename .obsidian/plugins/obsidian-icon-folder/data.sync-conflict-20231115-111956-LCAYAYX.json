@@ -1,0 +1,37 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FarCalendar",
+      "FarCompass",
+      "RaDeadTree",
+      "RaBook",
+      "RaBullets"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false
+  },
+  "1. Projects": "RaCrossedAxes",
+  "2. Areas": "FarCompass",
+  "0. Daybook": "FarCalendar",
+  "3. Resources": "RaBook",
+  "3. Resources/Software Engineering/JavaScript/Clean Code Javascript.md": {
+    "iconName": null,
+    "inheritanceIcon": "RaAnvil"
+  },
+  "4. Archive": "RaDeadTree"
+}

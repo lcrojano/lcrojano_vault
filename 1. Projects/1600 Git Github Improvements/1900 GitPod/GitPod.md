@@ -1,4 +1,4 @@
-#resource #Project 
+#resource #projects 
 
 - [ ] Done?
 - [[GitPod]] is a cloud-based development environment that allows you to start coding in seconds.

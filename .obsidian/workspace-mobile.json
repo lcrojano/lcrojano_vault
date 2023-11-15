@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Inbox/How Creating Content as a Developer Changed My Life.md",
+                "file": "0. Daybook/2023/Daily/11/2023-11-14.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_Inbox/How Creating Content as a Developer Changed My Life.md",
+            "file": "0. Daybook/2023/Daily/11/2023-11-14.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_Inbox/How Creating Content as a Developer Changed My Life.md",
+            "file": "0. Daybook/2023/Daily/11/2023-11-14.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,8 +139,16 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_Inbox/How Creating Content as a Developer Changed My Life.md"
+            "file": "0. Daybook/2023/Daily/11/2023-11-14.md"
           }
+        }
+      },
+      {
+        "id": "4a7b317d05ecf861",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
         }
       }
     ],
@@ -163,8 +171,13 @@
   },
   "active": "714d5618f6a44607",
   "lastOpenFiles": [
-    "100 Projects/1400 Robottel e-commerce/Building Robottel e-commerce.md",
+    "1. Projects/0003 Janeth Course/00 Diplomado Virtual - README.md",
+    "1. Projects/0001 Setup templates/Setup Templates.md",
     "Dashboard.md",
+    "1. Projects/0003 Janeth Course/02 Requirements.md",
+    "0. Daybook/2023/Daily/11/2023-11-13.md",
+    "0. Daybook/Templates/Daily.md",
+    "100 Projects/1400 Robottel e-commerce/Building Robottel e-commerce.md",
     "Git Large File Storage  Git Large File Storage (LFS) replaces large files such as audio samples, videos, datasets, and graphics with text pointers inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise..md",
     "100 Projects/1400 Robottel e-commerce/🗒️ Robottel Kanban.md",
     "_Inbox/_Task.md",
@@ -185,12 +198,7 @@
     "100 Projects/1500 Hacktoberfest/180 Daily.dev/attachments/Pasted image 20231017202043.png",
     "100 Projects/1500 Hacktoberfest/150 Alice in Wonderland/Settings/Wonderland.md",
     "300 Resources/CSS/Keyframe.md",
-    "100 Projects/1500 Hacktoberfest/150 Alice in Wonderland/Game Logic/Gameplay mechanics.md",
     "100 Projects/1500 Hacktoberfest/attachments/planted tree cert.png",
-    "100 Projects/1500 Hacktoberfest/150 Alice in Wonderland/Red Queen's Castle.md",
-    "100 Projects/1500 Hacktoberfest/150 Alice in Wonderland/TODO all.md",
-    "100 Projects/1900 GitPod/GitPod.md",
-    "100 Projects/1500 Hacktoberfest/150 Alice in Wonderland/Resources.md",
     "100 Projects/1500 Hacktoberfest/180 Daily.dev/attachments/Pasted image 20231017202107.png",
     "100 Projects/1500 Hacktoberfest/attachments/Captura de pantalla 2023-10-20 162926.png",
     "100 Projects/1500 Hacktoberfest/180 Daily.dev/attachments/Pasted image 20231017202217.png",
