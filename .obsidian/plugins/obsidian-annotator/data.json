@@ -8,7 +8,7 @@
   "debugLogging": false,
   "customDefaultPath": "",
   "epubSettings": {
-    "readingMode": "scroll",
+    "readingMode": "pagination",
     "fontSize": 100
   },
   "annotationMarkdownSettings": {
@@ -17,5 +17,5 @@
     "highlightHighlightedText": true,
     "includePostfix": true
   },
-  "annotateTvUrl": ""
+  "annotateTvUrl": "yecf2tw3MfpIOWFRzyMLreNwlXJh4vEC6ECsXEtDnHs3l76c4l"
 }

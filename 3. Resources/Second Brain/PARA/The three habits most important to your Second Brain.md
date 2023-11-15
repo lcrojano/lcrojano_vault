@@ -1,4 +1,4 @@
-[[building-a-second-brain-a-proven-method-to-organize-your-digital-life-and-unlock-your-creative-potential#^gsf3ogetqat|The three habits most important to your Second Brain]]
+[[Building a second brain - a proven method to organize your digital life and unlock your creative potential#^gsf3ogetqat|The three habits most important to your Second Brain]]
 
 The three habits most important to your  Second Brain include:  
 

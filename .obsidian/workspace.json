@@ -4,32 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "052454d60d5e2c73",
+        "id": "149a364e2030b072",
         "type": "tabs",
         "children": [
           {
-            "id": "8e864d38fc4ce291",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "423737acf0dc1c28",
+            "id": "7918f820182ef99e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/0004 Backup REDG SERVER/🚀 Backup REDG server.md",
+                "file": "0. Daybook/2023/Daily/11/2023-11-14.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -65,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:areas/learning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "8488bc17781ccd8e",
@@ -111,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/0004 Backup REDG SERVER/🚀 Backup REDG server.md"
+                "file": "0. Daybook/2023/Daily/11/2023-11-14.md"
               }
             }
           },
@@ -132,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/0004 Backup REDG SERVER/🚀 Backup REDG server.md",
+                "file": "0. Daybook/2023/Daily/11/2023-11-14.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/0004 Backup REDG SERVER/🚀 Backup REDG server.md",
+                "file": "0. Daybook/2023/Daily/11/2023-11-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +155,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -186,8 +179,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "423737acf0dc1c28",
+  "active": "7918f820182ef99e",
   "lastOpenFiles": [
+    "2. Areas/Learning/Angular.md",
+    "0. Daybook/2023/Daily/11/2023-11-14.md",
+    "1. Projects/0001 Setup templates/Setup Templates.md",
+    "3. Resources/Software Engineering/Angular/SoloLearn/Angular + Sololearn - Learning Angular with Juan Núñez from Sololearn.md",
+    "3. Resources/Software Engineering/Angular/Angular.dev/What is Angular.md",
+    "3. Resources/Software Engineering/Angular/SoloLearn",
+    "3. Resources/Software Engineering/Angular/Angular.dev",
+    "Dashboard.md",
+    "3. Resources/Software Engineering/Angular/Becoming an Angular Ninja.md",
+    "Dashboard canvas.canvas",
+    "3. Resources/Second Brain/PARA/books/Building a second brain - a proven method to organize your digital life and unlock your creative potential.md",
+    "3. Resources/Second Brain/PARA/books/Building a Second Brain Bonus.md",
+    "3. Resources/Second Brain/PARA/000 What is para method.md",
+    "3. Resources/Second Brain/PARA/001 CODE.md",
+    "3. Resources/Startup/Impact Map.md",
+    "2. Areas/Personal Development/Dashboard for Personal Development.md",
+    "3. Resources/Startup/Untitled",
+    "3. Resources/Startup",
+    "1. Projects/0002 Setting up obs/Setting Up OBS.md",
+    "1. Projects/0003 Janeth Course/00 Diplomado Virtual - README.md",
+    "1. Projects/0004 Backup REDG SERVER/🚀 Backup REDG server.md",
     "1. Projects/1100 Build MAG Website/🚀 Building Marie Wbsite.md",
     "1. Projects/1100 Build MAG Website/🚀 tes.md",
     "1. Projects/1100 Build MAG Website/🚀 ss.md",
@@ -198,23 +212,7 @@
     "3. Resources/Templates/Project Template.md",
     "1. Projects/1100 Build MAG Website/landing page of MAG.md",
     "🚀.md",
-    "1. Projects/0004 Backup REDG SERVER/🚀 Backup REDG server.md",
-    "1. Projects/0001 Setup templates/Setup Templates.md",
-    "1. Projects/0003 Janeth Course/00 Diplomado Virtual - README.md",
-    "0. Daybook/2023/Daily/11/2023-11-14.md",
-    "1. Projects/Projects - README.md",
-    "1. Projects/TASK backlog.md",
     "1. Projects/0004 Backup REDG SERVER",
-    "1. Projects/Implement a dashboard.md",
-    "1. Projects/0002 Setting up obs/Setting Up OBS.md",
-    "3. Resources/Second Brain/PARA/The three habits most important to your Second Brain.md",
-    "3. Resources/Second Brain/PARA/books/building-a-second-brain-a-proven-method-to-organize-your-digital-life-and-unlock-your-creative-potential.md",
-    "1. Projects/0003 Janeth Course/03 Ideas.md",
-    "3. Resources/excalibrain.md",
-    "1. Projects/1200 Building a second brain/Periodic notes.md",
-    "3. Resources/Second Brain/Notes Taking/Notes Taking App.md",
-    "3. Resources/Pocket/3D in CSS.md",
-    "3. Resources/Pocket/Angular Component Library Part 1 How to Build a Library.md",
     "_Inbox/Read Later/assets/a5e15751eceacbf5fee44db71a2c5436a05ca848.gif",
     "_Inbox/Read Later/assets/9f67ba8d4add0bdaf1ae0c5a098207da958de3a2.gif",
     "_Inbox/Read Later/assets/image-4.png",
@@ -224,17 +222,12 @@
     "_Inbox/Read Later/assets/image-1.png",
     "_Inbox/Read Later/assets/image.png",
     "_Inbox/Read Later/assets/giphy.gif",
-    "Dashboard canvas.canvas",
     "_Inbox/Read Later/assets/LifeOS-%E7%A4%BA%E4%BE%8B-%E6%A0%87%E6%B3%A8-EN.png",
     "3. Resources/Personal Development",
     "0. Daybook/2023/Weekly",
     "0. Daybook/2023/Daily/11",
     "0. Daybook/2023/Daily",
     "0. Notes/2023/2023/Daily/11",
-    "0. Notes/2023/2023/Daily",
-    "0. Notes/2023/2023",
-    "0. Daybook/2023",
-    "0. Daybook/Templates",
     "3. Resources/Second Brain/GTD/_GTD mindmap.canvas"
   ]
 }

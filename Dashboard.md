@@ -3,18 +3,18 @@
 ### 📖 Reading now
 
 ``` dataview 
-TABLE pages, current-page, date-started, status
+TABLE pages, current-page, status, file.cday as "Started", file.mday as "Last Read"
 WHERE contains(type, "Book")
 AND (status = "Reading" OR status = "New")
 FLATTEN choice(status = "New", "<b>📚" + status + "</b>", status) as status 
 FLATTEN choice(status = "Reading", "<i>🚀" + status + "</i>", status) as status 
 FLATTEN choice(status = "Completed", "<s>✅" + status + "</s>", status) as status
-SORT current-page DESC
+SORT status DESC SORT current-page  DESC
 ```
 ### ✅  Completed
 ``` dataview 
-TABLE date-finished AS "Date Finished", status
-WHERE Type = "Book"
+TABLE file.mday AS "Date Finished", status
+WHERE contains(Type,"Book")
 AND status = "Completed"
 FLATTEN choice(status = "New", "<b>📚" + status + "</b>", status) as status 
 FLATTEN choice(status = "ready", "<i>🚀" + status + "</i>", status) as status 
