@@ -4,51 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ed5d8a8a3034ebf8",
-        "type": "tabs",
-        "dimension": 35.53299492385787,
-        "children": [
-          {
-            "id": "9107cd4d01c95d8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf9bf26a2b27b9cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Resources/Software Engineering/JavaScript/Declarative Vs Imperative.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "4d8498ebbc2ff95e",
         "type": "tabs",
-        "dimension": 64.46700507614213,
         "children": [
           {
             "id": "db4a71df6dafbcd6",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "3. Resources/Software Engineering/JavaScript/Clean Code Javascript.md"
+                "file": "0. Daybook/Templates/Daily.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -88,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#projects/template-system",
+                "query": "tag:#areas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "8488bc17781ccd8e",
@@ -118,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "right": {
     "id": "2d1ab4ea006b17c6",
@@ -127,7 +97,7 @@
       {
         "id": "20edc07e74a6e79b",
         "type": "tabs",
-        "dimension": 69.97549019607843,
+        "dimension": 60.90686274509803,
         "children": [
           {
             "id": "d8ebe5e3676ca224",
@@ -159,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Software Engineering/JavaScript/Declarative Vs Imperative.md",
+                "file": "0. Daybook/Templates/Daily.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/Software Engineering/JavaScript/Declarative Vs Imperative.md",
+                "file": "0. Daybook/Templates/Daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +174,7 @@
       {
         "id": "a34bfd7309944f75",
         "type": "tabs",
-        "dimension": 30.024509803921568,
+        "dimension": 39.09313725490196,
         "children": [
           {
             "id": "43e2655f6fe2fa86",
@@ -212,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/Software Engineering/JavaScript/Declarative Vs Imperative.md"
+                "file": "0. Daybook/Templates/Daily.md"
               }
             }
           }
@@ -220,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5,
-    "collapsed": true
+    "width": 397.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,38 +207,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bf9bf26a2b27b9cd",
+  "active": "db4a71df6dafbcd6",
   "lastOpenFiles": [
-    "3. Resources/Software Engineering/JavaScript/JavaScript Naming Best Practices.md",
-    "Dashboard.md",
-    "3. Resources/Software Engineering/JavaScript/Declarative Vs Imperative.md",
-    "1. Projects/Untitled.canvas",
-    "3. Resources/Software Engineering/JavaScript/Clean Code Javascript.md",
-    "0. Daybook/2023/Daily/11/2023-11-15.md",
+    "0. Daybook/2023/Daily/11/2023-11-16.md",
     "0. Daybook/Templates/Daily.md",
     "0. Daybook/2023 Daily Habit Tracker.md",
-    "0. Daybook/2023/Weekly/2023-W46.md",
+    "2. Areas/Accountability/Daybook/000 Daybook Template.md",
+    "2. Areas/Accountability/Daybook/2023-1-12 Embedding a online pdf to obsidian.md",
+    "2. Areas/Accountability/Daybook/2023-1-12  large file management in git.md",
+    "3. Resources/Daybook/Daybook.md",
+    "0. Daybook/2023/Daily/11/2023-11-15.md",
     "0. Daybook/2023/Daily/11/2023-11-14.md",
     "0. Daybook/2023/Daily/11/2023-11-13.md",
+    "Dashboard.md",
+    "3. Resources/Software Engineering/JavaScript/SOLID principles.md",
+    "3. Resources/Software Engineering/JavaScript/Clean Code Javascript.md",
+    "3. Resources/Pocket/Clean Code Single Responsibility, OpenClosed, Liskov Substitution SOLID P.md",
+    "3. Resources/Software Engineering/JavaScript/Inheritance.md",
+    "3. Resources/Software Engineering/JavaScript/Methods.md",
+    "3. Resources/Software Engineering/JavaScript/Untitled",
+    "3. Resources/Software Engineering/JavaScript/Classes.md",
+    "3. Resources/Software Engineering/JavaScript/JavaScript Naming Best Practices.md",
+    "3. Resources/Software Engineering/JavaScript/Declarative Vs Imperative.md",
+    "1. Projects/Untitled.canvas",
+    "0. Daybook/2023/Weekly/2023-W46.md",
     "1. Projects/0004 Backup REDG SERVER/🚀 Backup REDG server.md",
     "1. Projects/0001 Setup templates/Setup Templates.md",
     "3. Resources/Software Engineering/Angular/Becoming an Angular Ninja.md",
     "3. Resources/Personal Development/The Strangest Secret.md",
     "Dashboard canvas.canvas",
     "Inbox.md",
-    "2. Areas/Learning/Git y Github.md",
-    "1. Projects/0003 Janeth Course/00 Diplomado Virtual - README.md",
-    "1. Projects/3000 Hacktoberfest/DevLink.md",
-    "2. Areas/Learning/Angular.md",
-    "0. Daybook/Templates/Weekly.md",
-    "3. Resources/Software Engineering/Angular/VITE.md",
-    "3. Resources/Pocket/How to Implement Login and Role-Based Authorization with JWT in Angular.md",
-    "3. Resources/Software Engineering/Angular/SoloLearn/Angular + Sololearn - Learning Angular with Juan Núñez from Sololearn.md",
-    "3. Resources/Software Engineering/Angular/Angular.dev/What is Angular.md",
     "3. Resources/Software Engineering/Angular/SoloLearn",
     "3. Resources/Software Engineering/Angular/Angular.dev",
-    "3. Resources/Second Brain/PARA/books/Building a second brain - a proven method to organize your digital life and unlock your creative potential.md",
-    "3. Resources/Second Brain/PARA/books/Building a Second Brain Bonus.md",
     "3. Resources/Startup/Untitled",
     "3. Resources/Startup",
     "1. Projects/0004 Backup REDG SERVER",
@@ -287,7 +256,6 @@
     "0. Daybook/2023/Weekly",
     "0. Daybook/2023/Daily/11",
     "0. Daybook/2023/Daily",
-    "0. Notes/2023/2023/Daily/11",
     "3. Resources/Second Brain/GTD/_GTD mindmap.canvas"
   ]
 }

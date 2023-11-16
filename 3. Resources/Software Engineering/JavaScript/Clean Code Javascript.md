@@ -5,7 +5,7 @@ Type:
 Status: Reading
 Date Finished: 
 Pages: "156"
-Current Page: 42
+Current Page: 77
 Date Started: 2021-10-31
 annotation-target-type: pdf
 ---
@@ -896,3 +896,931 @@ annotation-target-type: pdf
 >%%TAGS%%
 >
 ^xd70992pkh
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T03:19:50.803Z","updated":"2023-11-16T03:19:50.803Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":58194,"end":58301},{"type":"TextQuoteSelector","exact":" Muchas veces esta duplicidad no será tan evidente y seránuestra experiencia la que nos ayude a detectarla,","prefix":" utilizarlodonde nos haga falta.","suffix":" no tengas miedo a refactorizarc"}]}]}
+>```
+>%%
+>*%%PREFIX%%utilizarlodonde nos haga falta.%%HIGHLIGHT%% ==Muchas veces esta duplicidad no será tan evidente y seránuestra experiencia la que nos ayude a detectarla,== %%POSTFIX%%no tengas miedo a refactorizarc*
+>%%LINK%%[[#^s4wnfzz3dcq|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^s4wnfzz3dcq
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T03:20:18.529Z","updated":"2023-11-16T03:20:18.529Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":57935,"end":58085},{"type":"TextQuoteSelector","exact":"nos evitarámúltiples quebraderos de cabeza como tener que testear lo mismo varias veces,además de ayudarnos a reducir la cantidad de código a mantener","prefix":"español significa no repetirse, ","suffix":".Para ello lo ideal sería extrae"}]}]}
+>```
+>%%
+>*%%PREFIX%%español significa no repetirse,%%HIGHLIGHT%% ==nos evitarámúltiples quebraderos de cabeza como tener que testear lo mismo varias veces,además de ayudarnos a reducir la cantidad de código a mantener== %%POSTFIX%%.Para ello lo ideal sería extrae*
+>%%LINK%%[[#^50x45bp7vx|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^50x45bp7vx
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T03:20:22.793Z","updated":"2023-11-16T03:20:22.793Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":57693,"end":57706},{"type":"TextQuoteSelector","exact":"Principio DRY","prefix":"al ejemplo completo desde aquí³⁷","suffix":"Teniendo en cuenta que la duplic"}]}]}
+>```
+>%%
+>*%%PREFIX%%al ejemplo completo desde aquí³⁷%%HIGHLIGHT%% ==Principio DRY== %%POSTFIX%%Teniendo en cuenta que la duplic*
+>%%LINK%%[[#^y2q2cvip4iq|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^y2q2cvip4iq
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T03:21:46.196Z","updated":"2023-11-16T03:21:46.196Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":59749,"end":59779},{"type":"TextQuoteSelector","exact":"Command–Query Separation (CQS)","prefix":"al ejemplo completo desde aquí³⁸","suffix":"El principio de diseño Command-Q"}]}]}
+>```
+>%%
+>*%%PREFIX%%al ejemplo completo desde aquí³⁸%%HIGHLIGHT%% ==Command–Query Separation (CQS)== %%POSTFIX%%El principio de diseño Command-Q*
+>%%LINK%%[[#^sgdjkxk9twq|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^sgdjkxk9twq
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T03:22:11.544Z","updated":"2023-11-16T03:22:11.544Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":59975,"end":60541},{"type":"TextQuoteSelector","exact":"La idea fundamental de este principio es quedebemos tratar de dividir las funciones de un sistema en dos categorías claramenteseparadas:• Consultas (queries): son funciones puras que respetan el principio de transpa-rencia referencial, es decir, devuelven un valor y no alteran el estado del sistema.Siempre devuelven un valor.• Comandos (commands): son funciones que cambian el estado intrínseco delsistema, es decir, generan un side effect. También pueden ser conocidos comomodificadores (modifiers) o mutadores (mutators). No deberían devolverningún valor (void).","prefix":"Oriented Software Construction. ","suffix":"Echemos un vistazo a la firma de"}]}]}
+>```
+>%%
+>*%%PREFIX%%Oriented Software Construction.%%HIGHLIGHT%% ==La idea fundamental de este principio es quedebemos tratar de dividir las funciones de un sistema en dos categorías claramenteseparadas:• Consultas (queries): son funciones puras que respetan el principio de transpa-rencia referencial, es decir, devuelven un valor y no alteran el estado del sistema.Siempre devuelven un valor.• Comandos (commands): son funciones que cambian el estado intrínseco delsistema, es decir, generan un side effect. También pueden ser conocidos comomodificadores (modifiers) o mutadores (mutators). No deberían devolverningún valor (void).== %%POSTFIX%%Echemos un vistazo a la firma de*
+>%%LINK%%[[#^5q3svt1dr7|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^5q3svt1dr7
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T03:23:17.883Z","updated":"2023-11-16T03:23:17.883Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":60838,"end":60996},{"type":"TextQuoteSelector","exact":"el método Create() no devuelve ningún valor. Su única acciónes la de crear un nuevo usuario, muta el estado del sistema y, por lo tanto, se trata deun comando","prefix":" User[]6 }Como puedes observar, ","suffix":".Por otro lado, las funciones Ge"}]}]}
+>```
+>%%
+>*%%PREFIX%%User[]6 }Como puedes observar,%%HIGHLIGHT%% ==el método Create() no devuelve ningún valor. Su única acciónes la de crear un nuevo usuario, muta el estado del sistema y, por lo tanto, se trata deun comando== %%POSTFIX%%.Por otro lado, las funciones Ge*
+>%%LINK%%[[#^djd8au4jktl|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^djd8au4jktl
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T03:23:28.773Z","updated":"2023-11-16T03:23:28.773Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":61026,"end":61217},{"type":"TextQuoteSelector","exact":"GetByEmail y GetAllByName, son consultas quedevuelven un usuario por email o varios usuarios por nombre, respectivamente. Siestán bien diseñadas, no deberían generar ningún efecto secundario,","prefix":"do.Por otro lado, las funciones ","suffix":" es decir, nodeberían cambiar el"}]}]}
+>```
+>%%
+>*%%PREFIX%%do.Por otro lado, las funciones%%HIGHLIGHT%% ==GetByEmail y GetAllByName, son consultas quedevuelven un usuario por email o varios usuarios por nombre, respectivamente. Siestán bien diseñadas, no deberían generar ningún efecto secundario,== %%POSTFIX%%es decir, nodeberían cambiar el*
+>%%LINK%%[[#^37u6lirdpup|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^37u6lirdpup
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T03:57:27.175Z","updated":"2023-11-16T03:57:27.175Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":62028,"end":62053},{"type":"TextQuoteSelector","exact":"Notación O grande (big O)","prefix":" los algoritmos que codificamos.","suffix":"La notación Big-O, también conoc"}]}]}
+>```
+>%%
+>*%%PREFIX%%los algoritmos que codificamos.%%HIGHLIGHT%% ==Notación O grande (big O)== %%POSTFIX%%La notación Big-O, también conoc*
+>%%LINK%%[[#^bk6yznwrjqf|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^bk6yznwrjqf
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T03:58:08.730Z","updated":"2023-11-16T03:58:08.730Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":62320,"end":62605},{"type":"TextQuoteSelector","exact":"se trata de una aproximación matemática que nos ayuda a describir elcomportamiento de un algoritmo, tanto temporal como espacial. Es decir, cuántotiempo va a tardar en ejecutarse o cuánta memoria va a ocupar mientras se ejecuta,basándose en el número de elementos que se deben procesar","prefix":"idad de un algoritmo.En esencia ","suffix":".Por ejemplo, si el tiempo de ej"}]}]}
+>```
+>%%
+>*%%PREFIX%%idad de un algoritmo.En esencia%%HIGHLIGHT%% ==se trata de una aproximación matemática que nos ayuda a describir elcomportamiento de un algoritmo, tanto temporal como espacial. Es decir, cuántotiempo va a tardar en ejecutarse o cuánta memoria va a ocupar mientras se ejecuta,basándose en el número de elementos que se deben procesar== %%POSTFIX%%.Por ejemplo, si el tiempo de ej*
+>%%LINK%%[[#^9aci4owz19|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^9aci4owz19
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T03:58:32.666Z","updated":"2023-11-16T03:58:32.666Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":63016,"end":64384},{"type":"TextQuoteSelector","exact":"O(1) constante: la operación no depende del tamaño de los datos. Por ejemplo,acceder a un elemento de un array.• O(log n) logarítmica: la complejidad logarítmica se da en casos en los que noes necesario recorrer todos los elementos. Por ejemplo, el algoritmo debúsquedabinaria⁴⁰ en una lista ordenada o atravesar un árbol binario.• O(n) lineal: el tiempo de ejecución es directamente proporcional al tamaño delos datos. Crece en una línea recta. Como ejemplo nos vale cualquier algoritmoque haga uso de un bucle simple, como podría ser una búsqueda secuencial⁴¹.• O(log n): es algo peor que la lineal, pero no mucho más. Se aplica en el caso dealgoritmos de ordenación como Quicksort⁴² o Heapsort⁴³.• O(n^2) cuadrática: es típico de algoritmos que necesitan realizar una iteraciónpor todos los elementos en cada uno de los elementos que necesita procesar.Por ejemplo, como cualquier algoritmo que haga uso de dos bucles anidados,como podría ser el algoritmo de búsqueda Bubble Sort⁴⁴. En el caso de añadirotro bucle más, el algoritmo pasaría a ser de complejidad cúbica.• O(2^n) exponencial: se trata de funciones que duplican su complejidad concada elemento añadido al procesamiento. Suele darse en las llamadas recursivasmúltiples. Un ejemplo es el cálculo de la serie Fibonacci de forma recursiva.Desarrollaremos el algoritmo de Fibonacci con TDD al final del libro","prefix":"dad, junto a algunos ejemplos.• ","suffix":".⁴⁰https://es.wikipedia.org/wiki"}]}]}
+>```
+>%%
+>*%%PREFIX%%dad, junto a algunos ejemplos.•%%HIGHLIGHT%% ==O(1) constante: la operación no depende del tamaño de los datos. Por ejemplo,acceder a un elemento de un array.• O(log n) logarítmica: la complejidad logarítmica se da en casos en los que noes necesario recorrer todos los elementos. Por ejemplo, el algoritmo debúsquedabinaria⁴⁰ en una lista ordenada o atravesar un árbol binario.• O(n) lineal: el tiempo de ejecución es directamente proporcional al tamaño delos datos. Crece en una línea recta. Como ejemplo nos vale cualquier algoritmoque haga uso de un bucle simple, como podría ser una búsqueda secuencial⁴¹.• O(log n): es algo peor que la lineal, pero no mucho más. Se aplica en el caso dealgoritmos de ordenación como Quicksort⁴² o Heapsort⁴³.• O(n^2) cuadrática: es típico de algoritmos que necesitan realizar una iteraciónpor todos los elementos en cada uno de los elementos que necesita procesar.Por ejemplo, como cualquier algoritmo que haga uso de dos bucles anidados,como podría ser el algoritmo de búsqueda Bubble Sort⁴⁴. En el caso de añadirotro bucle más, el algoritmo pasaría a ser de complejidad cúbica.• O(2^n) exponencial: se trata de funciones que duplican su complejidad concada elemento añadido al procesamiento. Suele darse en las llamadas recursivasmúltiples. Un ejemplo es el cálculo de la serie Fibonacci de forma recursiva.Desarrollaremos el algoritmo de Fibonacci con TDD al final del libro== %%POSTFIX%%.⁴⁰https://es.wikipedia.org/wiki*
+>%%LINK%%[[#^l1dssjwb4u|show annotation]]
+>%%COMMENT%%
+>
+
+>%%TAGS%%
+>
+^l1dssjwb4u
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T03:58:32.666Z","text":"![](https://i.imgur.com/sh9CoTj.png)","updated":"2023-11-16T03:58:32.666Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":63016,"end":64384},{"type":"TextQuoteSelector","exact":"O(1) constante: la operación no depende del tamaño de los datos. Por ejemplo,acceder a un elemento de un array.• O(log n) logarítmica: la complejidad logarítmica se da en casos en los que noes necesario recorrer todos los elementos. Por ejemplo, el algoritmo debúsquedabinaria⁴⁰ en una lista ordenada o atravesar un árbol binario.• O(n) lineal: el tiempo de ejecución es directamente proporcional al tamaño delos datos. Crece en una línea recta. Como ejemplo nos vale cualquier algoritmoque haga uso de un bucle simple, como podría ser una búsqueda secuencial⁴¹.• O(log n): es algo peor que la lineal, pero no mucho más. Se aplica en el caso dealgoritmos de ordenación como Quicksort⁴² o Heapsort⁴³.• O(n^2) cuadrática: es típico de algoritmos que necesitan realizar una iteraciónpor todos los elementos en cada uno de los elementos que necesita procesar.Por ejemplo, como cualquier algoritmo que haga uso de dos bucles anidados,como podría ser el algoritmo de búsqueda Bubble Sort⁴⁴. En el caso de añadirotro bucle más, el algoritmo pasaría a ser de complejidad cúbica.• O(2^n) exponencial: se trata de funciones que duplican su complejidad concada elemento añadido al procesamiento. Suele darse en las llamadas recursivasmúltiples. Un ejemplo es el cálculo de la serie Fibonacci de forma recursiva.Desarrollaremos el algoritmo de Fibonacci con TDD al final del libro","prefix":"dad, junto a algunos ejemplos.• ","suffix":".⁴⁰https://es.wikipedia.org/wiki"}]}]}
+>```
+>%%
+>*%%PREFIX%%dad, junto a algunos ejemplos.•%%HIGHLIGHT%% ==O(1) constante: la operación no depende del tamaño de los datos. Por ejemplo,acceder a un elemento de un array.• O(log n) logarítmica: la complejidad logarítmica se da en casos en los que noes necesario recorrer todos los elementos. Por ejemplo, el algoritmo debúsquedabinaria⁴⁰ en una lista ordenada o atravesar un árbol binario.• O(n) lineal: el tiempo de ejecución es directamente proporcional al tamaño delos datos. Crece en una línea recta. Como ejemplo nos vale cualquier algoritmoque haga uso de un bucle simple, como podría ser una búsqueda secuencial⁴¹.• O(log n): es algo peor que la lineal, pero no mucho más. Se aplica en el caso dealgoritmos de ordenación como Quicksort⁴² o Heapsort⁴³.• O(n^2) cuadrática: es típico de algoritmos que necesitan realizar una iteraciónpor todos los elementos en cada uno de los elementos que necesita procesar.Por ejemplo, como cualquier algoritmo que haga uso de dos bucles anidados,como podría ser el algoritmo de búsqueda Bubble Sort⁴⁴. En el caso de añadirotro bucle más, el algoritmo pasaría a ser de complejidad cúbica.• O(2^n) exponencial: se trata de funciones que duplican su complejidad concada elemento añadido al procesamiento. Suele darse en las llamadas recursivasmúltiples. Un ejemplo es el cálculo de la serie Fibonacci de forma recursiva.Desarrollaremos el algoritmo de Fibonacci con TDD al final del libro== %%POSTFIX%%.⁴⁰https://es.wikipedia.org/wiki*
+>%%LINK%%[[#^l1dssjwb4u|show annotation]]
+>%%COMMENT%%
+>![](https://i.imgur.com/sh9CoTj.png)
+>%%TAGS%%
+>
+^l1dssjwb4u
+
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:05:55.494Z","updated":"2023-11-16T04:05:55.494Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":65985,"end":66096},{"type":"TextQuoteSelector","exact":"JavaScript en un lenguaje orientado a objetos basado en prototipos, en lugar de estarbasado en clases como tal.","prefix":"ases y los objetos enJavaScript.","suffix":" En la versión ES6 del lenguaje "}]}]}
+>```
+>%%
+>*%%PREFIX%%ases y los objetos enJavaScript.%%HIGHLIGHT%% ==JavaScript en un lenguaje orientado a objetos basado en prototipos, en lugar de estarbasado en clases como tal.== %%POSTFIX%%En la versión ES6 del lenguaje*
+>%%LINK%%[[#^gi33703bpf|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^gi33703bpf
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:06:16.631Z","updated":"2023-11-16T04:06:16.631Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":66097,"end":66255},{"type":"TextQuoteSelector","exact":"En la versión ES6 del lenguaje se introdujo la palabrareservada class para definir clases siguiendo el mismo patrón de lenguajes clásicos dePOO como Java o C#","prefix":"estarbasado en clases como tal. ","suffix":". Aunque en realidad, esta sinta"}]}]}
+>```
+>%%
+>*%%PREFIX%%estarbasado en clases como tal.%%HIGHLIGHT%% ==En la versión ES6 del lenguaje se introdujo la palabrareservada class para definir clases siguiendo el mismo patrón de lenguajes clásicos dePOO como Java o C#== %%POSTFIX%%. Aunque en realidad, esta sinta*
+>%%LINK%%[[#^l8g0s0d2q7d|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^l8g0s0d2q7d
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:06:31.038Z","updated":"2023-11-16T04:06:31.038Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":66490,"end":66520},{"type":"TextQuoteSelector","exact":"Prototype y ECMAScript moderno","prefix":"s y/o de la cadena deprototipos.","suffix":"Todos los objetos de JavaScript "}]}]}
+>```
+>%%
+>*%%PREFIX%%s y/o de la cadena deprototipos.%%HIGHLIGHT%% ==Prototype y ECMAScript moderno== %%POSTFIX%%Todos los objetos de JavaScript*
+>%%LINK%%[[#^wtn2nab5r8o|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^wtn2nab5r8o
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:06:43.331Z","updated":"2023-11-16T04:06:43.331Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":66520,"end":66621},{"type":"TextQuoteSelector","exact":"Todos los objetos de JavaScript enlazan con un objeto prototipo del que heredan todassus propiedades.","prefix":"s.Prototype y ECMAScript moderno","suffix":" Los prototipos permiten integra"}]}]}
+>```
+>%%
+>*%%PREFIX%%s.Prototype y ECMAScript moderno%%HIGHLIGHT%% ==Todos los objetos de JavaScript enlazan con un objeto prototipo del que heredan todassus propiedades.== %%POSTFIX%%Los prototipos permiten integra*
+>%%LINK%%[[#^e4pr82k7th5|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^e4pr82k7th5
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:07:34.724Z","updated":"2023-11-16T04:07:34.724Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":67052,"end":67089},{"type":"TextQuoteSelector","exact":"Antes de ES6 no teníamos una notación","prefix":"bjeto de una clase en concreto. ","suffix":"⁴⁷https://twitter.com/unclebobma"}]}]}
+>```
+>%%
+>*%%PREFIX%%bjeto de una clase en concreto.%%HIGHLIGHT%% ==Antes de ES6 no teníamos una notación== %%POSTFIX%%⁴⁷https://twitter.com/unclebobma*
+>%%LINK%%[[#^84g5tljlmhe|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^84g5tljlmhe
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:07:52.783Z","updated":"2023-11-16T04:07:52.783Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":67221,"end":67398},{"type":"TextQuoteSelector","exact":"La única particularidad de este tipo de funciones es que utilizan la palabra clave thispara definir las propiedades que tendrá el objeto y se inicializan con la palabra clavenew","prefix":"nes constructoras para este fin.","suffix":":Funciones constructoras1 // Ant"}]}]}
+>```
+>%%
+>*%%PREFIX%%nes constructoras para este fin.%%HIGHLIGHT%% ==La única particularidad de este tipo de funciones es que utilizan la palabra clave thispara definir las propiedades que tendrá el objeto y se inicializan con la palabra clavenew== %%POSTFIX%%:Funciones constructoras1 // Ant*
+>%%LINK%%[[#^qg7b8lacwtb|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^qg7b8lacwtb
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:09:15.017Z","updated":"2023-11-16T04:09:15.017Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":67399,"end":67562},{"type":"TextQuoteSelector","exact":"Funciones constructoras1 // Antes de ES62 function Person(name) {3 this.name = name;4 }56 var person = new Person(“Miguel”);7 console.log(person.name); // 'Miguel'","prefix":"ializan con la palabra clavenew:","suffix":"A partir de ES6 podemos hacer us"}]}]}
+>```
+>%%
+>*%%PREFIX%%ializan con la palabra clavenew:%%HIGHLIGHT%% ==Funciones constructoras1 // Antes de ES62 function Person(name) {3 this.name = name;4 }56 var person = new Person(“Miguel”);7 console.log(person.name); // 'Miguel'== %%POSTFIX%%A partir de ES6 podemos hacer us*
+>%%LINK%%[[#^gx51sn7hok7|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^gx51sn7hok7
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:09:32.620Z","updated":"2023-11-16T04:09:32.620Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":67562,"end":67643},{"type":"TextQuoteSelector","exact":"A partir de ES6 podemos hacer uso de la palabra clave class para definir “clases”","prefix":"le.log(person.name); // 'Miguel'","suffix":",tal y como hacemos en otros len"}]}]}
+>```
+>%%
+>*%%PREFIX%%le.log(person.name); // 'Miguel'%%HIGHLIGHT%% ==A partir de ES6 podemos hacer uso de la palabra clave class para definir “clases”== %%POSTFIX%%,tal y como hacemos en otros len*
+>%%LINK%%[[#^q9qmww8enyb|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^q9qmww8enyb
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:09:38.896Z","updated":"2023-11-16T04:09:38.896Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":67821,"end":67972},{"type":"TextQuoteSelector","exact":"Constructores1 class Person{2 constructor(person){3 this.name = name;4 }5 }67 const person = new Person(“miguel”);8 console.log(person.name);//’Miguel’","prefix":"emplo anteriorcon esta sintaxis:","suffix":"Como puedes observar, esta sinta"}]}]}
+>```
+>%%
+>*%%PREFIX%%emplo anteriorcon esta sintaxis:%%HIGHLIGHT%% ==Constructores1 class Person{2 constructor(person){3 this.name = name;4 }5 }67 const person = new Person(“miguel”);8 console.log(person.name);//’Miguel’== %%POSTFIX%%Como puedes observar, esta sinta*
+>%%LINK%%[[#^7gktdquku5d|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^7gktdquku5d
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:17:14.913Z","updated":"2023-11-16T04:17:14.913Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":68065,"end":68203},{"type":"TextQuoteSelector","exact":"hacer uso de funciones constructoras en proyectos de JavaScript modernono tiene ningún sentido ya que empeoran la legibilidad del proyecto","prefix":"e la anterior. En laactualidad, ","suffix":".Clases 51MétodosComo ya sabes, "}]}]}
+>```
+>%%
+>*%%PREFIX%%e la anterior. En laactualidad,%%HIGHLIGHT%% ==hacer uso de funciones constructoras en proyectos de JavaScript modernono tiene ningún sentido ya que empeoran la legibilidad del proyecto== %%POSTFIX%%.Clases 51MétodosComo ya sabes,*
+>%%LINK%%[[#^jlb8ktll48j|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^jlb8ktll48j
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:23:56.270Z","updated":"2023-11-16T04:23:56.270Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":68335,"end":68459},{"type":"TextQuoteSelector","exact":"Antes de ES6, para definirlos, teníamos queasignarlos directamente al objeto prototype tras declarar la función constructora","prefix":"jetos de una clase en concreto. ","suffix":":Métodos1 // Antes de ES62 funct"}]}]}
+>```
+>%%
+>*%%PREFIX%%jetos de una clase en concreto.%%HIGHLIGHT%% ==Antes de ES6, para definirlos, teníamos queasignarlos directamente al objeto prototype tras declarar la función constructora== %%POSTFIX%%:Métodos1 // Antes de ES62 funct*
+>%%LINK%%[[#^meogrsw1itr|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^meogrsw1itr
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:24:05.074Z","updated":"2023-11-16T04:24:05.074Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":69004,"end":69035},{"type":"TextQuoteSelector","exact":"Herencia y cadena de prototipos","prefix":"); // 'Hola soy Miguel'Clases 52","suffix":"La herencia es una técnica típic"}]}]}
+>```
+>%%
+>*%%PREFIX%%); // 'Hola soy Miguel'Clases 52%%HIGHLIGHT%% ==Herencia y cadena de prototipos== %%POSTFIX%%La herencia es una técnica típic*
+>%%LINK%%[[#^psrjxhvhv1|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^psrjxhvhv1
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:24:23.447Z","updated":"2023-11-16T04:24:23.447Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":69233,"end":69368},{"type":"TextQuoteSelector","exact":" la herencia no es la mejor opción para lareutilización de código, aunque sí que existen ciertos contextos en los que se aplicamuy bien","prefix":" veremos en este mismo capítulo,","suffix":".Veamos cómo se implementa la he"}]}]}
+>```
+>%%
+>*%%PREFIX%%veremos en este mismo capítulo,%%HIGHLIGHT%% ==la herencia no es la mejor opción para lareutilización de código, aunque sí que existen ciertos contextos en los que se aplicamuy bien== %%POSTFIX%%.Veamos cómo se implementa la he*
+>%%LINK%%[[#^ztmt27tte4c|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^ztmt27tte4c
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:24:48.741Z","updated":"2023-11-16T04:24:48.741Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":69539,"end":69618},{"type":"TextQuoteSelector","exact":"en JavaScript es más preciso hablar de “herencia entre objetos” que de “clases”","prefix":"hereda del objeto persona(y sí, ","suffix":")que creamos en los ejemplos ant"}]}]}
+>```
+>%%
+>*%%PREFIX%%hereda del objeto persona(y sí,%%HIGHLIGHT%% ==en JavaScript es más preciso hablar de “herencia entre objetos” que de “clases”== %%POSTFIX%%)que creamos en los ejemplos ant*
+>%%LINK%%[[#^9a5i1smvdi5|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^9a5i1smvdi5
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:28:21.675Z","updated":"2023-11-16T04:28:21.675Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":70124,"end":70348},{"type":"TextQuoteSelector","exact":", en primer lugar definimos una nueva función constructora llamadaProgrammer. A continuación, asignamos a su prototipo un nuevo objeto basado enel prototipo del objeto Person, lo que nos permite heredar toda la funcionalidad","prefix":"o, no tengo café'Como se observa","suffix":"Clases 53implementada en el obje"}]}]}
+>```
+>%%
+>*%%PREFIX%%o, no tengo café'Como se observa%%HIGHLIGHT%% ==, en primer lugar definimos una nueva función constructora llamadaProgrammer. A continuación, asignamos a su prototipo un nuevo objeto basado enel prototipo del objeto Person, lo que nos permite heredar toda la funcionalidad== %%POSTFIX%%Clases 53implementada en el obje*
+>%%LINK%%[[#^5ptprygpenv|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^5ptprygpenv
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:28:39.825Z","updated":"2023-11-16T04:28:39.825Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":71110,"end":71196},{"type":"TextQuoteSelector","exact":"estamos pasando a la clase padre el parámetro name através de la palabra clave super; ","prefix":"enel constructor de la clase le ","suffix":"este tipo de prácticas debemos m"}]}]}
+>```
+>%%
+>*%%PREFIX%%enel constructor de la clase le%%HIGHLIGHT%% ==estamos pasando a la clase padre el parámetro name através de la palabra clave super;== %%POSTFIX%%este tipo de prácticas debemos m*
+>%%LINK%%[[#^k9fp8ei014|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^k9fp8ei014
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:28:48.039Z","updated":"2023-11-16T04:28:48.039Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":71196,"end":71301},{"type":"TextQuoteSelector","exact":"este tipo de prácticas debemos minimizarlas ya queaumentan la rigidez y el acoplamiento de nuestro código","prefix":"avés de la palabra clave super; ","suffix":".Tamaño reducidoLas clases, al i"}]}]}
+>```
+>%%
+>*%%PREFIX%%avés de la palabra clave super;%%HIGHLIGHT%% ==este tipo de prácticas debemos minimizarlas ya queaumentan la rigidez y el acoplamiento de nuestro código== %%POSTFIX%%.Tamaño reducidoLas clases, al i*
+>%%LINK%%[[#^d3abh0bowf|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^d3abh0bowf
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:38:04.052Z","updated":"2023-11-16T04:38:04.052Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":71317,"end":71397},{"type":"TextQuoteSelector","exact":"Las clases, al igual que vimos en las funciones, deben tener un tamaño reducido.","prefix":"e nuestro código.Tamaño reducido","suffix":"Para conseguir esto debemos empe"}]}]}
+>```
+>%%
+>*%%PREFIX%%e nuestro código.Tamaño reducido%%HIGHLIGHT%% ==Las clases, al igual que vimos en las funciones, deben tener un tamaño reducido.== %%POSTFIX%%Para conseguir esto debemos empe*
+>%%LINK%%[[#^ayqihxsxpdf|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^ayqihxsxpdf
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:38:32.803Z","updated":"2023-11-16T04:38:32.803Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":71696,"end":71742},{"type":"TextQuoteSelector","exact":"aplicar el principio de responsabilidad única.","prefix":" de nuestras clases estratar de ","suffix":" Este principio viene a decirque"}]}]}
+>```
+>%%
+>*%%PREFIX%%de nuestras clases estratar de%%HIGHLIGHT%% ==aplicar el principio de responsabilidad única.== %%POSTFIX%%Este principio viene a decirque*
+>%%LINK%%[[#^4adm9qlcrmo|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^4adm9qlcrmo
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:38:42.581Z","updated":"2023-11-16T04:38:42.581Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":71775,"end":71899},{"type":"TextQuoteSelector","exact":"una clase no debería tener más de una responsabilidad, es decir, no deberíatener más de un motivo por el que ser modificada ","prefix":"Este principio viene a decirque ","suffix":"(ampliaremos esta definición en "}]}]}
+>```
+>%%
+>*%%PREFIX%%Este principio viene a decirque%%HIGHLIGHT%% ==una clase no debería tener más de una responsabilidad, es decir, no deberíatener más de un motivo por el que ser modificada== %%POSTFIX%%(ampliaremos esta definición en*
+>%%LINK%%[[#^v8vusbrqmpk|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^v8vusbrqmpk
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:40:32.031Z","updated":"2023-11-16T04:40:32.031Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":73504,"end":73556},{"type":"TextQuoteSelector","exact":"Las clases deben comenzar con una lista de variables","prefix":"idad única.Clases 56Organización","suffix":". En el caso de que hayanconstan"}]}]}
+>```
+>%%
+>*%%PREFIX%%idad única.Clases 56Organización%%HIGHLIGHT%% ==Las clases deben comenzar con una lista de variables== %%POSTFIX%%. En el caso de que hayanconstan*
+>%%LINK%%[[#^0muzyxozv7en|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^0muzyxozv7en
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:40:58.476Z","updated":"2023-11-16T04:40:58.476Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":73557,"end":73631},{"type":"TextQuoteSelector","exact":" En el caso de que hayanconstantes públicas, estas deben aparecer primero.","prefix":"nzar con una lista de variables.","suffix":" Seguidamente deben aparecer las"}]}]}
+>```
+>%%
+>*%%PREFIX%%nzar con una lista de variables.%%HIGHLIGHT%% ==En el caso de que hayanconstantes públicas, estas deben aparecer primero.== %%POSTFIX%%Seguidamente deben aparecer las*
+>%%LINK%%[[#^0ncr401jrsx|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^0ncr401jrsx
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:41:13.101Z","updated":"2023-11-16T04:41:13.101Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":73632,"end":73728},{"type":"TextQuoteSelector","exact":"Seguidamente deben aparecer lasvariables estáticas privadas y después las de instancia privadas;","prefix":", estas deben aparecer primero. ","suffix":" en el caso de queutilizaremos v"}]}]}
+>```
+>%%
+>*%%PREFIX%%, estas deben aparecer primero.%%HIGHLIGHT%% ==Seguidamente deben aparecer lasvariables estáticas privadas y después las de instancia privadas;== %%POSTFIX%%en el caso de queutilizaremos v*
+>%%LINK%%[[#^vqbjqlures|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^vqbjqlures
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:41:15.706Z","updated":"2023-11-16T04:41:15.706Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":73728,"end":73821},{"type":"TextQuoteSelector","exact":" en el caso de queutilizaremos variables de instancia públicas estas deben ir en último lugar","prefix":"spués las de instancia privadas;","suffix":"Los métodos o funciones públicas"}]}]}
+>```
+>%%
+>*%%PREFIX%%spués las de instancia privadas;%%HIGHLIGHT%% ==en el caso de queutilizaremos variables de instancia públicas estas deben ir en último lugar== %%POSTFIX%%Los métodos o funciones públicas*
+>%%LINK%%[[#^4daa3r2yljl|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^4daa3r2yljl
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:41:23.748Z","updated":"2023-11-16T04:41:23.748Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":73821,"end":73905},{"type":"TextQuoteSelector","exact":"Los métodos o funciones públicas deberían ir a continuación de la lista de variables","prefix":"s estas deben ir en último lugar","suffix":".Para ello comenzaremos con el m"}]}]}
+>```
+>%%
+>*%%PREFIX%%s estas deben ir en último lugar%%HIGHLIGHT%% ==Los métodos o funciones públicas deberían ir a continuación de la lista de variables== %%POSTFIX%%.Para ello comenzaremos con el m*
+>%%LINK%%[[#^xw6463b8tn|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^xw6463b8tn
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:42:11.547Z","updated":"2023-11-16T04:42:11.547Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":75215,"end":75259},{"type":"TextQuoteSelector","exact":"Prioriza la composición frente a la herencia","prefix":"{35 return this.content;36 }37 }","suffix":"Tanto la herencia como la compos"}]}]}
+>```
+>%%
+>*%%PREFIX%%{35 return this.content;36 }37 }%%HIGHLIGHT%% ==Prioriza la composición frente a la herencia== %%POSTFIX%%Tanto la herencia como la compos*
+>%%LINK%%[[#^wxiw49mgqq|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^wxiw49mgqq
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:42:22.189Z","updated":"2023-11-16T04:42:22.189Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":75379,"end":75558},{"type":"TextQuoteSelector","exact":" la herencia permite definir unaimplementación desde una clase padre, mientras que la composición se basa enensamblar objetos diferentes para obtener una funcionalidad más complej","prefix":"ización de código. Como sabemos,","suffix":"a.Optar por la composición frent"}]}]}
+>```
+>%%
+>*%%PREFIX%%ización de código. Como sabemos,%%HIGHLIGHT%% ==la herencia permite definir unaimplementación desde una clase padre, mientras que la composición se basa enensamblar objetos diferentes para obtener una funcionalidad más complej== %%POSTFIX%%a.Optar por la composición frent*
+>%%LINK%%[[#^5yukaf34y05|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^5yukaf34y05
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:43:15.319Z","updated":"2023-11-16T04:43:15.319Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":76128,"end":76257},{"type":"TextQuoteSelector","exact":"de hacer esta diferenciación es preguntándote si la clase que hereda es realmente unhijo o simplemente tiene elementos del padre.","prefix":"iarlas. Una buena formaClases 58","suffix":" Veamos un ejemplo:Composición f"}]}]}
+>```
+>%%
+>*%%PREFIX%%iarlas. Una buena formaClases 58%%HIGHLIGHT%% ==de hacer esta diferenciación es preguntándote si la clase que hereda es realmente unhijo o simplemente tiene elementos del padre.== %%POSTFIX%%Veamos un ejemplo:Composición f*
+>%%LINK%%[[#^twrsyqqifgc|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^twrsyqqifgc
+
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:44:42.798Z","updated":"2023-11-16T04:44:42.798Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":77597,"end":77624},{"type":"TextQuoteSelector","exact":"Evita el uso de comentarios","prefix":"o ymodular.Comentarios y formato","suffix":"“No comentes el código mal escri"}]}]}
+>```
+>%%
+>*%%PREFIX%%o ymodular.Comentarios y formato%%HIGHLIGHT%% ==Evita el uso de comentarios== %%POSTFIX%%“No comentes el código mal escri*
+>%%LINK%%[[#^u271q69pc1|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^u271q69pc1
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:44:59.446Z","updated":"2023-11-16T04:44:59.446Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":77879,"end":78013},{"type":"TextQuoteSelector","exact":"Cuando veas la necesidad de escribir un comentario, tratade refactorizar tu código y/o nombrar los elementos del mismo de otra manera.","prefix":"paces deescoger buenos nombres. ","suffix":"A menudo, cuando usamos librería"}]}]}
+>```
+>%%
+>*%%PREFIX%%paces deescoger buenos nombres.%%HIGHLIGHT%% ==Cuando veas la necesidad de escribir un comentario, tratade refactorizar tu código y/o nombrar los elementos del mismo de otra manera.== %%POSTFIX%%A menudo, cuando usamos librería*
+>%%LINK%%[[#^c92st1ebau|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^c92st1ebau
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:45:18.948Z","updated":"2023-11-16T04:45:18.948Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":78356,"end":78427},{"type":"TextQuoteSelector","exact":"lo importante es comentar elporqué, más que comentar el qué o el cómo. ","prefix":"s hacer uso de los comentarios, ","suffix":"Ya que el cómo lo vemos, es el c"}]}]}
+>```
+>%%
+>*%%PREFIX%%s hacer uso de los comentarios,%%HIGHLIGHT%% ==lo importante es comentar elporqué, más que comentar el qué o el cómo.== %%POSTFIX%%Ya que el cómo lo vemos, es el c*
+>%%LINK%%[[#^pja5zfwqsr|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^pja5zfwqsr
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:45:34.880Z","updated":"2023-11-16T04:45:34.880Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":78534,"end":78660},{"type":"TextQuoteSelector","exact":" Pero el por quéhas decidido resolver algo de cierta manera a sabiendas de que resulta extraño, esosí que deberías explicarlo.","prefix":"escribes código autoexplicativo.","suffix":"Formato coherente“El buen código"}]}]}
+>```
+>%%
+>*%%PREFIX%%escribes código autoexplicativo.%%HIGHLIGHT%% ==Pero el por quéhas decidido resolver algo de cierta manera a sabiendas de que resulta extraño, esosí que deberías explicarlo.== %%POSTFIX%%Formato coherente“El buen código*
+>%%LINK%%[[#^rgwkucvz49|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^rgwkucvz49
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:46:29.840Z","updated":"2023-11-16T04:46:29.840Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":79742,"end":79935},{"type":"TextQuoteSelector","exact":"Lo más importante primeroLos elementos superiores de los ficheros deben contener los conceptos y algoritmosmás importantes, e ir incrementando los detalles a medida que descendemos en elfichero","prefix":"ben mantenerse próximosentre sí.","suffix":".IndentaciónPor último, y no men"}]}]}
+>```
+>%%
+>*%%PREFIX%%ben mantenerse próximosentre sí.%%HIGHLIGHT%% ==Lo más importante primeroLos elementos superiores de los ficheros deben contener los conceptos y algoritmosmás importantes, e ir incrementando los detalles a medida que descendemos en elfichero== %%POSTFIX%%.IndentaciónPor último, y no men*
+>%%LINK%%[[#^59tjlpnnbt5|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^59tjlpnnbt5
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:47:06.663Z","updated":"2023-11-16T04:47:06.663Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":80557,"end":80743},{"type":"TextQuoteSelector","exact":"el coste totalde un producto software viene dado por la suma de los costes de desarrollo yde mantenimiento, siendo este último mucho más elevado que el coste del propiodesarrollo inicial","prefix":"plicado a JavaScript, vimos que ","suffix":".En dicha sección nos centramos "}]}]}
+>```
+>%%
+>*%%PREFIX%%plicado a JavaScript, vimos que%%HIGHLIGHT%% ==el coste totalde un producto software viene dado por la suma de los costes de desarrollo yde mantenimiento, siendo este último mucho más elevado que el coste del propiodesarrollo inicial== %%POSTFIX%%.En dicha sección nos centramos*
+>%%LINK%%[[#^9sukhwoe30n|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^9sukhwoe30n
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:47:21.371Z","updated":"2023-11-16T04:47:21.371Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":80789,"end":80871},{"type":"TextQuoteSelector","exact":"minimizar el coste de mantenimientorelacionado con la parte de entender el código,","prefix":"ión nos centramos en la idea de ","suffix":" y ahora nos vamos a focalizar e"}]}]}
+>```
+>%%
+>*%%PREFIX%%ión nos centramos en la idea de%%HIGHLIGHT%% ==minimizar el coste de mantenimientorelacionado con la parte de entender el código,== %%POSTFIX%%y ahora nos vamos a focalizar e*
+>%%LINK%%[[#^g1kp2ls8k4|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^g1kp2ls8k4
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:47:49.118Z","updated":"2023-11-16T04:47:49.118Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":81195,"end":81552},{"type":"TextQuoteSelector","exact":"STUPID es simplemente un acró-nimo basado en seis code smells que describen cómo NO debe ser el software quedesarrollamos.• Singleton: patrón singleton• Tight Coupling: alto acoplamiento• Untestability: código no testeable• Premature optimization: optimizaciones prematuras• Indescriptive Naming: nombres poco descriptivos• Duplication: duplicidad de código","prefix":"retendo herir tus sentimientos, ","suffix":"¿Qué es un code smell?El término"}]}]}
+>```
+>%%
+>*%%PREFIX%%retendo herir tus sentimientos,%%HIGHLIGHT%% ==STUPID es simplemente un acró-nimo basado en seis code smells que describen cómo NO debe ser el software quedesarrollamos.• Singleton: patrón singleton• Tight Coupling: alto acoplamiento• Untestability: código no testeable• Premature optimization: optimizaciones prematuras• Indescriptive Naming: nombres poco descriptivos• Duplication: duplicidad de código== %%POSTFIX%%¿Qué es un code smell?El término*
+>%%LINK%%[[#^xfgpb2zjbgd|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^xfgpb2zjbgd
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:48:26.414Z","updated":"2023-11-16T04:48:26.414Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":81807,"end":81963},{"type":"TextQuoteSelector","exact":"los codesmellshacen referencia a posibles indicios de que algo no está del todo bien planteado ennuestro código y que es probable que debamos refactorizarlo","prefix":" de deuda técnica. En este caso ","suffix":".Existen múltiples code smells, "}]}]}
+>```
+>%%
+>*%%PREFIX%%de deuda técnica. En este caso%%HIGHLIGHT%% ==los codesmellshacen referencia a posibles indicios de que algo no está del todo bien planteado ennuestro código y que es probable que debamos refactorizarlo== %%POSTFIX%%.Existen múltiples code smells,*
+>%%LINK%%[[#^xcqp1piw7j|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^xcqp1piw7j
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:49:24.251Z","updated":"2023-11-16T04:49:24.251Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":83079,"end":83341},{"type":"TextQuoteSelector","exact":"Una de las razones por las que emplear patrones Singleton se considera una malapráctica es porque generalmente expone la instancia de nuestro objeto al contextoglobal de la aplicación, pudiendo ser modificado en cualquier momento y perdiendoel control del mismo.","prefix":"jemplo interactivo desde aquí⁵¹.","suffix":"Otra de las razones es que hacer"}]}]}
+>```
+>%%
+>*%%PREFIX%%jemplo interactivo desde aquí⁵¹.%%HIGHLIGHT%% ==Una de las razones por las que emplear patrones Singleton se considera una malapráctica es porque generalmente expone la instancia de nuestro objeto al contextoglobal de la aplicación, pudiendo ser modificado en cualquier momento y perdiendoel control del mismo.== %%POSTFIX%%Otra de las razones es que hacer*
+>%%LINK%%[[#^u19thrl825|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^u19thrl825
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:49:41.299Z","updated":"2023-11-16T04:49:41.299Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":83341,"end":83580},{"type":"TextQuoteSelector","exact":"Otra de las razones es que hacer unit test con ellas puede llegar a ser un infiernoporque cada test debe ser totalmente independiente al anterior y eso no se cumple,por lo que al mantener el estado, la aplicación se hace difícil de testear","prefix":"y perdiendoel control del mismo.","suffix":".A pesar de que se pueda seguir "}]}]}
+>```
+>%%
+>*%%PREFIX%%y perdiendoel control del mismo.%%HIGHLIGHT%% ==Otra de las razones es que hacer unit test con ellas puede llegar a ser un infiernoporque cada test debe ser totalmente independiente al anterior y eso no se cumple,por lo que al mantener el estado, la aplicación se hace difícil de testear== %%POSTFIX%%.A pesar de que se pueda seguir*
+>%%LINK%%[[#^9678yjojk2|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^9678yjojk2
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:50:11.040Z","updated":"2023-11-16T04:50:11.040Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":84092,"end":84165},{"type":"TextQuoteSelector","exact":"La cohesión hace referencia a la relación entre los módulos de un sistema","prefix":"onceptos?Acoplamiento y cohesión","suffix":". Entérminos de clase, podemos d"}]}]}
+>```
+>%%
+>*%%PREFIX%%onceptos?Acoplamiento y cohesión%%HIGHLIGHT%% ==La cohesión hace referencia a la relación entre los módulos de un sistema== %%POSTFIX%%. Entérminos de clase, podemos d*
+>%%LINK%%[[#^7ezizjliq6k|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^7ezizjliq6k
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:50:30.042Z","updated":"2023-11-16T04:50:30.042Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":84286,"end":84446},{"type":"TextQuoteSelector","exact":"Un código con alta cohesión suele ser más self-contained, es decir contiene toda las piezas que necesita por lo tanto también sueleser más sencillo de entender.","prefix":"chamente relacionados entre sí. ","suffix":" No obstante, si aumentamos dema"}]}]}
+>```
+>%%
+>*%%PREFIX%%chamente relacionados entre sí.%%HIGHLIGHT%% ==Un código con alta cohesión suele ser más self-contained, es decir contiene toda las piezas que necesita por lo tanto también sueleser más sencillo de entender.== %%POSTFIX%%No obstante, si aumentamos dema*
+>%%LINK%%[[#^xl6cepkqn|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^xl6cepkqn
+
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:51:03.953Z","updated":"2023-11-16T04:51:03.953Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":84696,"end":84824},{"type":"TextQuoteSelector","exact":"i tenemos muchas relacionesentre dichos módulos, con muchas dependencias unos de otros, tendremos un gradode acoplamiento alto. ","prefix":" y su dependencia entre ellos. S","suffix":"En cambio, si los módulos son in"}]}]}
+>```
+>%%
+>*%%PREFIX%%y su dependencia entre ellos. S%%HIGHLIGHT%% ==i tenemos muchas relacionesentre dichos módulos, con muchas dependencias unos de otros, tendremos un gradode acoplamiento alto.== %%POSTFIX%%En cambio, si los módulos son in*
+>%%LINK%%[[#^v8ufrsrh7sd|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^v8ufrsrh7sd
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:51:15.558Z","updated":"2023-11-16T04:51:15.558Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":84910,"end":85076},{"type":"TextQuoteSelector","exact":"Si favorecemos el bajo acoplamiento, obtendremos módulosmás pequeños y con responsabilidades más definidas, pero también más dispersosEn el equilibrio está la virtud,","prefix":"tros, elacoplamiento será bajo. ","suffix":" es por ello que debemos tratar "}]}]}
+>```
+>%%
+>*%%PREFIX%%tros, elacoplamiento será bajo.%%HIGHLIGHT%% ==Si favorecemos el bajo acoplamiento, obtendremos módulosmás pequeños y con responsabilidades más definidas, pero también más dispersosEn el equilibrio está la virtud,== %%POSTFIX%%es por ello que debemos tratar*
+>%%LINK%%[[#^77hm2lkld0v|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^77hm2lkld0v
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:51:44.814Z","updated":"2023-11-16T04:51:44.814Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":85192,"end":85343},{"type":"TextQuoteSelector","exact":"La mayoría de las veces, el código no testeable o dificilmente testeable es causado porun alto acoplamiento y/o cuando no se inyectan las dependencias ","prefix":" la cohesión.Código no testeable","suffix":". Profundizaremosen este último "}]}]}
+>```
+>%%
+>*%%PREFIX%%la cohesión.Código no testeable%%HIGHLIGHT%% ==La mayoría de las veces, el código no testeable o dificilmente testeable es causado porun alto acoplamiento y/o cuando no se inyectan las dependencias== %%POSTFIX%%. Profundizaremosen este último*
+>%%LINK%%[[#^z9a8kfmpwt|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^z9a8kfmpwt
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:52:55.042Z","updated":"2023-11-16T04:52:55.042Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":86463,"end":86656},{"type":"TextQuoteSelector","exact":" no quiere decir que debamos escribir software poco optimizado, sino queno debemos anticiparnos a los requisitos y desarrollar abstracciones innecesarias quepuedan añadir complejidad accidental","prefix":"raíz de todos los males.Con esto","suffix":".Complejidad esencial y compleji"}]}]}
+>```
+>%%
+>*%%PREFIX%%raíz de todos los males.Con esto%%HIGHLIGHT%% ==no quiere decir que debamos escribir software poco optimizado, sino queno debemos anticiparnos a los requisitos y desarrollar abstracciones innecesarias quepuedan añadir complejidad accidental== %%POSTFIX%%.Complejidad esencial y compleji*
+>%%LINK%%[[#^62bvwzzaeqr|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^62bvwzzaeqr
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:53:16.809Z","updated":"2023-11-16T04:53:16.809Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":86702,"end":86929},{"type":"TextQuoteSelector","exact":"El antipatrón de diseño accidental complexity, o complejidad accidental, es lasituación a la que se llega cuando en el desarrollo de un producto software seimplementa una solución de complejidad mayor a la mínima indispensable.","prefix":"sencial y complejidad accidental","suffix":"Lo ideal sería que la complejida"}]}]}
+>```
+>%%
+>*%%PREFIX%%sencial y complejidad accidental%%HIGHLIGHT%% ==El antipatrón de diseño accidental complexity, o complejidad accidental, es lasituación a la que se llega cuando en el desarrollo de un producto software seimplementa una solución de complejidad mayor a la mínima indispensable.== %%POSTFIX%%Lo ideal sería que la complejida*
+>%%LINK%%[[#^5yswkw5swgf|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^5yswkw5swgf
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:58:21.579Z","updated":"2023-11-16T04:58:21.579Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":87826,"end":87851},{"type":"TextQuoteSelector","exact":"Nombres poco descriptivos","prefix":"erBullet.pdfDe STUPID a SOLID 68","suffix":"El siguiente principio STUPID es"}]}]}
+>```
+>%%
+>*%%PREFIX%%erBullet.pdfDe STUPID a SOLID 68%%HIGHLIGHT%% ==Nombres poco descriptivos== %%POSTFIX%%El siguiente principio STUPID es*
+>%%LINK%%[[#^nzd225ors3b|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^nzd225ors3b
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:58:23.074Z","updated":"2023-11-16T04:58:23.074Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":88171,"end":88191},{"type":"TextQuoteSelector","exact":"Duplicidad de código","prefix":"capítulo de nombres y variables.","suffix":"El último principio STUPID viene"}]}]}
+>```
+>%%
+>*%%PREFIX%%capítulo de nombres y variables.%%HIGHLIGHT%% ==Duplicidad de código== %%POSTFIX%%El último principio STUPID viene*
+>%%LINK%%[[#^gk9ukfu7o9o|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^gk9ukfu7o9o
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:58:25.498Z","updated":"2023-11-16T04:58:25.498Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":88449,"end":88464},{"type":"TextQuoteSelector","exact":"Duplicidad real","prefix":"cado, aunque existenexcepciones.","suffix":"El código en la duplicidad real,"}]}]}
+>```
+>%%
+>*%%PREFIX%%cado, aunque existenexcepciones.%%HIGHLIGHT%% ==Duplicidad real== %%POSTFIX%%El código en la duplicidad real,*
+>%%LINK%%[[#^y7wq5fkk63c|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^y7wq5fkk63c
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:58:32.079Z","updated":"2023-11-16T04:58:32.079Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":88888,"end":88909},{"type":"TextQuoteSelector","exact":"Duplicidad accidental","prefix":"ar yque tendríamos que unificar.","suffix":"Al contrario que en la duplicida"}]}]}
+>```
+>%%
+>*%%PREFIX%%ar yque tendríamos que unificar.%%HIGHLIGHT%% ==Duplicidad accidental== %%POSTFIX%%Al contrario que en la duplicida*
+>%%LINK%%[[#^6bm9ndxnvsc|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^6bm9ndxnvsc
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:58:40.696Z","updated":"2023-11-16T04:58:40.696Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":88465,"end":88544},{"type":"TextQuoteSelector","exact":"l código en la duplicidad real, además de ser idéntico, cumple la misma función","prefix":"stenexcepciones.Duplicidad realE","suffix":".Por lo tanto, si hacemos un cam"}]}]}
+>```
+>%%
+>*%%PREFIX%%stenexcepciones.Duplicidad realE%%HIGHLIGHT%% ==l código en la duplicidad real, además de ser idéntico, cumple la misma función== %%POSTFIX%%.Por lo tanto, si hacemos un cam*
+>%%LINK%%[[#^slpekdvw9v8|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^slpekdvw9v8
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:58:48.661Z","updated":"2023-11-16T04:58:48.661Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":88909,"end":89072},{"type":"TextQuoteSelector","exact":"Al contrario que en la duplicidad real, la duplicidad accidental es aquella en la queel código puede parecer el mismo, pero en realidad cumple funciones distintas.","prefix":"e unificar.Duplicidad accidental","suffix":" Eneste caso el código tiene un "}]}]}
+>```
+>%%
+>*%%PREFIX%%e unificar.Duplicidad accidental%%HIGHLIGHT%% ==Al contrario que en la duplicidad real, la duplicidad accidental es aquella en la queel código puede parecer el mismo, pero en realidad cumple funciones distintas.== %%POSTFIX%%Eneste caso el código tiene un*
+>%%LINK%%[[#^2h79zc2tnyh|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^2h79zc2tnyh
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T04:59:29.690Z","updated":"2023-11-16T04:59:29.690Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":89358,"end":89519},{"type":"TextQuoteSelector","exact":"Los principios de SOLID nos indican cómo organizar nuestras funciones y estructurasde datos en componentes y cómo dichos componentes deben estar interconectados.","prefix":"icar.Principios SOLID al rescate","suffix":"Normalmente éstos suelen ser cla"}]}]}
+>```
+>%%
+>*%%PREFIX%%icar.Principios SOLID al rescate%%HIGHLIGHT%% ==Los principios de SOLID nos indican cómo organizar nuestras funciones y estructurasde datos en componentes y cómo dichos componentes deben estar interconectados.== %%POSTFIX%%Normalmente éstos suelen ser cla*
+>%%LINK%%[[#^roa8x5ug5i|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^roa8x5ug5i
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T05:06:58.289Z","updated":"2023-11-16T05:06:58.289Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":89904,"end":90077},{"type":"TextQuoteSelector","exact":"El acrónimo SOLID fue creado por Michael Feathers⁵⁴, y, cómo no, popularizadopor Robert C. Martin en su libro Agile Software Development: Principles, Patterns,and Practices.","prefix":"do aplicar los principios SOLID.","suffix":" Consiste en cinco principios o "}]}]}
+>```
+>%%
+>*%%PREFIX%%do aplicar los principios SOLID.%%HIGHLIGHT%% ==El acrónimo SOLID fue creado por Michael Feathers⁵⁴, y, cómo no, popularizadopor Robert C. Martin en su libro Agile Software Development: Principles, Patterns,and Practices.== %%POSTFIX%%Consiste en cinco principios o*
+>%%LINK%%[[#^wb0fn9707em|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^wb0fn9707em
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-16T05:07:10.208Z","updated":"2023-11-16T05:07:10.208Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":90303,"end":90523},{"type":"TextQuoteSelector","exact":"• Single Responsibility: Responsabilidad única.• Open/Closed: Abierto/Cerrado.• Liskov substitution: Sustitución de Liskov.• Interface segregation: Segregación de interfaz.• Dependency Inversion: Inversión de dependencia","prefix":"ambiar y testear nuestro código.","suffix":".Es importante resaltar que se t"}]}]}
+>```
+>%%
+>*%%PREFIX%%ambiar y testear nuestro código.%%HIGHLIGHT%% ==• Single Responsibility: Responsabilidad única.• Open/Closed: Abierto/Cerrado.• Liskov substitution: Sustitución de Liskov.• Interface segregation: Segregación de interfaz.• Dependency Inversion: Inversión de dependencia== %%POSTFIX%%.Es importante resaltar que se t*
+>%%LINK%%[[#^sk1mp7qrud|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^sk1mp7qrud

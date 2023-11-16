@@ -35,8 +35,9 @@
   "4. Archive": "RaDeadTree",
   "2. Areas": "FarCompass",
   "0. Daybook": "FarCalendar",
-  "3. Resources": {
-    "iconName": "RaDiamond",
-    "inheritanceIcon": "FarBookmark"
+  "3. Resources": "RaDiamond",
+  "3. Resources/Software Engineering/JavaScript/Classes.md": {
+    "iconName": null,
+    "inheritanceIcon": "FarCompass"
   }
 }
