@@ -8,6 +8,7 @@
     "Current Page": "number",
     "Date Started": "date",
     "Type": "multitext",
-    "Date Finished": "date"
+    "Date Finished": "date",
+    "Year": "number"
   }
 }

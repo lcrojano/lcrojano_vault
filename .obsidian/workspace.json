@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Daybook/Habit Tracker.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Daybook/Habit Tracker.md",
+                "file": "0. Daybook/2023 Daily Habit Tracker.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Daybook/Habit Tracker.md",
+                "file": "Dashboard.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Daybook/Habit Tracker.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Daybook/Habit Tracker.md"
+                "file": "Dashboard.md"
               }
             }
           }
@@ -198,22 +198,24 @@
   },
   "active": "f11cbb28a2bcebee",
   "lastOpenFiles": [
-    "0. Daybook/2023/Daily/11/2023-11-14.md",
-    "0. Daybook/Habit Tracker.md",
     "0. Daybook/2023/Daily/11/2023-11-15.md",
+    "0. Daybook/2023/Weekly/2023-W46.md",
+    "0. Daybook/2023 Daily Habit Tracker.md",
+    "0. Daybook/2023/Daily/11/2023-11-13.md",
+    "0. Daybook/2023/Daily/11/2023-11-14.md",
+    "1. Projects/0001 Setup templates/Setup Templates.md",
+    "Dashboard canvas.canvas",
     "0. Daybook/Templates/Weekly.md",
     "0. Daybook/Templates/Daily.md",
     "3. Resources/Software Engineering/Angular/VITE.md",
     "3. Resources/Pocket/How to Implement Login and Role-Based Authorization with JWT in Angular.md",
     "2. Areas/Learning/Angular.md",
-    "1. Projects/0001 Setup templates/Setup Templates.md",
     "3. Resources/Software Engineering/Angular/SoloLearn/Angular + Sololearn - Learning Angular with Juan Núñez from Sololearn.md",
     "3. Resources/Software Engineering/Angular/Angular.dev/What is Angular.md",
     "3. Resources/Software Engineering/Angular/SoloLearn",
     "3. Resources/Software Engineering/Angular/Angular.dev",
     "Dashboard.md",
     "3. Resources/Software Engineering/Angular/Becoming an Angular Ninja.md",
-    "Dashboard canvas.canvas",
     "3. Resources/Second Brain/PARA/books/Building a second brain - a proven method to organize your digital life and unlock your creative potential.md",
     "3. Resources/Second Brain/PARA/books/Building a Second Brain Bonus.md",
     "3. Resources/Second Brain/PARA/000 What is para method.md",
@@ -227,8 +229,6 @@
     "1. Projects/0004 Backup REDG SERVER/🚀 Backup REDG server.md",
     "1. Projects/1100 Build MAG Website/🚀 Building Marie Wbsite.md",
     "1. Projects/1100 Build MAG Website/🚀 tes.md",
-    "1. Projects/1100 Build MAG Website/🚀 ss.md",
-    "1. Projects/1100 Build MAG Website/🚀 1.md",
     "1. Projects/0004 Backup REDG SERVER",
     "_Inbox/Read Later/assets/a5e15751eceacbf5fee44db71a2c5436a05ca848.gif",
     "_Inbox/Read Later/assets/9f67ba8d4add0bdaf1ae0c5a098207da958de3a2.gif",
