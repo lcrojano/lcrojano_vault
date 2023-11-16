@@ -2,8 +2,6 @@
 Year: 2023
 Folder: 0. Daybook
 ---
-
-
 ``` dataviewjs 
 dv.span("** ⌨️ Fast Typing Practice ⌨️ **") 
 /* optional ⏹️💤⚡⚠🧩↑↓⏳📔💾📁📝🔄📝🔀⌨️🕸️📅🔍✨ */ 
@@ -30,7 +28,7 @@ for (let item of (page.file.lists).where(p => p["Fast Typing"])) {
         content: "⌨️", // (optional) Add text to the date cell
       //  color: "blue", // (optional) Reference from *calendarData.colors*. If no color is supplied; colors[0] is used
         
-content: await dv.span(`[](${page.file.name})`), //for hover preview
+content: await dv.span(`[](${page.file.name})`) // await dv.span(`[](${page.file.name})`), //for hover preview
 
     })}
 }

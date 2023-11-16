@@ -6,7 +6,7 @@ tags:
   - projects/janeth-course
 ---
 ## Tasks
-- [ ] Planning meeting 📅 2023-11-14 5:00 pm 🔼 
+- [-] Planning meeting 📅 2023-11-14 5:00 pm 🔼
 - [ ] Build presentation
 - [ ] Setup 3 Scenes or more
 - [ ] Check [[04 Setup]]

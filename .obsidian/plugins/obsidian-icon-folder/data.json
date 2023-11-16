@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RaDiamond",
+      "RaMiningDiamonds",
+      "FarBookmark",
       "FarCalendar",
-      "FarCompass",
-      "RaDeadTree",
-      "RaBook",
-      "RaBullets"
+      "FarCompass"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -26,7 +26,7 @@
     "iconInFrontmatterEnabled": false,
     "iconsInNotesEnabled": true
   },
-  "1. Projects": "RaCrossedAxes",
+  "1. Projects": "RaMiningDiamonds",
   "3 Resources": "RaBook",
   "3 Resources/Software Engineering/JavaScript/Clean Code Javascript.md": {
     "iconName": null,
@@ -34,5 +34,9 @@
   },
   "4. Archive": "RaDeadTree",
   "2. Areas": "FarCompass",
-  "0. Daybook": "FarCalendar"
+  "0. Daybook": "FarCalendar",
+  "3. Resources": {
+    "iconName": "RaDiamond",
+    "inheritanceIcon": "FarBookmark"
+  }
 }

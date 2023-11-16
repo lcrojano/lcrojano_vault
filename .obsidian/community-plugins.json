@@ -1,5 +1,4 @@
 [
-  "obsidian-annotator",
   "dataview",
   "file-explorer-note-count",
   "obsidian-icon-folder",
@@ -18,5 +17,7 @@
   "excalibrain",
   "calendar",
   "heatmap-calendar",
-  "habit-tracker"
+  "habit-tracker",
+  "tasks-calendar-wrapper",
+  "obsidian-annotator"
 ]
