@@ -1,5 +1,5 @@
 ---
-Project: "[[Building a Second Brain - README]]"
+Project: "[[🚀 Building a Second Brain - README]]"
 ---
 
 To create periodic note you should:

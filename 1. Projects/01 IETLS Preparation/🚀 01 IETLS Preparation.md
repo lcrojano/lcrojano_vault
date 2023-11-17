@@ -1,29 +1,30 @@
-<%*
-const folders = tp.file.folder(true).split('/') 
-let parentFolder = folders[folders.length - 1]
-let title = tp.file.title 
-title = await tp.system.prompt("Title", parentFolder); 
-await tp.file.rename(title); 
-tR += "---" 
-%>
-Type: Project
-tags: [<% parentFolder.replace(/ /g, "-") %>]
-Status: 🟡 New
-Short Description:
-Date Started: <% tp.file.creation_date() %>
 ---
-> 🌟 **Embrace the Challenge:** 
+Type:
+  - Project
+tags:
+  - 01-IETLS-Preparation
+Status: 🟢 In Progress
+Short Description: 
+Date Started: 2023-11-16 23:42
+---
+
+>🌟 **Embrace the Challenge:** 
 > This project is your opportunity to transform aspirations into reality. Embark on a journey of growth and discovery, where your skills and determination converge to achieve meaningful goals.
 
-## 🎯 **Goals**
+## 🎯**Goals**
 [💡^]: Remember to set [[S.M.A.R.T]] goals
 [💡^]: Use the [[5 Whys Technique - Root Cause Analysis]]
 
+- To prepare For IETLS exam 
+- To get B2 to C1 at IETLS exam
+- To Practice at least 3 times a week
 
 ## ✅ **Tasks**
 
-- [ ] **Actionable task 1:** 
-- [ ] **Actionable task 2:** 
+### Stage 1 
+- [ ] Learn About [[IETLS basics]] 📅 2023-11-17 
+- [ ] Find [[IETLS Online Tutorials and videos]] 📅 2023-11-17 
+
 
 
 ---
@@ -74,4 +75,5 @@ WHERE contains(file.tags,this.file.tags[0])
 
 **Embrace the excitement and embark on your journey of accomplishment!**
 
-<% tp.web.daily_quote() %>
+> [!quote] The foolish man seeks happiness in the distance, the wise grows it under his feet.
+> — James Oppenheim

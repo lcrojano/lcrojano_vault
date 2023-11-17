@@ -5,3 +5,4 @@
 
 ## Video
 [[Youtube - Introduction to Git Recap  Learn with Dr G]]
+[Git MERGE vs REBASE: Everything You Need to Know - YouTube](https://www.youtube.com/watch?v=0chZFIZLR_0)

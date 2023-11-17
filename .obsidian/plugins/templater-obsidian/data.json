@@ -22,7 +22,8 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "3. Resources/Templates/Project Template.md"
+    "3. Resources/Templates/Project Template.md",
+    "3. Resources/Templates/Area Template.md"
   ],
   "startup_templates": [
     ""

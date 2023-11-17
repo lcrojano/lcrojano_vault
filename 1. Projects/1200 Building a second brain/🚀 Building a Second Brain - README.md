@@ -3,8 +3,11 @@ Type:
   - Project
 Short Description: Build a Second brain based on GTD, PARA and Zettelkasten
 ---
+## Goals
 
-## Bullets
+
+
+## **Brainstorming**
 ``` dataview
 LIST without id
 L.text

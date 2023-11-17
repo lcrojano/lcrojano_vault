@@ -16,7 +16,7 @@
 - [ ] [Microsoft Rewards:: ]: Earn 500 points
 - [ ] [Fast Typing:: ]: Practice for 30 minutes
 - [ ] [Reading:: ]: Read at least 40 pages 
-
+- [ ] [English Talk:: ] to improve accent.
 ### 🚀 Mastery
 - [Angular:: ]: Learn a new concept or feature in Angular. (30 minutes)
 - [TypeScript:: ]: Practice TypeScript coding exercises or tutorials. (30 minutes)

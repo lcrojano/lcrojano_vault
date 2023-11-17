@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4d8498ebbc2ff95e",
+        "id": "153605cd2b2b2798",
         "type": "tabs",
         "children": [
           {
-            "id": "db4a71df6dafbcd6",
+            "id": "8ac1f0f911785ffb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Daybook/Templates/Daily.md",
+                "file": "1. Projects/01 IETLS Preparation/🚀 01 IETLS Preparation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "8488bc17781ccd8e",
@@ -87,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "2d1ab4ea006b17c6",
@@ -129,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Daybook/Templates/Daily.md",
+                "file": "1. Projects/01 IETLS Preparation/🚀 01 IETLS Preparation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Daybook/Templates/Daily.md",
+                "file": "1. Projects/01 IETLS Preparation/🚀 01 IETLS Preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +159,7 @@
             }
           },
           {
-            "id": "cfaec2f6985c9c4e",
+            "id": "005ff1999aa63191",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -169,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "a34bfd7309944f75",
@@ -182,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Daybook/Templates/Daily.md"
+                "file": "1. Projects/01 IETLS Preparation/🚀 01 IETLS Preparation.md"
               }
             }
           }
@@ -190,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 294.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,39 +202,43 @@
       "zk-prefixer:Create new unique note": false,
       "obsidian-projects:Open projects": false,
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "db4a71df6dafbcd6",
+  "active": "8ac1f0f911785ffb",
   "lastOpenFiles": [
-    "0. Daybook/2023/Daily/11/2023-11-16.md",
-    "0. Daybook/Templates/Daily.md",
-    "0. Daybook/2023 Daily Habit Tracker.md",
-    "2. Areas/Accountability/Daybook/000 Daybook Template.md",
-    "2. Areas/Accountability/Daybook/2023-1-12 Embedding a online pdf to obsidian.md",
-    "2. Areas/Accountability/Daybook/2023-1-12  large file management in git.md",
-    "3. Resources/Daybook/Daybook.md",
-    "0. Daybook/2023/Daily/11/2023-11-15.md",
-    "0. Daybook/2023/Daily/11/2023-11-14.md",
-    "0. Daybook/2023/Daily/11/2023-11-13.md",
+    "3. Resources/Productivity/S.M.A.R.T.md",
+    "1. Projects/01 IETLS Preparation/🚀 01 IETLS Preparation.md",
+    "3. Resources/Templates/Project Template.md",
+    "3. Resources/Productivity/5 Whys Technique - Root Cause Analysis.md",
     "Dashboard.md",
-    "3. Resources/Software Engineering/JavaScript/SOLID principles.md",
-    "3. Resources/Software Engineering/JavaScript/Clean Code Javascript.md",
-    "3. Resources/Pocket/Clean Code Single Responsibility, OpenClosed, Liskov Substitution SOLID P.md",
-    "3. Resources/Software Engineering/JavaScript/Inheritance.md",
-    "3. Resources/Software Engineering/JavaScript/Methods.md",
-    "3. Resources/Software Engineering/JavaScript/Untitled",
-    "3. Resources/Software Engineering/JavaScript/Classes.md",
-    "3. Resources/Software Engineering/JavaScript/JavaScript Naming Best Practices.md",
-    "3. Resources/Software Engineering/JavaScript/Declarative Vs Imperative.md",
+    "3. Resources/Productivity",
+    "1. Projects/01 IETLS Preparation/e.md",
     "1. Projects/Untitled.canvas",
-    "0. Daybook/2023/Weekly/2023-W46.md",
-    "1. Projects/0004 Backup REDG SERVER/🚀 Backup REDG server.md",
-    "1. Projects/0001 Setup templates/Setup Templates.md",
-    "3. Resources/Software Engineering/Angular/Becoming an Angular Ninja.md",
-    "3. Resources/Personal Development/The Strangest Secret.md",
+    "1. Projects/01 IETLS Preparation/ds.md",
+    "1. Projects/01 IETLS Preparation/ss.md",
+    "1. Projects/01 IETLS Preparation/test.md",
+    "1. Projects/01 IETLS Preparation/test.md",
+    "1. Projects/01 IETLS Preparation/01 IETLS preparation.md",
+    "1. Projects/01 IETLS Preparation/Untitled 4.md",
+    "1. Projects/01 IETLS Preparation/Untitled 2.md",
+    "1. Projects/01 IETLS Preparation/Untitled 3.md",
+    "1. Projects/01 IETLS Preparation/Untitled.canvas",
+    "1. Projects/01 IETLS Preparation/quick add 1.md",
+    "1. Projects/01 IETLS Preparation/01 ietls preparations.md",
+    "1. Projects/01 IETLS Preparation/quick add test.md",
+    "1. Projects/01 IETLS Preparation/01 ietls.md",
+    "1. Projects/01 IETLS Preparation/quick add.md",
+    "1. Projects/01 IETLS Preparation/quic add.md",
+    "1. Projects/01 IETLS Preparation/02 ietls.md",
+    "1. Projects/01 IETLS Preparation/quick.md",
+    "1. Projects/01 IETLS Preparation/01 ietls preparation.md",
+    "1. Projects/01 IETLS Preparation/01 IETLS preparation.md",
+    "1. Projects/1200 Building a second brain/Active Recall.md",
+    "1. Projects/01 IETLS Preparation",
     "Dashboard canvas.canvas",
-    "Inbox.md",
+    "3. Resources/Software Engineering/JavaScript/Untitled",
     "3. Resources/Software Engineering/Angular/SoloLearn",
     "3. Resources/Software Engineering/Angular/Angular.dev",
     "3. Resources/Startup/Untitled",
@@ -254,8 +256,6 @@
     "_Inbox/Read Later/assets/LifeOS-%E7%A4%BA%E4%BE%8B-%E6%A0%87%E6%B3%A8-EN.png",
     "3. Resources/Personal Development",
     "0. Daybook/2023/Weekly",
-    "0. Daybook/2023/Daily/11",
-    "0. Daybook/2023/Daily",
     "3. Resources/Second Brain/GTD/_GTD mindmap.canvas"
   ]
 }

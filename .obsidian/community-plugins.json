@@ -19,5 +19,7 @@
   "heatmap-calendar",
   "habit-tracker",
   "tasks-calendar-wrapper",
-  "obsidian-annotator"
+  "obsidian-annotator",
+  "templater-obsidian",
+  "quickadd"
 ]

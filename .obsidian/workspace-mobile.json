@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Daybook/2023/Daily/11/2023-11-14.md",
+                "file": "0. Daybook/2023/Daily/11/2023-11-16.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0. Daybook/2023/Daily/11/2023-11-14.md",
+            "file": "0. Daybook/2023/Daily/11/2023-11-16.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0. Daybook/2023/Daily/11/2023-11-14.md",
+            "file": "0. Daybook/2023/Daily/11/2023-11-16.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0. Daybook/2023/Daily/11/2023-11-14.md"
+            "file": "0. Daybook/2023/Daily/11/2023-11-16.md"
           }
         }
       },
@@ -150,9 +150,17 @@
           "type": "calendar",
           "state": {}
         }
+      },
+      {
+        "id": "83f89bb1dd054a48",
+        "type": "leaf",
+        "state": {
+          "type": "tasks_timeline_view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,6 +179,7 @@
   },
   "active": "714d5618f6a44607",
   "lastOpenFiles": [
+    "0. Daybook/2023/Daily/11/2023-11-14.md",
     "1. Projects/0003 Janeth Course/00 Diplomado Virtual - README.md",
     "1. Projects/0001 Setup templates/Setup Templates.md",
     "Dashboard.md",
@@ -197,7 +206,6 @@
     "100 Projects/1500 Hacktoberfest/Post at DEV.md",
     "100 Projects/1500 Hacktoberfest/180 Daily.dev/attachments/Pasted image 20231017202043.png",
     "100 Projects/1500 Hacktoberfest/150 Alice in Wonderland/Settings/Wonderland.md",
-    "300 Resources/CSS/Keyframe.md",
     "100 Projects/1500 Hacktoberfest/attachments/planted tree cert.png",
     "100 Projects/1500 Hacktoberfest/180 Daily.dev/attachments/Pasted image 20231017202107.png",
     "100 Projects/1500 Hacktoberfest/attachments/Captura de pantalla 2023-10-20 162926.png",

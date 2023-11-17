@@ -83,7 +83,7 @@ renderHeatmapCalendar(this.container, calendarData)
 ```
 
 ``` dataviewjs
-const habitName = "Read at least 40 pages of a book"
+const habitName = "Reading"
 dv.span(`** 📎${habitName} 📎 **`) 
 
 const calendarData = {
