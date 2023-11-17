@@ -1,16 +1,9 @@
-<%*
-const folders = tp.file.folder(true).split('/') 
-let parentFolder = "🚀 "+ folders[folders.length - 1]
-let title = tp.file.title 
-title = await tp.system.prompt("Title", parentFolder); 
-await tp.file.rename(title); 
-tR += "---" 
-%>
+---
 Type: Project
-tags: [<% parentFolder.replace(/ /g, "-") %>]
+tags: [🚀-0004-Backup-REDG-SERVER]
 Status: 🟡 New
 Short Description:
-Date Started: <% tp.file.creation_date() %>
+Date Started: 2023-11-17 00:02
 ---
 > 🌟 **Embrace the Challenge:** 
 > This project is your opportunity to transform aspirations into reality. Embark on a journey of growth and discovery, where your skills and determination converge to achieve meaningful goals.
@@ -74,4 +67,5 @@ WHERE contains(file.tags,this.file.tags[0])
 
 **Embrace the excitement and embark on your journey of accomplishment!**
 
-<% tp.web.daily_quote() %>
+> [!quote] Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.
+> — Franklin D. Roosevelt

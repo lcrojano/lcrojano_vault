@@ -2,7 +2,7 @@
 Type:
   - Project
 tags:
-  - 01-IETLS-Preparation
+  -  🚀01-IETLS-Preparation
 Status: 🟢 In Progress
 Short Description: 
 Date Started: 2023-11-16 23:42

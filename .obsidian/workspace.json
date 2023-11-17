@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/01 IETLS Preparation/🚀 01 IETLS Preparation.md",
+                "file": "0. Daybook/2023/Daily/11/2023-11-16.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#areas",
+                "query": "tag:#🚀01-IETLS-Preparation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/01 IETLS Preparation/🚀 01 IETLS Preparation.md",
+                "file": "0. Daybook/2023/Daily/11/2023-11-16.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/01 IETLS Preparation/🚀 01 IETLS Preparation.md",
+                "file": "0. Daybook/2023/Daily/11/2023-11-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,8 +166,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "a34bfd7309944f75",
@@ -180,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/01 IETLS Preparation/🚀 01 IETLS Preparation.md"
+                "file": "0. Daybook/2023/Daily/11/2023-11-16.md"
               }
             }
           }
@@ -208,9 +207,16 @@
   },
   "active": "8ac1f0f911785ffb",
   "lastOpenFiles": [
-    "3. Resources/Productivity/S.M.A.R.T.md",
-    "1. Projects/01 IETLS Preparation/🚀 01 IETLS Preparation.md",
+    "0. Daybook/2023 Daily Habit Tracker.md",
+    "0. Daybook/2023/Daily/11/2023-11-16.md",
+    "0. Daybook/2023/Daily/11/2023-11-15.md",
+    "0. Daybook/2023/Daily/11/2023-11-17.md",
+    "1. Projects/0004 Backup REDG SERVER/🚀 0004 Backup REDG SERVER.md",
+    "1. Projects/0004 Backup REDG SERVER/🚀 Backup REDG server.md",
+    "0. Daybook/2023/Daily/11/2023-11-14.md",
     "3. Resources/Templates/Project Template.md",
+    "1. Projects/01 IETLS Preparation/🚀 01 IETLS Preparation.md",
+    "3. Resources/Productivity/S.M.A.R.T.md",
     "3. Resources/Productivity/5 Whys Technique - Root Cause Analysis.md",
     "Dashboard.md",
     "3. Resources/Productivity",
@@ -230,12 +236,6 @@
     "1. Projects/01 IETLS Preparation/quick add test.md",
     "1. Projects/01 IETLS Preparation/01 ietls.md",
     "1. Projects/01 IETLS Preparation/quick add.md",
-    "1. Projects/01 IETLS Preparation/quic add.md",
-    "1. Projects/01 IETLS Preparation/02 ietls.md",
-    "1. Projects/01 IETLS Preparation/quick.md",
-    "1. Projects/01 IETLS Preparation/01 ietls preparation.md",
-    "1. Projects/01 IETLS Preparation/01 IETLS preparation.md",
-    "1. Projects/1200 Building a second brain/Active Recall.md",
     "1. Projects/01 IETLS Preparation",
     "Dashboard canvas.canvas",
     "3. Resources/Software Engineering/JavaScript/Untitled",
