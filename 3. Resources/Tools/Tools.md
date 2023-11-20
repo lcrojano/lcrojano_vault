@@ -8,3 +8,7 @@
 | [Código y formato mejorado (openai.com)](https://chat.openai.com/c/7638a183-5b09-4977-b9e4-9351f8c29f1e) | LLM            | #tools/AI         |
 | [Transistor - modern podcast hosting and analytics](https://transistor.fm/)                              | podcas sharing | #tools/podcast    
 
+## Typescript
+
+[GitHub - colinhacks/zod: TypeScript-first schema validation with static type inference](https://github.com/colinhacks/zod)
+[opossum - npm](https://www.npmjs.com/package/opossum)

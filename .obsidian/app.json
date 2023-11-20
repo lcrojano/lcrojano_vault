@@ -10,5 +10,6 @@
   "vimMode": false,
   "trashOption": "system",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "newFileLocation": "current"
 }

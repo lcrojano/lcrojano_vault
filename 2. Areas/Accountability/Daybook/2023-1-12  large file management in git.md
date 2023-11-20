@@ -1,4 +1,4 @@
-as seen in [[Daybook|Daybook]]
+as seen in [[🗃️ Daybook|🗃️ Daybook]]
 
 - **Work Log:**
 	- Solved large file management in git

@@ -17,7 +17,7 @@ Posted on Oct 23 • Originally published at [brdnicolas.com](https://brdnicolas
 
 # Unlocking JavaScript Design Patterns: Mastering Singleton for Ultimate Code Efficiency
 
-[#javascript](/t/javascript) [#designpatterns](/t/designpatterns) [#programming](/t/programming) [#tutorial](/t/tutorial)
+[#javascript](/t/javascript) [#design-pattern](/t/designpatterns) [#programming](/t/programming) [#tutorial](/t/tutorial)
 
 ## [patterns (2 Part Series)](/brdnicolas/series/25119)
 

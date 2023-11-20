@@ -1,4 +1,4 @@
-as seen in [[Daybook|Daybook]]
+as seen in [[🗃️ Daybook|🗃️ Daybook]]
 
 - **Work Log:**
 	- Created a GitHub repository to store all books and binary files that will be used as reference for obsidian

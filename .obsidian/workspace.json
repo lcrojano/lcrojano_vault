@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "153605cd2b2b2798",
+        "id": "2b9de38d5ef17a33",
         "type": "tabs",
         "children": [
           {
-            "id": "8ac1f0f911785ffb",
+            "id": "c201b2d548c2f861",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Daybook/2023/Daily/11/2023-11-16.md",
+                "file": "0. Daybook/2023/Daily/11/2023-11-20.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d261e1d83a14aa85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/1600 Git Github Improvements/Improve profile at github.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,7 +45,7 @@
       {
         "id": "7fea14663baf9d47",
         "type": "tabs",
-        "dimension": 34.92647058823529,
+        "dimension": 40.56372549019608,
         "children": [
           {
             "id": "2bf86a90f14ab1c3",
@@ -56,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#🚀01-IETLS-Preparation",
+                "query": "tag:#areas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +83,7 @@
       {
         "id": "8488bc17781ccd8e",
         "type": "tabs",
-        "dimension": 65.07352941176471,
+        "dimension": 59.43627450980392,
         "children": [
           {
             "id": "65b34e469c76e6b1",
@@ -95,7 +108,7 @@
       {
         "id": "20edc07e74a6e79b",
         "type": "tabs",
-        "dimension": 60.90686274509803,
+        "dimension": 75.49019607843137,
         "children": [
           {
             "id": "d8ebe5e3676ca224",
@@ -127,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Daybook/2023/Daily/11/2023-11-16.md",
+                "file": "0. Daybook/2023/Daily/11/2023-11-20.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Daybook/2023/Daily/11/2023-11-16.md",
+                "file": "0. Daybook/2023/Daily/11/2023-11-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,19 +172,20 @@
             }
           },
           {
-            "id": "005ff1999aa63191",
+            "id": "69f5d3676a70ad46",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "a34bfd7309944f75",
         "type": "tabs",
-        "dimension": 39.09313725490196,
+        "dimension": 24.50980392156863,
         "children": [
           {
             "id": "43e2655f6fe2fa86",
@@ -179,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Daybook/2023/Daily/11/2023-11-16.md"
+                "file": "0. Daybook/2023/Daily/11/2023-11-20.md"
               }
             }
           }
@@ -187,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 307.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,45 +219,48 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8ac1f0f911785ffb",
+  "active": "69f5d3676a70ad46",
   "lastOpenFiles": [
-    "0. Daybook/2023 Daily Habit Tracker.md",
+    "3. Resources/Software Engineering/Auth/Oauth 2.0.md",
+    "0. Daybook/2023/Daily/11/2023-11-20.md",
+    "3. Resources/Software Engineering/Auth",
+    "3. Resources/QSI/🚀 QSI.md",
+    "2. Areas/Learning/Git y Github.md",
+    "2. Areas/Learning/Angular.md",
+    "1. Projects/01 IETLS Preparation/🚀 01 IETLS Preparation.md",
+    "0. Daybook/2023/Daily/11/2023-11-19.md",
+    "0. Daybook/2023/Daily/11/2023-11-18.md",
+    "0. Daybook/2023/Daily/11/2023-11-17.md",
     "0. Daybook/2023/Daily/11/2023-11-16.md",
     "0. Daybook/2023/Daily/11/2023-11-15.md",
-    "0. Daybook/2023/Daily/11/2023-11-17.md",
-    "1. Projects/0004 Backup REDG SERVER/🚀 0004 Backup REDG SERVER.md",
-    "1. Projects/0004 Backup REDG SERVER/🚀 Backup REDG server.md",
     "0. Daybook/2023/Daily/11/2023-11-14.md",
-    "3. Resources/Templates/Project Template.md",
-    "1. Projects/01 IETLS Preparation/🚀 01 IETLS Preparation.md",
-    "3. Resources/Productivity/S.M.A.R.T.md",
-    "3. Resources/Productivity/5 Whys Technique - Root Cause Analysis.md",
-    "Dashboard.md",
+    "1. Projects/1600 Git Github Improvements/🚀 01 Improve GitHub.md",
+    "1. Projects/1600 Git Github Improvements/Improve profile at github.md",
+    "3. Resources/Second Brain/Optimizing Your Time 🕚.md",
+    "3. Resources/Second Brain/PARA/clean up your digital workspace.md",
+    "3. Resources/Pocket/Clean Code Single Responsibility, OpenClosed, Liskov Substitution SOLID P.md",
+    "3. Resources/Software Engineering/JavaScript/SOLID principles.md",
+    "3. Resources/Second Brain/PARA/The three habits most important to your Second Brain.md",
+    "3. Resources/Second Brain/PARA/Set of questions.md",
+    "3. Resources/Software Engineering/Design Patterns/CAP, BASE, SOLID, KISS, What do these acronyms mean.md",
+    "0. Daybook/2023 Daily Habit Tracker.md",
+    "3. Resources/Pocket/Unlocking JavaScript Design Patterns Mastering Singleton for Ultimate Code.md",
+    "0. Daybook/Templates/Daily.md",
+    "3. Resources/Software Engineering/Design Patterns",
+    "3. Resources/Second Brain/PARA/7. External knowledge.md",
+    "3. Resources/Second Brain/PARA/6. Thoughts Knowledge.md",
+    "1. Projects/01 CSS Animation Practice",
+    "0. Daybook/2023/Daily/11/~syncthing~2023-11-17.sync-conflict-20231117-224132-VRODC5W.md.tmp",
+    "3. Resources/UX",
+    "_Inbox/Read Later/assets/uxpeak.png",
+    "_Inbox/~syncthing~Microsoft chatgpt free resources.md.tmp",
+    "3. Resources/Software Engineering/Web",
+    "3. Resources/QSI",
     "3. Resources/Productivity",
-    "1. Projects/01 IETLS Preparation/e.md",
     "1. Projects/Untitled.canvas",
-    "1. Projects/01 IETLS Preparation/ds.md",
-    "1. Projects/01 IETLS Preparation/ss.md",
-    "1. Projects/01 IETLS Preparation/test.md",
-    "1. Projects/01 IETLS Preparation/test.md",
-    "1. Projects/01 IETLS Preparation/01 IETLS preparation.md",
-    "1. Projects/01 IETLS Preparation/Untitled 4.md",
-    "1. Projects/01 IETLS Preparation/Untitled 2.md",
-    "1. Projects/01 IETLS Preparation/Untitled 3.md",
     "1. Projects/01 IETLS Preparation/Untitled.canvas",
-    "1. Projects/01 IETLS Preparation/quick add 1.md",
-    "1. Projects/01 IETLS Preparation/01 ietls preparations.md",
-    "1. Projects/01 IETLS Preparation/quick add test.md",
-    "1. Projects/01 IETLS Preparation/01 ietls.md",
-    "1. Projects/01 IETLS Preparation/quick add.md",
     "1. Projects/01 IETLS Preparation",
     "Dashboard canvas.canvas",
-    "3. Resources/Software Engineering/JavaScript/Untitled",
-    "3. Resources/Software Engineering/Angular/SoloLearn",
-    "3. Resources/Software Engineering/Angular/Angular.dev",
-    "3. Resources/Startup/Untitled",
-    "3. Resources/Startup",
-    "1. Projects/0004 Backup REDG SERVER",
     "_Inbox/Read Later/assets/a5e15751eceacbf5fee44db71a2c5436a05ca848.gif",
     "_Inbox/Read Later/assets/9f67ba8d4add0bdaf1ae0c5a098207da958de3a2.gif",
     "_Inbox/Read Later/assets/image-4.png",
@@ -253,9 +270,6 @@
     "_Inbox/Read Later/assets/image-1.png",
     "_Inbox/Read Later/assets/image.png",
     "_Inbox/Read Later/assets/giphy.gif",
-    "_Inbox/Read Later/assets/LifeOS-%E7%A4%BA%E4%BE%8B-%E6%A0%87%E6%B3%A8-EN.png",
-    "3. Resources/Personal Development",
-    "0. Daybook/2023/Weekly",
     "3. Resources/Second Brain/GTD/_GTD mindmap.canvas"
   ]
 }

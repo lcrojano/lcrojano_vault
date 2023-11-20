@@ -3,12 +3,13 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "area": "text",
+    "area": "multitext",
     "topic": "multitext",
     "Current Page": "number",
     "Date Started": "date",
     "Type": "multitext",
     "Date Finished": "date",
-    "Year": "number"
+    "Year": "number",
+    "process": "multitext"
   }
 }

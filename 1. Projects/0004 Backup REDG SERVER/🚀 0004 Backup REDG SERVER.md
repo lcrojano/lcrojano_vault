@@ -11,12 +11,19 @@ Date Started: 2023-11-17 00:02
 ## 🎯 **Goals**
 [💡^]: Remember to set [[S.M.A.R.T]] goals
 [💡^]: Use the [[5 Whys Technique - Root Cause Analysis]]
+- To backup each proyect hosted at rejean server
 
 
 ## ✅ **Tasks**
 
-- [ ] **Actionable task 1:** 
-- [ ] **Actionable task 2:** 
+- [x] Must backup projects until 📅 2023-11-19 ⏫ ⏳ 2023-11-15 (60 minutes). ✅ 2023-11-17
+	- [x] [[ List of projects]] ✅ 2023-11-17
+	- [x] Backup databases ✅ 2023-11-17
+	- [x] Backup nginx ✅ 2023-11-17
+	- [x] check docker services ✅ 2023-11-17
+- [ ] Transfer project to new server
+	- [ ] create a droplet backup
+	- [ ] Create new server for selected projects
 
 
 ---

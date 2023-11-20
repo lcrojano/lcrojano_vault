@@ -1,30 +1,21 @@
 ---
-Type:
-  - Project
-tags:
-  -  🚀01-IETLS-Preparation
-Status: 🟢 In Progress
-Short Description: 
-Date Started: 2023-11-16 23:42
+Type: Project
+tags: [🚀-1600-Git-Github-Improvements]
+Status: 🟡 New
+Short Description:
+Date Started: 2023-11-20 01:57
 ---
-
->🌟 **Embrace the Challenge:** 
+> 🌟 **Embrace the Challenge:** 
 > This project is your opportunity to transform aspirations into reality. Embark on a journey of growth and discovery, where your skills and determination converge to achieve meaningful goals.
 
-## 🎯**Goals**
+## 🎯 **Goals**
 [💡^]: Remember to set [[S.M.A.R.T]] goals
 [💡^]: Use the [[5 Whys Technique - Root Cause Analysis]]
 
-- To prepare For IETLS exam 
-- To get B2 to C1 at IETLS exam
-- To Practice at least 3 times a week
 
 ## ✅ **Tasks**
 
-### Stage 1 
-- [ ] Learn About [[IETLS basics]] 📅 2023-11-21
-- [ ] Find [[IETLS Online Tutorials and videos]] 📅 2023-11-21
-
+- [ ] Implement  [GPRM : GitHub Profile ReadMe Maker](https://gprm.itsvg.in/) and [🙌 7 Tips to Build Your GitHub Profile Like a PRO 🚀 - DEV Community](https://dev.to/quine/7-tips-to-build-your-github-profile-like-a-pro-38bg)
 
 
 ---
@@ -75,5 +66,5 @@ WHERE contains(file.tags,this.file.tags[0])
 
 **Embrace the excitement and embark on your journey of accomplishment!**
 
-> [!quote] The foolish man seeks happiness in the distance, the wise grows it under his feet.
-> — James Oppenheim
+> [!quote] Joy is the best makeup.
+> — Anne Lamott

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Daybook/2023/Daily/11/2023-11-16.md",
-                "mode": "source",
+                "file": "0. Daybook/2023/Daily/11/2023-11-19.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0. Daybook/2023/Daily/11/2023-11-16.md",
+            "file": "0. Daybook/2023/Daily/11/2023-11-19.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0. Daybook/2023/Daily/11/2023-11-16.md",
+            "file": "0. Daybook/2023/Daily/11/2023-11-19.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0. Daybook/2023/Daily/11/2023-11-16.md"
+            "file": "0. Daybook/2023/Daily/11/2023-11-19.md"
           }
         }
       },
@@ -152,7 +152,7 @@
         }
       },
       {
-        "id": "83f89bb1dd054a48",
+        "id": "0ee028205bc319bb",
         "type": "leaf",
         "state": {
           "type": "tasks_timeline_view",
@@ -164,6 +164,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "obsidian-projects:Open projects": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -179,6 +180,25 @@
   },
   "active": "714d5618f6a44607",
   "lastOpenFiles": [
+    "0. Daybook/2023/Daily/11/2023-11-18.md",
+    "0. Daybook/2023/Daily/11/2023-11-19.md",
+    "0. Daybook/2023/Daily/11/2023-11-17.md",
+    "_Inbox/Microsoft chatgpt free resources.md",
+    "3. Resources/Software Engineering/Web/00 HTTP methods.md",
+    "3. Resources/Quote of the day.md",
+    "3. Resources/QSI/01 White Hat.md",
+    "3. Resources/Software Engineering/Web/01 PUT Method.md",
+    "3. Resources/Daybook/What is a Daybook.md",
+    "3. Resources/Daybook/SSH tunnel.md",
+    "3. Resources/Daybook/🗃️ Daybook.md",
+    "3. Resources/Software Engineering/Web/02 PATCH Method.md",
+    "3. Resources/QSI/00 Welcome to Part 1.md",
+    "3. Resources/QSI/🚀 QSI.md",
+    "3. Resources/Software Engineering/Web",
+    "3. Resources/QSI",
+    "0. Daybook/2023/Daily/11/2023-11-16.md",
+    "1. Projects/0004 Backup REDG SERVER/🚀 0004 Backup REDG SERVER.md",
+    "1. Projects/01 IETLS Preparation/🚀 01 IETLS Preparation.md",
     "0. Daybook/2023/Daily/11/2023-11-14.md",
     "1. Projects/0003 Janeth Course/00 Diplomado Virtual - README.md",
     "1. Projects/0001 Setup templates/Setup Templates.md",
@@ -188,24 +208,7 @@
     "0. Daybook/Templates/Daily.md",
     "100 Projects/1400 Robottel e-commerce/Building Robottel e-commerce.md",
     "Git Large File Storage  Git Large File Storage (LFS) replaces large files such as audio samples, videos, datasets, and graphics with text pointers inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise..md",
-    "100 Projects/1400 Robottel e-commerce/🗒️ Robottel Kanban.md",
-    "_Inbox/_Task.md",
-    "100 Projects/1400 Robottel e-commerce/Robottel Guidelines.md",
-    "_Inbox/Applying the Onion Architecture to Angular Projects.md",
-    "100 Projects/1500 Hacktoberfest/150 Alice in Wonderland/Alice in wonderland.md",
-    "100 Projects/1500 Hacktoberfest/150 Alice in Wonderland/Alice In Wonderland - Game idea.md",
-    "300 Resources/Software Engineering/Game Development/Text-based game.md",
-    "300 Resources/Software Engineering/JavaScript/Clean Code Javascript.md",
-    "Untitled.md",
-    "100 Projects/1300 Installing Obsidian/How to link areas and projects PARA.md",
-    "100 Projects/1900 GitPod/Setting up Git Pod.md",
-    "200 Areas/Blog/Blog Entry.md",
-    "300 Resources/CSS/When to Use CSS Animations.md",
-    "100 Projects/1200 Building a second brain/Implementing DataView.md",
-    "100 Projects/1300 Installing Obsidian/Using ssh and git.md",
-    "100 Projects/1500 Hacktoberfest/Post at DEV.md",
     "100 Projects/1500 Hacktoberfest/180 Daily.dev/attachments/Pasted image 20231017202043.png",
-    "100 Projects/1500 Hacktoberfest/150 Alice in Wonderland/Settings/Wonderland.md",
     "100 Projects/1500 Hacktoberfest/attachments/planted tree cert.png",
     "100 Projects/1500 Hacktoberfest/180 Daily.dev/attachments/Pasted image 20231017202107.png",
     "100 Projects/1500 Hacktoberfest/attachments/Captura de pantalla 2023-10-20 162926.png",
@@ -219,8 +222,6 @@
     "100 Projects/1600 Git Github Improvements",
     "100 Projects/1500 Hacktoberfest/attachments/Captura de pantalla 2023-10-20 163107.png",
     "100 Projects/1500 Hacktoberfest/180 Daily.dev/attachments",
-    "100 Projects/1500 Hacktoberfest/150 Alice in Wonderland/Settings",
-    "100 Projects/1500 Hacktoberfest/150 Alice in Wonderland/Game Logic",
-    "100 Projects/1500 Hacktoberfest/150 Alice in Wonderland/Characters"
+    "100 Projects/1500 Hacktoberfest/150 Alice in Wonderland/Settings"
   ]
 }

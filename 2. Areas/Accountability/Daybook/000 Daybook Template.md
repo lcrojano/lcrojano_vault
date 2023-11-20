@@ -1,4 +1,4 @@
-as seen in [[Daybook|Daybook]]
+as seen in [[🗃️ Daybook|🗃️ Daybook]]
 
   
 Here are some example entries you might find in a developer's daybook:
