@@ -4,36 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2b9de38d5ef17a33",
+        "id": "2d07c9fa6e3c47ab",
         "type": "tabs",
         "children": [
           {
-            "id": "c201b2d548c2f861",
+            "id": "1e199b0b773da0e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Daybook/2023/Daily/11/2023-11-20.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d261e1d83a14aa85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Projects/1600 Git Github Improvements/Improve profile at github.md",
+                "file": "1. Projects/1200 Building a second brain/Minimum requirements of a note takin app.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -48,7 +36,7 @@
         "dimension": 40.56372549019608,
         "children": [
           {
-            "id": "2bf86a90f14ab1c3",
+            "id": "bcf3ab4b754b3795",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -69,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#areas",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Daybook/2023/Daily/11/2023-11-20.md",
+                "file": "1. Projects/1200 Building a second brain/Minimum requirements of a note takin app.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Daybook/2023/Daily/11/2023-11-20.md",
+                "file": "1. Projects/1200 Building a second brain/Minimum requirements of a note takin app.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +160,7 @@
             }
           },
           {
-            "id": "69f5d3676a70ad46",
+            "id": "d3b8f7bc967eebb6",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -193,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Daybook/2023/Daily/11/2023-11-20.md"
+                "file": "1. Projects/1200 Building a second brain/Minimum requirements of a note takin app.md"
               }
             }
           }
@@ -201,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 307.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,44 +200,47 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "zk-prefixer:Create new unique note": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "obsidian-projects:Open projects": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false
     }
   },
-  "active": "69f5d3676a70ad46",
+  "active": "1e199b0b773da0e1",
   "lastOpenFiles": [
-    "3. Resources/Software Engineering/Auth/Oauth 2.0.md",
-    "0. Daybook/2023/Daily/11/2023-11-20.md",
-    "3. Resources/Software Engineering/Auth",
-    "3. Resources/QSI/🚀 QSI.md",
-    "2. Areas/Learning/Git y Github.md",
+    "0. Daybook/2023/Daily/11/2023-11-21.md",
+    "1. Projects/1200 Building a second brain/Minimum requirements of a note takin app.md",
+    "0. Daybook/2023/Daily/11/2023-11-22.md",
+    "1. Projects/0001 Setup templates/🚀 0001 Setup templates.md",
+    "_Inbox/Read Later/How to handle all your tasks effectively as a Solo-founder.md",
+    "3. Resources/Templates/Project Template.md",
+    "2. Areas/Blog/How To build momentum.md",
+    "_Inbox/Read Later/[.md",
+    "_Inbox/Read Later/How to build momentos.md",
+    "_Inbox/Read Later/assets/batches.png",
+    "_Inbox/Read Later/assets/day_theming.png",
+    "_Inbox/Read Later/assets/founders_day.jpg",
+    "1. Projects/01 CSS Animation Practice/🚀 01 CSS Animation Practice.md",
     "2. Areas/Learning/Angular.md",
-    "1. Projects/01 IETLS Preparation/🚀 01 IETLS Preparation.md",
-    "0. Daybook/2023/Daily/11/2023-11-19.md",
-    "0. Daybook/2023/Daily/11/2023-11-18.md",
+    "2. Areas/Learning/Git y Github.md",
+    "1. Projects/0001 Setup templates/Template Constrains.md",
     "0. Daybook/2023/Daily/11/2023-11-17.md",
+    "0. Daybook/2023/Daily/11/2023-11-18.md",
+    "1. Projects/0001 Setup templates/Save information without losing motivation, the art of actionability..md",
+    "0. Daybook/2023/Daily/11/2023-11-20.md",
+    "0. Daybook/2023/Daily/11/2023-11-19.md",
+    "0. Daybook/2023/Weekly/2023-W46.md",
     "0. Daybook/2023/Daily/11/2023-11-16.md",
     "0. Daybook/2023/Daily/11/2023-11-15.md",
     "0. Daybook/2023/Daily/11/2023-11-14.md",
-    "1. Projects/1600 Git Github Improvements/🚀 01 Improve GitHub.md",
+    "0. Daybook/2023/Daily/11/2023-11-13.md",
     "1. Projects/1600 Git Github Improvements/Improve profile at github.md",
-    "3. Resources/Second Brain/Optimizing Your Time 🕚.md",
-    "3. Resources/Second Brain/PARA/clean up your digital workspace.md",
-    "3. Resources/Pocket/Clean Code Single Responsibility, OpenClosed, Liskov Substitution SOLID P.md",
-    "3. Resources/Software Engineering/JavaScript/SOLID principles.md",
-    "3. Resources/Second Brain/PARA/The three habits most important to your Second Brain.md",
-    "3. Resources/Second Brain/PARA/Set of questions.md",
-    "3. Resources/Software Engineering/Design Patterns/CAP, BASE, SOLID, KISS, What do these acronyms mean.md",
-    "0. Daybook/2023 Daily Habit Tracker.md",
-    "3. Resources/Pocket/Unlocking JavaScript Design Patterns Mastering Singleton for Ultimate Code.md",
-    "0. Daybook/Templates/Daily.md",
+    "1. Projects/🚀 Projects Definition.md",
+    "3. Resources/Software Engineering/Auth/Oauth 2.0.md",
+    "3. Resources/Software Engineering/Auth",
     "3. Resources/Software Engineering/Design Patterns",
-    "3. Resources/Second Brain/PARA/7. External knowledge.md",
-    "3. Resources/Second Brain/PARA/6. Thoughts Knowledge.md",
     "1. Projects/01 CSS Animation Practice",
     "0. Daybook/2023/Daily/11/~syncthing~2023-11-17.sync-conflict-20231117-224132-VRODC5W.md.tmp",
     "3. Resources/UX",
@@ -267,9 +259,6 @@
     "_Inbox/Read Later/assets/image-3.png",
     "_Inbox/Read Later/assets/teclado-60.jpg",
     "_Inbox/Read Later/assets/image-2.png",
-    "_Inbox/Read Later/assets/image-1.png",
-    "_Inbox/Read Later/assets/image.png",
-    "_Inbox/Read Later/assets/giphy.gif",
     "3. Resources/Second Brain/GTD/_GTD mindmap.canvas"
   ]
 }

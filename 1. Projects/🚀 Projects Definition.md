@@ -1,11 +1,10 @@
 ---
 Type:
   - Project
-tags:
-  - "#projects/template-system"
+tags: []
 Status: 🟡 New
 Short Description: 
-Date Started: 2023-11-18 13:20
+Date Started: 2023-11-20 19:52
 ---
 > 🌟 **Embrace the Challenge:** 
 > This project is your opportunity to transform aspirations into reality. Embark on a journey of growth and discovery, where your skills and determination converge to achieve meaningful goals.
@@ -13,22 +12,16 @@ Date Started: 2023-11-18 13:20
 ## 🎯 **Goals**
 [💡^]: Remember to set [[S.M.A.R.T]] goals
 [💡^]: Use the [[5 Whys Technique - Root Cause Analysis]]
-
+- To define each project alignes to my goals, prioritize, destille, and focus on most important projects.
 
 ## ✅ **Tasks**
 
-- [x] Write Reflections about [[Save information without losing motivation, the art of actionability.]]. ✅ 2023-11-21
-- [ ] Write final decicison about bullet tagging
-- [ ] Write about momentum
+- [ ] **Define all posible projects I'm working or have in mind:** 
+
+**Tentative Projects list:***
+- [ ] include [Game On: UI Design Meets Gamification | by Incharaprasad | Medium](https://medium.com/@incharaprasad27/game-on-ui-design-meets-gamification-a27d3a6de6b1)
 
 
-## Techniques 
-methodologies applied to about context switching or lossign momentum
-
-- Task Batching [[How to handle all your tasks effectively as a Solo-founder#Step 2 Organize your tasks into batches]]
-- Reorder Each batch for a day [[How to handle all your tasks effectively as a Solo-founder#Step 3 Delegate your batches to specific days]]
-- Do the quickest task first if you are [[quantity driven]] (but is better to do the  harder if you are of [[ energy driven ]]) also it depends if those are [[2 minutes rule task]]
-- Reward system to boost dopamine 
 ---
 ## 📖 Journal Insights
 [💭^]: Reflect on your progress, challenges, and inspirations throughout the project. Use this space to capture your thoughts, ideas, and emotions.
@@ -77,5 +70,5 @@ WHERE contains(file.tags,this.file.tags[0])
 
 **Embrace the excitement and embark on your journey of accomplishment!**
 
-> [!quote] Half the lies they tell about me aren't true.
-> — Yogi Berra
+> [!quote] You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.
+> — Anatole France

@@ -11,5 +11,6 @@
   "trashOption": "system",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./attachments",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "showInlineTitle": false
 }
