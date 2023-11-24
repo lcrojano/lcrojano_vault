@@ -1,0 +1,1 @@
+The Bandersnatch is a magical creature that [[Alice]] has rescued from the [[Red Queen]]'s dungeon.

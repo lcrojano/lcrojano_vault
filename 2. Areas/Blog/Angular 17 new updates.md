@@ -1,5 +1,0 @@
----
-Type:
-  - Blog
-Status: New
----

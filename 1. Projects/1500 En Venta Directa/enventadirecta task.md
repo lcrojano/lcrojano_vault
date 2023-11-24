@@ -1,3 +1,0 @@
-- [x] domain
-- [ ] e-commerce
-

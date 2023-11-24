@@ -1,1 +1,0 @@
-Alice is the protagonist of the [[Alice In Wonderland - Game idea|game]]. She is a brave and resourceful young girl.

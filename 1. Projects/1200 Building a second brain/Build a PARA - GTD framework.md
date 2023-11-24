@@ -1,2 +1,0 @@
-- [ ] Implement a resources sheet in each project, so you don't have to move notes
-- [ ] Implement weekly and monthly reminder to check your notes. 

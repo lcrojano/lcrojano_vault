@@ -1,1 +1,0 @@
-- [ ] Add templates for issue opening

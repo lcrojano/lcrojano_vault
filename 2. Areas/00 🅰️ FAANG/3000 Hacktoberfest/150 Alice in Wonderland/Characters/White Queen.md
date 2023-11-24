@@ -1,0 +1,1 @@
+The White Queen's Castle is the home of the White Queen, who is [[Alice]]'s ally.

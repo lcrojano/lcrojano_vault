@@ -1,0 +1,4 @@
+---
+tags:
+  - areas/blog
+---

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2d07c9fa6e3c47ab",
+        "id": "c5e75daeb1d2354a",
         "type": "tabs",
         "children": [
           {
-            "id": "1e199b0b773da0e1",
+            "id": "04503aaeac5ce8ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/1200 Building a second brain/Minimum requirements of a note takin app.md",
+                "file": "3. Resources/Second Brain/Make Better Decisions With Artificial Working Memory.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "### Recursos para Startups",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,7 @@
       {
         "id": "20edc07e74a6e79b",
         "type": "tabs",
-        "dimension": 75.49019607843137,
+        "dimension": 64.59016393442623,
         "children": [
           {
             "id": "d8ebe5e3676ca224",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/1200 Building a second brain/Minimum requirements of a note takin app.md",
+                "file": "3. Resources/Second Brain/Make Better Decisions With Artificial Working Memory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/1200 Building a second brain/Minimum requirements of a note takin app.md",
+                "file": "3. Resources/Second Brain/Make Better Decisions With Artificial Working Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             }
           },
           {
-            "id": "d3b8f7bc967eebb6",
+            "id": "5c90295889eaa3f2",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -173,7 +173,7 @@
       {
         "id": "a34bfd7309944f75",
         "type": "tabs",
-        "dimension": 24.50980392156863,
+        "dimension": 35.40983606557377,
         "children": [
           {
             "id": "43e2655f6fe2fa86",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/1200 Building a second brain/Minimum requirements of a note takin app.md"
+                "file": "3. Resources/Second Brain/Make Better Decisions With Artificial Working Memory.md"
               }
             }
           }
@@ -189,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5,
-    "collapsed": true
+    "width": 307.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,63 +201,64 @@
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
       "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-projects:Open projects": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-read-it-later:ReadItLater: Save clipboard": false
+      "modalforms:Edit forms": false
     }
   },
-  "active": "1e199b0b773da0e1",
+  "active": "04503aaeac5ce8ca",
   "lastOpenFiles": [
-    "0. Daybook/2023/Daily/11/2023-11-21.md",
-    "1. Projects/1200 Building a second brain/Minimum requirements of a note takin app.md",
+    "0. Daybook/2023/Daily/11/2023-11-23.md",
+    "3. Resources/Second Brain/Make Better Decisions With Artificial Working Memory.md",
+    "1. Projects/🚀 Projects Ideas.md",
+    "3. Resources/Startup/Recursos para Startups.md",
+    "3. Resources/Pocket/A Guide to Choosing the Best Jamstack CMS - Builder.io.md",
+    "3. Resources/Tools/Free resources.md",
     "0. Daybook/2023/Daily/11/2023-11-22.md",
-    "1. Projects/0001 Setup templates/🚀 0001 Setup templates.md",
-    "_Inbox/Read Later/How to handle all your tasks effectively as a Solo-founder.md",
-    "3. Resources/Templates/Project Template.md",
-    "2. Areas/Blog/How To build momentum.md",
-    "_Inbox/Read Later/[.md",
-    "_Inbox/Read Later/How to build momentos.md",
+    "1. Projects/04 ⌨️ Learn Vim/Untitled.md",
+    "1. Projects/04 ⌨️ Learn Vim/Move lines (cut and paste).md",
+    "2. Areas/Personal Development/PROFILE LCROJANO4.png",
+    "2. Areas/Areas - README.md",
+    "2. Areas/Personal Development/PROFILE LCROJANO3.png",
+    "2. Areas/Personal Development/PROFILE LCROJANO2.png",
+    "2. Areas/Personal Development/PROFILE LCROJANO.png",
+    "2. Areas/Personal Development/LCROJANO BANNER3.png",
+    "2. Areas/Personal Development/LCROJANO BANNER.png",
+    "2. Areas/Personal Development/Dashboard for Personal Development.md",
+    "2. Areas/Personal Development/Banner lcrojano 2.png",
+    "2. Areas/04 🟪 M.A.G/Dashboard MAG.md",
+    "1. Projects/1700 WDO/price market appl.md",
+    "2. Areas/01 🌍 Webmaster/1500 En Venta Directa/enventadirecta task.md",
+    "2. Areas/01 🌍 Webmaster/2000 remorques/Remorques task.md",
+    "2. Areas/01 🌍 Webmaster",
+    "1. Projects/01  IETLS Preparation/🚀 01 IETLS Preparation.md",
+    "1. Projects/Implement a dashboard.md",
+    "1. Projects/Projects - README.md",
+    "1. Projects/TASK backlog.md",
+    "2. Areas/00 🅰️ FAANG",
+    "2. Areas/00 🅰️ FAANG/02 Interview Prep/FAANG Interview Preparation Plan.md",
+    "3. Resources/Daybook/WSL import ext4.vhdx being blocked by system process.md",
+    "3. Resources/Daybook/🗃️ Daybook.md",
+    "3. Resources/Daybook/What is a Daybook.md",
+    "3. Resources/Daybook/SSH tunnel.md",
+    "2. Areas/00 🅰️ FAANG/02 Interview Prep/Rulebook.md",
+    "3. Resources/Software Engineering/Interview Preparation.md",
+    "2. Areas/00 🅰️ FAANG/02 Interview Prep",
+    "3. Resources/Software Engineering/Cmd",
     "_Inbox/Read Later/assets/batches.png",
     "_Inbox/Read Later/assets/day_theming.png",
     "_Inbox/Read Later/assets/founders_day.jpg",
-    "1. Projects/01 CSS Animation Practice/🚀 01 CSS Animation Practice.md",
-    "2. Areas/Learning/Angular.md",
-    "2. Areas/Learning/Git y Github.md",
-    "1. Projects/0001 Setup templates/Template Constrains.md",
-    "0. Daybook/2023/Daily/11/2023-11-17.md",
-    "0. Daybook/2023/Daily/11/2023-11-18.md",
-    "1. Projects/0001 Setup templates/Save information without losing motivation, the art of actionability..md",
-    "0. Daybook/2023/Daily/11/2023-11-20.md",
-    "0. Daybook/2023/Daily/11/2023-11-19.md",
-    "0. Daybook/2023/Weekly/2023-W46.md",
-    "0. Daybook/2023/Daily/11/2023-11-16.md",
-    "0. Daybook/2023/Daily/11/2023-11-15.md",
-    "0. Daybook/2023/Daily/11/2023-11-14.md",
-    "0. Daybook/2023/Daily/11/2023-11-13.md",
-    "1. Projects/1600 Git Github Improvements/Improve profile at github.md",
-    "1. Projects/🚀 Projects Definition.md",
-    "3. Resources/Software Engineering/Auth/Oauth 2.0.md",
     "3. Resources/Software Engineering/Auth",
     "3. Resources/Software Engineering/Design Patterns",
-    "1. Projects/01 CSS Animation Practice",
+    "2. Areas/00 🅰️ FAANG/01 CSS Animation Practice",
     "0. Daybook/2023/Daily/11/~syncthing~2023-11-17.sync-conflict-20231117-224132-VRODC5W.md.tmp",
     "3. Resources/UX",
-    "_Inbox/Read Later/assets/uxpeak.png",
     "_Inbox/~syncthing~Microsoft chatgpt free resources.md.tmp",
-    "3. Resources/Software Engineering/Web",
-    "3. Resources/QSI",
-    "3. Resources/Productivity",
     "1. Projects/Untitled.canvas",
     "1. Projects/01 IETLS Preparation/Untitled.canvas",
-    "1. Projects/01 IETLS Preparation",
     "Dashboard canvas.canvas",
-    "_Inbox/Read Later/assets/a5e15751eceacbf5fee44db71a2c5436a05ca848.gif",
-    "_Inbox/Read Later/assets/9f67ba8d4add0bdaf1ae0c5a098207da958de3a2.gif",
-    "_Inbox/Read Later/assets/image-4.png",
-    "_Inbox/Read Later/assets/image-3.png",
-    "_Inbox/Read Later/assets/teclado-60.jpg",
-    "_Inbox/Read Later/assets/image-2.png",
     "3. Resources/Second Brain/GTD/_GTD mindmap.canvas"
   ]
 }

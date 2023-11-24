@@ -46,21 +46,21 @@ Proprosal ^sZKoKxLT
 
 1 ^fiN1UtXY
 
-[[1. Projects/0003 Janeth Course/00 Diplomado Virtual - README.md]] ^mLMqwTEb
+[[00 Diplomado Virtual - README]] ^mLMqwTEb
 
 [[folder:1. Projects/0003 Janeth Course]] ^peiUm6dD
 
-[[1. Projects/0003 Janeth Course/01 Project Description.md]] ^VVfSMXg2
+[[01 Project Description]] ^VVfSMXg2
 
-[[1. Projects/0003 Janeth Course/02 Requirements.md]] ^8fPrW6qT
+[[02 Requirements]] ^8fPrW6qT
 
-[[1. Projects/0003 Janeth Course/03 Ideas.md]] ^iItSbmzX
+[[03 Ideas]] ^iItSbmzX
 
-[[1. Projects/0003 Janeth Course/04 Setup.md]] ^b506zUHS
+[[04 Setup]] ^b506zUHS
 
-[[1. Projects/0003 Janeth Course/Brochure.md]] ^3qKGq5uY
+[[Brochure]] ^3qKGq5uY
 
-[[1. Projects/0003 Janeth Course/Proprosal.md]] ^VY6DkdEh
+[[Proprosal]] ^VY6DkdEh
 
 %%
 # Drawing
