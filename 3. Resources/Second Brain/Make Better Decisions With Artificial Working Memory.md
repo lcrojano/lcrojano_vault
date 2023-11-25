@@ -40,3 +40,4 @@ You can apply this same process to a business decision, engineering decision, or
 My knowledge management web app, [Aster](https://click.convertkit-mail4.com/mvuz9k9756h5hg27eqwimheoex0qq/x0hph6hwn097peh5/aHR0cHM6Ly9hc3Rlci5wYWdl), can help you streamline this process!
 
 _[Discuss](https://click.convertkit-mail4.com/mvuz9k9756h5hg27eqwimheoex0qq/6qheh8h7pen25nio/aHR0cHM6Ly93d3cuaW5kaWVoYWNrZXJzLmNvbS9wb3N0L2FydGlmaWNpYWwtd29ya2luZy1tZW1vcnktaG93LXRvLW1ha2UtYmV0dGVyLWRlY2lzaW9ucy00ZmYwMzc2Y2M5P3V0bV9zb3VyY2U9aW5kaWUtaGFja2Vycy1lbWFpbHMmdXRtX2NhbXBhaWduPWloLW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbA==) this story._
+

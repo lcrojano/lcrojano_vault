@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "04503aaeac5ce8ca",
+            "id": "ac6fcbcce7e21592",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Second Brain/Make Better Decisions With Artificial Working Memory.md",
+                "file": "4. Archive/Platzi/Platzi ok.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "### Recursos para Startups",
+                "query": "tag:#E",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "8488bc17781ccd8e",
@@ -128,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Second Brain/Make Better Decisions With Artificial Working Memory.md",
+                "file": "4. Archive/Platzi/Platzi ok.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/Second Brain/Make Better Decisions With Artificial Working Memory.md",
+                "file": "4. Archive/Platzi/Platzi ok.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             }
           },
           {
-            "id": "5c90295889eaa3f2",
+            "id": "ddd530ed53c4b387",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -181,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/Second Brain/Make Better Decisions With Artificial Working Memory.md"
+                "file": "4. Archive/Platzi/Platzi ok.md"
               }
             }
           }
@@ -208,9 +209,24 @@
       "modalforms:Edit forms": false
     }
   },
-  "active": "04503aaeac5ce8ca",
+  "active": "335bb286727f6de2",
   "lastOpenFiles": [
+    "3. Resources/Daybook/Selenium save session.md",
+    "4. Archive/Platzi/Platzi ok.md",
+    "4. Archive/Platzi",
+    "3. Resources/Daybook/WSL import ext4.vhdx being blocked by system process.md",
+    "0. Daybook/2023/Daily/11/2023-11-24.md",
     "0. Daybook/2023/Daily/11/2023-11-23.md",
+    "3. Resources/Personal Development/13 secrets.md",
+    "3. Resources/_Books Url.md",
+    "0. Daybook/2023 Daily Habit Tracker.md",
+    "3. Resources/excalibrain.md",
+    "3. Resources/Quote of the day.md",
+    "3. Resources/Software Engineering/JavaScript/Clean Code Javascript.md",
+    "Dashboard.md",
+    "3. Resources/QSI/🚀 QSI.md",
+    "1. Projects/02 🧠 Building a second brain/Similar tools.md",
+    "2. Areas/00 ✍🏻 Writer/tips to differentiate as a creator.md",
     "3. Resources/Second Brain/Make Better Decisions With Artificial Working Memory.md",
     "1. Projects/🚀 Projects Ideas.md",
     "3. Resources/Startup/Recursos para Startups.md",
@@ -229,22 +245,8 @@
     "2. Areas/Personal Development/Dashboard for Personal Development.md",
     "2. Areas/Personal Development/Banner lcrojano 2.png",
     "2. Areas/04 🟪 M.A.G/Dashboard MAG.md",
-    "1. Projects/1700 WDO/price market appl.md",
-    "2. Areas/01 🌍 Webmaster/1500 En Venta Directa/enventadirecta task.md",
-    "2. Areas/01 🌍 Webmaster/2000 remorques/Remorques task.md",
     "2. Areas/01 🌍 Webmaster",
-    "1. Projects/01  IETLS Preparation/🚀 01 IETLS Preparation.md",
-    "1. Projects/Implement a dashboard.md",
-    "1. Projects/Projects - README.md",
-    "1. Projects/TASK backlog.md",
     "2. Areas/00 🅰️ FAANG",
-    "2. Areas/00 🅰️ FAANG/02 Interview Prep/FAANG Interview Preparation Plan.md",
-    "3. Resources/Daybook/WSL import ext4.vhdx being blocked by system process.md",
-    "3. Resources/Daybook/🗃️ Daybook.md",
-    "3. Resources/Daybook/What is a Daybook.md",
-    "3. Resources/Daybook/SSH tunnel.md",
-    "2. Areas/00 🅰️ FAANG/02 Interview Prep/Rulebook.md",
-    "3. Resources/Software Engineering/Interview Preparation.md",
     "2. Areas/00 🅰️ FAANG/02 Interview Prep",
     "3. Resources/Software Engineering/Cmd",
     "_Inbox/Read Later/assets/batches.png",
@@ -255,7 +257,6 @@
     "2. Areas/00 🅰️ FAANG/01 CSS Animation Practice",
     "0. Daybook/2023/Daily/11/~syncthing~2023-11-17.sync-conflict-20231117-224132-VRODC5W.md.tmp",
     "3. Resources/UX",
-    "_Inbox/~syncthing~Microsoft chatgpt free resources.md.tmp",
     "1. Projects/Untitled.canvas",
     "1. Projects/01 IETLS Preparation/Untitled.canvas",
     "Dashboard canvas.canvas",

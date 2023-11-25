@@ -1,4 +1,7 @@
-  
+---
+progress: 80%
+---
+#areas/blog  #progress/80
 **Daybook Entry: Resolving WSL Import Issue**
 
 **Date:** Wednesday, November 22, 2023 **Time:** 11:30 PM
@@ -13,7 +16,21 @@ Encountered an error message "Acceso denegado. Error code: Wsl/E_ACCESSDENIED" w
     
 2. **Imported ext4.vhdx using wsl --import:** a. Opened Windows PowerShell with administrator privileges. b. Navigated to the directory containing the ext4.vhdx file. c. Executed the command: `wsl --import -d Ubuntu20.06 -f ext4.vhdx`
     
-3. **Created a backup of ext4.vhdx:** a. Uploaded the ext4.vhdx file to TeraBox for safekeeping.
+3. **Created a backup of ext4.vhdx:** a. Uploaded the ext4.vhdx file to TeraBox for safekeeping
+4. Be sure to have the same amount of space as the imge, in my case it was 89GB. iif you dont have this space, you will get error: 
+
+Unspecified error
+Error code: Wsl/Service/E_FAIL
+
+
+``` bash
+wsl --import <DistributionName> <InstallLocation> <VHDXFilePath> --vhd
+```
+
+
+``` shell
+wsl --import Ubuntu-20.04-d C:\WSL\Ubuntu-20.04-d\ C:\Users\lcroj\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu20.04LTS_79rhkp1fndgsc\LocalState\ext4.vhdx --vhd
+```
     
 
 **Outcome:**
@@ -26,9 +43,12 @@ The System permissions were successfully removed from the ext4.vhdx file, allowi
 - Removing System permissions can be done carefully to allow specific processes access.
 - Backing up important files is crucial in case of unforeseen circumstances.
 
+
 **Notes:**
 
 - The entire process took approximately 15 minutes.
 - The issue was resolved without any data loss or corruption.
 - The backup on TeraBox ensures the availability of the ext4.vhdx file for future use.
-- [Redirigiendo](https://answers.microsoft.com/es-es/windows/forum/all/no-puedo-borrar-un-archivo-me-indica-que-est%C3%A1/9af04a62-15be-4db2-84d5-21a0eb0700f5)
+- [Redirigiendo](https://answers.microsoft.com/es-es/windows/forum/all/no-puedo-borrar-un-archivo-me-indica-que-est%C3%A1/9af04a62-15be-4db2-84d5-21a0eb0700f5)\
+- tried wsl --import -d Ubuntu20.04.6 -f ext4.vhdx but dindt work .
+![](https://i.imgur.com/vYnTNdq.png)

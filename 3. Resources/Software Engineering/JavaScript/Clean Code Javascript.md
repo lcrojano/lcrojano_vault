@@ -1824,3 +1824,297 @@ annotation-target-type: pdf
 >%%TAGS%%
 >
 ^sk1mp7qrud
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-24T02:37:39.431Z","updated":"2023-11-24T02:37:39.431Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":91041,"end":91096},{"type":"TextQuoteSelector","exact":"una clase debe tener tan solouna única responsabilidad.","prefix":"n castellano, viene a decir que ","suffix":" A finales de los 80, Kent Beck "}]}]}
+>```
+>%%
+>*%%PREFIX%%n castellano, viene a decir que%%HIGHLIGHT%% ==una clase debe tener tan solouna única responsabilidad.== %%POSTFIX%%A finales de los 80, Kent Beck*
+>%%LINK%%[[#^1atdh50opyt|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^1atdh50opyt
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-24T02:38:07.262Z","updated":"2023-11-24T02:38:07.262Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":91306,"end":91434},{"type":"TextQuoteSelector","exact":"Tener más de una responsabilidad en nuestras clases o módulos hace que nuestrocódigo sea difícil de leer, de testear y mantener.","prefix":" y colaboraciones entre módulos.","suffix":" Es decir, hace que el código se"}]}]}
+>```
+>%%
+>*%%PREFIX%%y colaboraciones entre módulos.%%HIGHLIGHT%% ==Tener más de una responsabilidad en nuestras clases o módulos hace que nuestrocódigo sea difícil de leer, de testear y mantener.== %%POSTFIX%%Es decir, hace que el código se*
+>%%LINK%%[[#^ct3m7hy0lcv|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^ct3m7hy0lcv
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-24T02:38:22.091Z","updated":"2023-11-24T02:38:22.091Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":91614,"end":91693},{"type":"TextQuoteSelector","exact":"solemosconfundir “tener una única responsabilidad” con “hacer una única cosa”. ","prefix":"amos mal este principio, ya que ","suffix":"Es más, yavimos un principio com"}]}]}
+>```
+>%%
+>*%%PREFIX%%amos mal este principio, ya que%%HIGHLIGHT%% ==solemosconfundir “tener una única responsabilidad” con “hacer una única cosa”.== %%POSTFIX%%Es más, yavimos un principio com*
+>%%LINK%%[[#^8plzatwv17y|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^8plzatwv17y
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-24T02:39:11.176Z","updated":"2023-11-24T02:39:11.176Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":92015,"end":92099},{"type":"TextQuoteSelector","exact":"El principio de responsabilidad única no se basa en crear clases con un solo método,","prefix":" entendemos por responsabilidad?","suffix":"sino en diseñar componentes que "}]}]}
+>```
+>%%
+>*%%PREFIX%%entendemos por responsabilidad?%%HIGHLIGHT%% ==El principio de responsabilidad única no se basa en crear clases con un solo método,== %%POSTFIX%%sino en diseñar componentes que*
+>%%LINK%%[[#^7p3638xtm6j|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^7p3638xtm6j
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-24T02:39:22.473Z","updated":"2023-11-24T02:39:22.473Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":92099,"end":92176},{"type":"TextQuoteSelector","exact":"sino en diseñar componentes que solo estén expuestos a una fuente de cambio. ","prefix":"crear clases con un solo método,","suffix":"Por lotanto, el concepto de resp"}]}]}
+>```
+>%%
+>*%%PREFIX%%crear clases con un solo método,%%HIGHLIGHT%% ==sino en diseñar componentes que solo estén expuestos a una fuente de cambio.== %%POSTFIX%%Por lotanto, el concepto de resp*
+>%%LINK%%[[#^ddjor8lu73h|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^ddjor8lu73h
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-24T02:39:48.513Z","updated":"2023-11-24T02:39:48.513Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":92189,"end":92381},{"type":"TextQuoteSelector","exact":"el concepto de responsabilidad hace referencia a aquellos actores (fuentes decambio) que podrían reclamar diferentes modificaciones en un determinado módulodependiendo de su rol en el negocio.","prefix":" fuente de cambio. Por lotanto, ","suffix":" Veamos un ejemplo:70SRP - Princ"}]}]}
+>```
+>%%
+>*%%PREFIX%%fuente de cambio. Por lotanto,%%HIGHLIGHT%% ==el concepto de responsabilidad hace referencia a aquellos actores (fuentes decambio) que podrían reclamar diferentes modificaciones en un determinado módulodependiendo de su rol en el negocio.== %%POSTFIX%%Veamos un ejemplo:70SRP - Princ*
+>%%LINK%%[[#^l6ijsfcnmrl|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^l6ijsfcnmrl
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-24T02:42:46.737Z","updated":"2023-11-24T02:42:46.737Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":96357,"end":96531},{"type":"TextQuoteSelector","exact":"Ambas clases se inyectan vía constructor a la clase UseCase, pero, como puedescomprobar, se trata de implementaciones concretas, con lo cual el acoplamientosigue siendo alto.","prefix":"ilidades que habíamos detectado.","suffix":" Continuaremos profundizando en "}]}]}
+>```
+>%%
+>*%%PREFIX%%ilidades que habíamos detectado.%%HIGHLIGHT%% ==Ambas clases se inyectan vía constructor a la clase UseCase, pero, como puedescomprobar, se trata de implementaciones concretas, con lo cual el acoplamientosigue siendo alto.== %%POSTFIX%%Continuaremos profundizando en*
+>%%LINK%%[[#^vnl5ss98wdj|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^vnl5ss98wdj
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-24T02:43:18.555Z","updated":"2023-11-24T02:43:18.555Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":96892,"end":97026},{"type":"TextQuoteSelector","exact":"Nombre demasiado genérico. Escoger un nombre excesivamente genéricosuele derivar en un God Object, un objeto que hace demasiadas cosas","prefix":" detectar violaciones del SRP:• ","suffix":".⁵⁶https://repl.it/@SoftwareCraf"}]}]}
+>```
+>%%
+>*%%PREFIX%%detectar violaciones del SRP:•%%HIGHLIGHT%% ==Nombre demasiado genérico. Escoger un nombre excesivamente genéricosuele derivar en un God Object, un objeto que hace demasiadas cosas== %%POSTFIX%%.⁵⁶https://repl.it/@SoftwareCraf*
+>%%LINK%%[[#^l4l156hf91i|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^l4l156hf91i
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-24T02:43:29.484Z","updated":"2023-11-24T02:43:29.484Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":97117,"end":97325},{"type":"TextQuoteSelector","exact":"Los cambios suelen afectar a esta clase. Cuando un elevado porcentaje decambios suele afectar a la misma clase, puede ser síntoma de que dicha claseestá demasiado acoplada o tiene demasiadas responsabilidades","prefix":"io de responsabilidad única 75• ","suffix":".• La clase involucra múltiples "}]}]}
+>```
+>%%
+>*%%PREFIX%%io de responsabilidad única 75•%%HIGHLIGHT%% ==Los cambios suelen afectar a esta clase. Cuando un elevado porcentaje decambios suele afectar a la misma clase, puede ser síntoma de que dicha claseestá demasiado acoplada o tiene demasiadas responsabilidades== %%POSTFIX%%.• La clase involucra múltiples*
+>%%LINK%%[[#^ieuupit7lxd|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^ieuupit7lxd
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-24T02:43:42.042Z","updated":"2023-11-24T02:43:42.042Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":97328,"end":97583},{"type":"TextQuoteSelector","exact":"La clase involucra múltiples capas de la arquitectura. Si, como vimos en elcaso del ejemplo, nuestra clase hace cosas como acceder a la capa de persistenciao notificar al usuario, además de implementar la lógica de negocio, está violandoclaramente el SRP.","prefix":" demasiadas responsabilidades.• ","suffix":"• Número alto de imports. Aunque"}]}]}
+>```
+>%%
+>*%%PREFIX%%demasiadas responsabilidades.•%%HIGHLIGHT%% ==La clase involucra múltiples capas de la arquitectura. Si, como vimos en elcaso del ejemplo, nuestra clase hace cosas como acceder a la capa de persistenciao notificar al usuario, además de implementar la lógica de negocio, está violandoclaramente el SRP.== %%POSTFIX%%• Número alto de imports. Aunque*
+>%%LINK%%[[#^qc8c6zt47do|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^qc8c6zt47do
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-24T02:52:36.844Z","updated":"2023-11-24T02:52:36.844Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":97585,"end":97684},{"type":"TextQuoteSelector","exact":"Número alto de imports. Aunque esto por sí mismo no implica nada, podríaser un síntoma de violación","prefix":"stá violandoclaramente el SRP.• ","suffix":".• Cantidad elevada de métodos p"}]}]}
+>```
+>%%
+>*%%PREFIX%%stá violandoclaramente el SRP.•%%HIGHLIGHT%% ==Número alto de imports. Aunque esto por sí mismo no implica nada, podríaser un síntoma de violación== %%POSTFIX%%.• Cantidad elevada de métodos p*
+>%%LINK%%[[#^ez5wkqwb1tw|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^ez5wkqwb1tw
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-24T02:52:47.234Z","updated":"2023-11-24T02:52:47.234Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":97687,"end":97854},{"type":"TextQuoteSelector","exact":"Cantidad elevada de métodos públicos. Cuando una clase tiene una API conun número alto de métodos públicos, suele ser síntoma de que tiene demasiadasresponsabilidades.","prefix":"íaser un síntoma de violación.• ","suffix":"• Excesivo número de líneas de c"}]}]}
+>```
+>%%
+>*%%PREFIX%%íaser un síntoma de violación.•%%HIGHLIGHT%% ==Cantidad elevada de métodos públicos. Cuando una clase tiene una API conun número alto de métodos públicos, suele ser síntoma de que tiene demasiadasresponsabilidades.== %%POSTFIX%%• Excesivo número de líneas de c*
+>%%LINK%%[[#^eykgdxm7o89|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^eykgdxm7o89
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-24T02:52:51.444Z","updated":"2023-11-24T02:52:51.444Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":97856,"end":98008},{"type":"TextQuoteSelector","exact":"Excesivo número de líneas de código. Si nuestra clase solo tiene una únicaresponsabilidad, su número de líneas no debería, en principio, ser muy elevado","prefix":"e demasiadasresponsabilidades.• ","suffix":".OCP - Principio Abierto/Cerrado"}]}]}
+>```
+>%%
+>*%%PREFIX%%e demasiadasresponsabilidades.•%%HIGHLIGHT%% ==Excesivo número de líneas de código. Si nuestra clase solo tiene una únicaresponsabilidad, su número de líneas no debería, en principio, ser muy elevado== %%POSTFIX%%.OCP - Principio Abierto/Cerrado*
+>%%LINK%%[[#^ysdvfv1hz4r|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^ysdvfv1hz4r
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-24T02:53:01.686Z","updated":"2023-11-24T02:53:01.686Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":98009,"end":98040},{"type":"TextQuoteSelector","exact":"OCP - Principio Abierto/Cerrado","prefix":", en principio, ser muy elevado.","suffix":"“Todas las entidades software de"}]}]}
+>```
+>%%
+>*%%PREFIX%%, en principio, ser muy elevado.%%HIGHLIGHT%% ==OCP - Principio Abierto/Cerrado== %%POSTFIX%%“Todas las entidades software de*
+>%%LINK%%[[#^tyoe6u8vi4o|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^tyoe6u8vi4o
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-24T02:53:43.645Z","updated":"2023-11-24T02:53:43.645Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":98041,"end":98153},{"type":"TextQuoteSelector","exact":"Todas las entidades software deberían estar abiertas a extensión, pero cerradasa modificación”. – Bertrand Meyer","prefix":"OCP - Principio Abierto/Cerrado“","suffix":"⁵⁷El principio Open-Closed (Abie"}]}]}
+>```
+>%%
+>*%%PREFIX%%OCP - Principio Abierto/Cerrado“%%HIGHLIGHT%% ==Todas las entidades software deberían estar abiertas a extensión, pero cerradasa modificación”. – Bertrand Meyer== %%POSTFIX%%⁵⁷El principio Open-Closed (Abie*
+>%%LINK%%[[#^b7rkhc7bj9s|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^b7rkhc7bj9s
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-24T02:54:16.050Z","updated":"2023-11-24T02:54:16.050Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":90800,"end":90899},{"type":"TextQuoteSelector","exact":"“Nunca debería haber más de un motivo por el cual cambiar una clase o unmódulo”. – Robert C. Martin","prefix":"rincipio deresponsabilidad única","suffix":"El primero de los cinco principi"}]}]}
+>```
+>%%
+>*%%PREFIX%%rincipio deresponsabilidad única%%HIGHLIGHT%% ==“Nunca debería haber más de un motivo por el cual cambiar una clase o unmódulo”. – Robert C. Martin== %%POSTFIX%%El primero de los cinco principi*
+>%%LINK%%[[#^awzxtpd19sj|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^awzxtpd19sj
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-24T02:55:19.484Z","updated":"2023-11-24T02:55:19.484Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":98248,"end":98413},{"type":"TextQuoteSelector","exact":"en los casos en los que se introduzcan nuevos comportamientosen sistemas existentes, en lugar de modificar los componentes antiguos, se debencrear componentes nuevos","prefix":"trand Meyer, nosrecomienda que, ","suffix":". La razón es que si esos compon"}]}]}
+>```
+>%%
+>*%%PREFIX%%trand Meyer, nosrecomienda que,%%HIGHLIGHT%% ==en los casos en los que se introduzcan nuevos comportamientosen sistemas existentes, en lugar de modificar los componentes antiguos, se debencrear componentes nuevos== %%POSTFIX%%. La razón es que si esos compon*
+>%%LINK%%[[#^hojgckdls1f|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^hojgckdls1f
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-24T02:57:11.109Z","updated":"2023-11-24T02:57:11.109Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":99662,"end":99726},{"type":"TextQuoteSelector","exact":"desacoplar un elemento de infraestructura de la capa de dominio.","prefix":"icar el OCP podría ser tratarde ","suffix":" Imagina quetenemos un sistema d"}]}]}
+>```
+>%%
+>*%%PREFIX%%icar el OCP podría ser tratarde%%HIGHLIGHT%% ==desacoplar un elemento de infraestructura de la capa de dominio.== %%POSTFIX%%Imagina quetenemos un sistema d*
+>%%LINK%%[[#^q90eghkxfql|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^q90eghkxfql
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-24T03:01:09.428Z","updated":"2023-11-24T03:01:09.428Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":100801,"end":100817},{"type":"TextQuoteSelector","exact":"Patrón adaptador","prefix":" hacer uso del patrón adaptador.","suffix":"El patrón adapter o adaptador pe"}]}]}
+>```
+>%%
+>*%%PREFIX%%hacer uso del patrón adaptador.%%HIGHLIGHT%% ==Patrón adaptador== %%POSTFIX%%El patrón adapter o adaptador pe*
+>%%LINK%%[[#^v5yvfmrn0e|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^v5yvfmrn0e
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-24T03:01:17.834Z","updated":"2023-11-24T03:01:17.834Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":100817,"end":100898},{"type":"TextQuoteSelector","exact":"El patrón adapter o adaptador pertenece a la categoría de patrones estructurales.","prefix":"atrón adaptador.Patrón adaptador","suffix":"Se trata de un patrón encargado "}]}]}
+>```
+>%%
+>*%%PREFIX%%atrón adaptador.Patrón adaptador%%HIGHLIGHT%% ==El patrón adapter o adaptador pertenece a la categoría de patrones estructurales.== %%POSTFIX%%Se trata de un patrón encargado*
+>%%LINK%%[[#^8vqkfsv9aw|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^8vqkfsv9aw
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-24T03:02:12.811Z","updated":"2023-11-24T03:02:12.811Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":100981,"end":101073},{"type":"TextQuoteSelector","exact":"desacoplar tanto elementos de diferentes capas de nuestro sistema como librerías deterceros.","prefix":"s, esto nos facilita la tarea de","suffix":"⁵⁸https://repl.it/@SoftwareCraft"}]}]}
+>```
+>%%
+>*%%PREFIX%%s, esto nos facilita la tarea de%%HIGHLIGHT%% ==desacoplar tanto elementos de diferentes capas de nuestro sistema como librerías deterceros.== %%POSTFIX%%⁵⁸https://repl.it/@SoftwareCraft*
+>%%LINK%%[[#^nkmjwycox9o|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^nkmjwycox9o
