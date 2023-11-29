@@ -1,5 +1,7 @@
 ---
 progress: 80%
+Type:
+  - Blog
 ---
 #areas/blog  #progress/80
 **Daybook Entry: Resolving WSL Import Issue**

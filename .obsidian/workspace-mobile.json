@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Daybook/2023/Daily/11/2023-11-19.md",
-                "mode": "preview",
+                "file": "1. Projects/02 🧠 Building a second brain/0001 Setup templates/Save information without losing motivation, the art of actionability..md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0. Daybook/2023/Daily/11/2023-11-19.md",
+            "file": "1. Projects/02 🧠 Building a second brain/0001 Setup templates/Save information without losing motivation, the art of actionability..md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0. Daybook/2023/Daily/11/2023-11-19.md",
+            "file": "1. Projects/02 🧠 Building a second brain/0001 Setup templates/Save information without losing motivation, the art of actionability..md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0. Daybook/2023/Daily/11/2023-11-19.md"
+            "file": "1. Projects/02 🧠 Building a second brain/0001 Setup templates/Save information without losing motivation, the art of actionability..md"
           }
         }
       },
@@ -152,7 +152,7 @@
         }
       },
       {
-        "id": "0ee028205bc319bb",
+        "id": "bdf4b152efec4de1",
         "type": "leaf",
         "state": {
           "type": "tasks_timeline_view",
@@ -180,8 +180,18 @@
   },
   "active": "714d5618f6a44607",
   "lastOpenFiles": [
-    "0. Daybook/2023/Daily/11/2023-11-18.md",
+    "0. Daybook/2023/Daily/11/2023-11-26.md",
+    "1. Projects/02 🧠 Building a second brain/🚀 Building a Second Brain - README.md",
+    "Dashboard.md",
+    "3. Resources/Software Engineering/JavaScript/Clean Code Javascript.md",
+    "1. Projects/02 🧠 Building a second brain/0001 Setup templates/🚀 0001 Setup templates.md",
+    "3. Resources/Productivity/5 Whys Technique - Root Cause Analysis.md",
+    "3. Resources/Productivity/S.M.A.R.T.md",
+    "0. Daybook/2023/Daily/11/2023-11-22.md",
+    "0. Daybook/2023/Daily/11/2023-11-21.md",
+    "2. Areas/00 🅰️ FAANG/02 Interview Prep/FAANG Interview Preparation Plan.md",
     "0. Daybook/2023/Daily/11/2023-11-19.md",
+    "0. Daybook/2023/Daily/11/2023-11-18.md",
     "0. Daybook/2023/Daily/11/2023-11-17.md",
     "_Inbox/Microsoft chatgpt free resources.md",
     "3. Resources/Software Engineering/Web/00 HTTP methods.md",
@@ -198,16 +208,6 @@
     "3. Resources/QSI",
     "0. Daybook/2023/Daily/11/2023-11-16.md",
     "1. Projects/0004 Backup REDG SERVER/🚀 0004 Backup REDG SERVER.md",
-    "1. Projects/01 IETLS Preparation/🚀 01 IETLS Preparation.md",
-    "0. Daybook/2023/Daily/11/2023-11-14.md",
-    "1. Projects/0003 Janeth Course/00 Diplomado Virtual - README.md",
-    "1. Projects/0001 Setup templates/Setup Templates.md",
-    "Dashboard.md",
-    "1. Projects/0003 Janeth Course/02 Requirements.md",
-    "0. Daybook/2023/Daily/11/2023-11-13.md",
-    "0. Daybook/Templates/Daily.md",
-    "100 Projects/1400 Robottel e-commerce/Building Robottel e-commerce.md",
-    "Git Large File Storage  Git Large File Storage (LFS) replaces large files such as audio samples, videos, datasets, and graphics with text pointers inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise..md",
     "100 Projects/1500 Hacktoberfest/180 Daily.dev/attachments/Pasted image 20231017202043.png",
     "100 Projects/1500 Hacktoberfest/attachments/planted tree cert.png",
     "100 Projects/1500 Hacktoberfest/180 Daily.dev/attachments/Pasted image 20231017202107.png",

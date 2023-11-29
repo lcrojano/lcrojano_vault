@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Daybook/2023/Daily/11/2023-11-17.md",
+                "file": "0. Daybook/2023/Daily/11/2023-11-26.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0. Daybook/2023/Daily/11/2023-11-17.md",
+            "file": "0. Daybook/2023/Daily/11/2023-11-26.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0. Daybook/2023/Daily/11/2023-11-17.md",
+            "file": "0. Daybook/2023/Daily/11/2023-11-26.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0. Daybook/2023/Daily/11/2023-11-17.md"
+            "file": "0. Daybook/2023/Daily/11/2023-11-26.md"
           }
         }
       },
@@ -152,7 +152,7 @@
         }
       },
       {
-        "id": "594d69b153325464",
+        "id": "761df734e40b51ea",
         "type": "leaf",
         "state": {
           "type": "tasks_timeline_view",
@@ -178,8 +178,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "714d5618f6a44607",
+  "active": "761df734e40b51ea",
   "lastOpenFiles": [
+    "0. Daybook/2023/Daily/11/2023-11-19.md",
+    "0. Daybook/2023/Daily/11/2023-11-26.md",
+    "0. Daybook/2023/Daily/11/2023-11-18.md",
+    "0. Daybook/2023/Daily/11/2023-11-17.md",
     "_Inbox/Microsoft chatgpt free resources.md",
     "3. Resources/Software Engineering/Web/00 HTTP methods.md",
     "3. Resources/Quote of the day.md",
@@ -193,7 +197,6 @@
     "3. Resources/QSI/🚀 QSI.md",
     "3. Resources/Software Engineering/Web",
     "3. Resources/QSI",
-    "0. Daybook/2023/Daily/11/2023-11-17.md",
     "0. Daybook/2023/Daily/11/2023-11-16.md",
     "1. Projects/0004 Backup REDG SERVER/🚀 0004 Backup REDG SERVER.md",
     "1. Projects/01 IETLS Preparation/🚀 01 IETLS Preparation.md",
@@ -205,9 +208,6 @@
     "0. Daybook/2023/Daily/11/2023-11-13.md",
     "0. Daybook/Templates/Daily.md",
     "100 Projects/1400 Robottel e-commerce/Building Robottel e-commerce.md",
-    "Git Large File Storage  Git Large File Storage (LFS) replaces large files such as audio samples, videos, datasets, and graphics with text pointers inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise..md",
-    "100 Projects/1400 Robottel e-commerce/🗒️ Robottel Kanban.md",
-    "_Inbox/_Task.md",
     "100 Projects/1500 Hacktoberfest/180 Daily.dev/attachments/Pasted image 20231017202043.png",
     "100 Projects/1500 Hacktoberfest/attachments/planted tree cert.png",
     "100 Projects/1500 Hacktoberfest/180 Daily.dev/attachments/Pasted image 20231017202107.png",

@@ -4,24 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c5e75daeb1d2354a",
+        "id": "2259f81a246340a2",
         "type": "tabs",
         "children": [
           {
-            "id": "ac6fcbcce7e21592",
+            "id": "bb04e92c79fb25b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Archive/Platzi/Platzi ok.md",
+                "file": "3. Resources/Second Brain/Articles/Optimizing Your Time 🕚.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#E",
+                "query": "tag:#projects/mag-academy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "8488bc17781ccd8e",
@@ -88,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 295.51103591918945
   },
   "right": {
     "id": "2d1ab4ea006b17c6",
@@ -116,8 +114,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Daybook/2023 Daily Habit Tracker.md",
-                "mode": "preview",
+                "file": "0. Daybook/2023/Daily/11/2023-11-25.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -129,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Archive/Platzi/Platzi ok.md",
+                "file": "3. Resources/Second Brain/Articles/Optimizing Your Time 🕚.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Archive/Platzi/Platzi ok.md",
+                "file": "3. Resources/Second Brain/Articles/Optimizing Your Time 🕚.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +159,7 @@
             }
           },
           {
-            "id": "ddd530ed53c4b387",
+            "id": "0d9591b0a246fd53",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -182,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Archive/Platzi/Platzi ok.md"
+                "file": "3. Resources/Second Brain/Articles/Optimizing Your Time 🕚.md"
               }
             }
           }
@@ -190,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 291.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,58 +203,57 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-projects:Open projects": false,
-      "modalforms:Edit forms": false
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "335bb286727f6de2",
+  "active": "65b34e469c76e6b1",
   "lastOpenFiles": [
-    "3. Resources/Daybook/Selenium save session.md",
-    "4. Archive/Platzi/Platzi ok.md",
-    "4. Archive/Platzi",
-    "3. Resources/Daybook/WSL import ext4.vhdx being blocked by system process.md",
+    "3. Resources/Second Brain/Articles/Make Better Decisions With Artificial Working Memory.md",
+    "3. Resources/Second Brain/Articles/How to handle all your tasks effectively as a Solo-founder.md",
+    "3. Resources/Second Brain/Articles",
+    "1. Projects/02 🧠 Building a second brain/0001 Setup templates/Save information without losing motivation, the art of actionability..md",
+    "1. Projects/02 🧠 Building a second brain/Build a PARA - GTD framework.md",
+    "1. Projects/02 🧠 Building a second brain/How to link areas and projects PARA.md",
+    "1. Projects/02 🧠 Building a second brain/Active Recall.md",
+    "1. Projects/02 🧠 Building a second brain/Implementing DataView.md",
+    "_Inbox/Read Later/How to Call an API in JavaScript – with Examples.md",
+    "_Inbox/Read Later/How Creating Content as a Developer Changed My Life.md",
+    "_Inbox/Read Later/How to build momentos.md",
+    "_Inbox/Read Later/Gamification Strategies and Benefits for User Engagement.md",
+    "_Inbox/Read Later/Building my second brain 🧠 with Obsidian.md",
+    "_Inbox/Read Later/Applying the Onion Architecture to Angular Projects.md",
+    "_Inbox/Read Later/Animated Icons.md",
+    "_Inbox/Read Later/A guide to Auth & Access Control in web apps 🔐 - DEV Community.md",
+    "_Inbox/Read Later/[.md",
+    "0. Daybook/2023/Daily/11/2023-11-29.md",
+    "_Inbox/Read Later/assets/--2.jpeg",
+    "_Inbox/Read Later/assets/--1.jpeg",
+    "_Inbox/Read Later/assets/-.jpeg",
+    "_Inbox/Read Later/assets/OpenReplay.svg",
+    "0. Daybook/2023/Daily/11/2023-11-28.md",
+    "0. Daybook/2023/Daily/11/2023-11-27.md",
+    "0. Daybook/2023/Daily/11/2023-11-26.md",
+    "0. Daybook/2023/Daily/11/2023-11-25.md",
     "0. Daybook/2023/Daily/11/2023-11-24.md",
-    "0. Daybook/2023/Daily/11/2023-11-23.md",
-    "3. Resources/Personal Development/13 secrets.md",
-    "3. Resources/_Books Url.md",
+    "0. Daybook/2023/Daily/11/~syncthing~2023-11-26.md.tmp",
+    "0. Daybook/Templates/Daily.md",
+    "3. Resources/Templates/Project Template.md",
     "0. Daybook/2023 Daily Habit Tracker.md",
-    "3. Resources/excalibrain.md",
-    "3. Resources/Quote of the day.md",
-    "3. Resources/Software Engineering/JavaScript/Clean Code Javascript.md",
-    "Dashboard.md",
-    "3. Resources/QSI/🚀 QSI.md",
-    "1. Projects/02 🧠 Building a second brain/Similar tools.md",
-    "2. Areas/00 ✍🏻 Writer/tips to differentiate as a creator.md",
-    "3. Resources/Second Brain/Make Better Decisions With Artificial Working Memory.md",
-    "1. Projects/🚀 Projects Ideas.md",
-    "3. Resources/Startup/Recursos para Startups.md",
-    "3. Resources/Pocket/A Guide to Choosing the Best Jamstack CMS - Builder.io.md",
-    "3. Resources/Tools/Free resources.md",
-    "0. Daybook/2023/Daily/11/2023-11-22.md",
-    "1. Projects/04 ⌨️ Learn Vim/Untitled.md",
-    "1. Projects/04 ⌨️ Learn Vim/Move lines (cut and paste).md",
+    "4. Archive/Some Day/Janeth Course/00 Diplomado Virtual - README.md",
+    "4. Archive/Platzi",
     "2. Areas/Personal Development/PROFILE LCROJANO4.png",
-    "2. Areas/Areas - README.md",
     "2. Areas/Personal Development/PROFILE LCROJANO3.png",
     "2. Areas/Personal Development/PROFILE LCROJANO2.png",
     "2. Areas/Personal Development/PROFILE LCROJANO.png",
     "2. Areas/Personal Development/LCROJANO BANNER3.png",
     "2. Areas/Personal Development/LCROJANO BANNER.png",
-    "2. Areas/Personal Development/Dashboard for Personal Development.md",
-    "2. Areas/Personal Development/Banner lcrojano 2.png",
-    "2. Areas/04 🟪 M.A.G/Dashboard MAG.md",
     "2. Areas/01 🌍 Webmaster",
     "2. Areas/00 🅰️ FAANG",
     "2. Areas/00 🅰️ FAANG/02 Interview Prep",
     "3. Resources/Software Engineering/Cmd",
-    "_Inbox/Read Later/assets/batches.png",
-    "_Inbox/Read Later/assets/day_theming.png",
-    "_Inbox/Read Later/assets/founders_day.jpg",
     "3. Resources/Software Engineering/Auth",
     "3. Resources/Software Engineering/Design Patterns",
     "2. Areas/00 🅰️ FAANG/01 CSS Animation Practice",
-    "0. Daybook/2023/Daily/11/~syncthing~2023-11-17.sync-conflict-20231117-224132-VRODC5W.md.tmp",
-    "3. Resources/UX",
     "1. Projects/Untitled.canvas",
     "1. Projects/01 IETLS Preparation/Untitled.canvas",
     "Dashboard canvas.canvas",

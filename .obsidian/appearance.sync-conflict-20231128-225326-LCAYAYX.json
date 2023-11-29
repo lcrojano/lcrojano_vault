@@ -6,5 +6,6 @@
   "nativeMenus": true,
   "interfaceFontFamily": "",
   "baseFontSize": 16,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "baseFontSizeAction": true
 }

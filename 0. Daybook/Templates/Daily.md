@@ -1,5 +1,7 @@
 ### **Quote of the Day:**
-<iframe frameBorder="0" frameBorder="0" style="width:100%; height:100px" src="https://kwize.com/quote-of-the-day/embed/&txt=0&font=&color=000000&background=ffffff&fid=success"></iframe>
+
+<% tp.web.daily_quote() %>
+
 ##  **🗓️ Daily Agenda** 
 ### Top Priority
 - [-] Complete [Specific Project Task] by [Deadline] ([Link to Project]) #projects #areas
