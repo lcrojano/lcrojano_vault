@@ -6,30 +6,13 @@ Prepare thoroughly for a FAANG interview, demonstrating technical proficiency, p
 ## Duration
 Three months
 
-## Week 1-2: Self-Assessment and Goal Setting
+## Week 1-2: Self-Assessment and Goal 
 
-### Goals
-1. **Understand the Role:**
-   - Research the specific requirements for the role you're targeting within FAANG.
-   - Identify key technical and behavioral competencies.
+- [/] 1️⃣ [[🚀 Week 1-2]] of [[FAANG Interview Preparation Plan]] 🔺 🔁 every day 🛫 2023-12-04 ⏳ 2023-12-18
 
-2. **Assess Current Skills:**
-   - Take a baseline coding assessment on platforms like LeetCode.
-   - Evaluate your knowledge of relevant technologies (e.g., Angular).
-
-### Tasks
-- Create a list of target companies within FAANG.
-- Develop a self-assessment matrix for technical and soft skills.
-
-### Methodology
-- Reflect on the findings and set specific improvement goals.
-
-### Metrics
-- Baseline coding assessment score.
-- Identification of strengths and weaknesses.
 
 ## Week 3-4: Technical Skill Enhancement
-
+- [ ] 2️⃣ Week 3-4 [[FAANG Interview Preparation Plan]] 🔺 🔁 every day 🛫 2023-12-18 ⏳ 2023-12-31
 ### Goals
 1. **Technical Learning:**
    - Enroll in online courses for Angular and relevant technologies.
@@ -52,6 +35,7 @@ Three months
 - Improvement in coding challenge success rates.
 
 ## Week 5-6: System Design Mastery
+- [ ] 3️⃣ Week 5-6 [[FAANG Interview Preparation Plan]] 🔺 🔁 every day 🛫 2023-12-31 ⏳ 2024-01-14
 
 ### Goals
 1. **System Design Concepts:**
@@ -74,7 +58,7 @@ Three months
 - Completion of the personal project.
 
 ## Week 7-8: Mock Interviews and Feedback
-
+- [ ] 4️⃣  Week 7-8 [[FAANG Interview Preparation Plan]] 🔺 🔁 every day 🛫 2024-01-14⏳ 2024-01-28
 ### Goals
 1. **Mock Interviews:**
    - Schedule regular mock interviews.
@@ -97,7 +81,7 @@ Three months
 - Improvement in performance based on feedback.
 
 ## Week 9-10: Networking and Soft Skills
-
+- [ ] 5️⃣  Week 9-10 [[FAANG Interview Preparation Plan]] 🔺 🔁 every day 🛫 2024-01-28 ⏳ 2024-02-12
 ### Goals
 1. **Networking:**
    - Attend industry events or virtual meetups.
@@ -120,7 +104,7 @@ Three months
 - Improvement in articulation of personal narrative.
 
 ## Week 11-12: Gamification and Final Review
-
+- [ ] 6️⃣ Week 11-12 [[FAANG Interview Preparation Plan]] 🔺 🔁 every day 🛫 2024-02-12 ⏳ 2024-012-24
 ### Goals
 1. **Gamify the Process:**
    - Introduce a point system for achievements (e.g., completing coding challenges, successful interviews).

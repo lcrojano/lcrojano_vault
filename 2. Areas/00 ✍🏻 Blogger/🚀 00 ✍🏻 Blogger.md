@@ -1,9 +1,12 @@
 ---
-Type: Project
-tags: [🚀-02-Interview-Prep]
+Type:
+  - Project
+tags:
+  - 🚀-00-✍🏻-Blogger
+  - areas/blogger
 Status: 🟡 New
-Short Description:
-Date Started: 2023-11-22 13:55
+Short Description: 
+Date Started: 2023-11-29 16:37
 ---
 > 🌟 **Embrace the Challenge:** 
 > This project is your opportunity to transform aspirations into reality. Embark on a journey of growth and discovery, where your skills and determination converge to achieve meaningful goals.
@@ -11,16 +14,12 @@ Date Started: 2023-11-22 13:55
 ## 🎯 **Goals**
 [💡^]: Remember to set [[S.M.A.R.T]] goals
 [💡^]: Use the [[5 Whys Technique - Root Cause Analysis]]
-- **Master technical concepts and programming skills**
-- **Develop strong communication and problem-solving abilities**
-- **Exhibit confidence and professionalism during the interview**
-- **Secure a software engineering, web development, or front-end/back-end engineering position at a FAANG company**
+
 
 ## ✅ **Tasks**
 
-- [x] Set Time frame to achieve goal ✅ 2023-11-29
-- [ ] Create list of book to read
-- [ ] Create a [[FAANG Interview Preparation Plan]]
+- [ ] **Actionable task 1:** 
+- [ ] **Actionable task 2:** 
 
 
 ---
@@ -71,5 +70,5 @@ WHERE contains(file.tags,this.file.tags[0])
 
 **Embrace the excitement and embark on your journey of accomplishment!**
 
-> [!quote] Excellence is to do a common thing in an uncommon way.
-> — Booker T. Washington
+> [!quote] The final proof of greatness lies in being able to endure criticism without resentment.
+> — Elbert Hubbard

@@ -1,26 +1,18 @@
 ---
 Type: Project
-tags: [🚀-02-Interview-Prep]
+tags: [🚀-05-🏘️-Family]
 Status: 🟡 New
 Short Description:
-Date Started: 2023-11-22 13:55
+Date Started: 2023-11-29 16:22
 ---
-> 🌟 **Embrace the Challenge:** 
-> This project is your opportunity to transform aspirations into reality. Embark on a journey of growth and discovery, where your skills and determination converge to achieve meaningful goals.
-
 ## 🎯 **Goals**
 [💡^]: Remember to set [[S.M.A.R.T]] goals
 [💡^]: Use the [[5 Whys Technique - Root Cause Analysis]]
-- **Master technical concepts and programming skills**
-- **Develop strong communication and problem-solving abilities**
-- **Exhibit confidence and professionalism during the interview**
-- **Secure a software engineering, web development, or front-end/back-end engineering position at a FAANG company**
-
+- To be accountable 
 ## ✅ **Tasks**
 
-- [x] Set Time frame to achieve goal ✅ 2023-11-29
-- [ ] Create list of book to read
-- [ ] Create a [[FAANG Interview Preparation Plan]]
+- [ ] Pay nidia movistar line 🔼 🔁 every month ⏳ 2023-12-24 📅 2024-03-25
+- [x] Pay nidia movistar line 🔼 🔁 every month ⏳ 2023-11-25 📅 2024-02-25 ✅ 2023-11-29
 
 
 ---
@@ -71,5 +63,5 @@ WHERE contains(file.tags,this.file.tags[0])
 
 **Embrace the excitement and embark on your journey of accomplishment!**
 
-> [!quote] Excellence is to do a common thing in an uncommon way.
-> — Booker T. Washington
+> [!quote] Don't believe what your eyes are telling you. All they show is limitation. Look with your understanding, find out what you already know, and you'll see the way to fly.
+> — Richard Bach

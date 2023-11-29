@@ -1,9 +1,11 @@
 ---
-Type: Project
-tags: [🚀-02-Interview-Prep]
-Status: 🟡 New
-Short Description:
-Date Started: 2023-11-22 13:55
+Type:
+  - Project
+tags:
+  - 🚀-Week-1-2
+Status: 🟢 In Progress
+Short Description: 
+Date Started: 2023-11-29 16:12
 ---
 > 🌟 **Embrace the Challenge:** 
 > This project is your opportunity to transform aspirations into reality. Embark on a journey of growth and discovery, where your skills and determination converge to achieve meaningful goals.
@@ -11,16 +13,26 @@ Date Started: 2023-11-22 13:55
 ## 🎯 **Goals**
 [💡^]: Remember to set [[S.M.A.R.T]] goals
 [💡^]: Use the [[5 Whys Technique - Root Cause Analysis]]
-- **Master technical concepts and programming skills**
-- **Develop strong communication and problem-solving abilities**
-- **Exhibit confidence and professionalism during the interview**
-- **Secure a software engineering, web development, or front-end/back-end engineering position at a FAANG company**
+
+1. **Understand the Role:**
+   - Research the specific requirements for the role you're targeting within FAANG.
+   - Identify key technical and behavioral competencies.
+
+2. **Assess Current Skills:**
+   - Take a baseline coding assessment on platforms like LeetCode.
+   - Evaluate your knowledge of relevant technologies (e.g., Angular).
 
 ## ✅ **Tasks**
 
-- [x] Set Time frame to achieve goal ✅ 2023-11-29
-- [ ] Create list of book to read
-- [ ] Create a [[FAANG Interview Preparation Plan]]
+- [ ] Create a list of [[target companies within FAANG]].
+- [ ] Develop a [[self-assessment matrix for technical and soft skills]].
+
+### Methodology
+- Reflect on the findings and set specific improvement goals.
+
+### Metrics
+- Baseline coding assessment score.
+- Identification of strengths and weaknesses.
 
 
 ---
@@ -71,5 +83,5 @@ WHERE contains(file.tags,this.file.tags[0])
 
 **Embrace the excitement and embark on your journey of accomplishment!**
 
-> [!quote] Excellence is to do a common thing in an uncommon way.
-> — Booker T. Washington
+> [!quote] I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better.
+> — Plutarch

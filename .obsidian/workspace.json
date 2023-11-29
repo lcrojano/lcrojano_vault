@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Second Brain/Articles/Optimizing Your Time 🕚.md",
+                "file": "0. Daybook/2023/Daily/11/2023-11-29.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Second Brain/Articles/Optimizing Your Time 🕚.md",
+                "file": "0. Daybook/2023/Daily/11/2023-11-29.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/Second Brain/Articles/Optimizing Your Time 🕚.md",
+                "file": "0. Daybook/2023/Daily/11/2023-11-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             }
           },
           {
-            "id": "0d9591b0a246fd53",
+            "id": "48f539cbeac1018d",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/Second Brain/Articles/Optimizing Your Time 🕚.md"
+                "file": "0. Daybook/2023/Daily/11/2023-11-29.md"
               }
             }
           }
@@ -206,8 +206,23 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "65b34e469c76e6b1",
+  "active": "bb04e92c79fb25b3",
   "lastOpenFiles": [
+    "3. Resources/Daybook/Selenium save session.md",
+    "0. Daybook/2023/Daily/11/2023-11-29.md",
+    "2. Areas/00 ✍🏻 Blogger/🚀 00 ✍🏻 Blogger.md",
+    "2. Areas/00 ✍🏻 Blogger/Angular 17 new updates.md",
+    "1. Projects/02 🧠 Building a second brain/🚀 Building a Second Brain - README.md",
+    "1. Projects/02 🧠 Building a second brain/Project Template for Focusing on 80% Completed.md",
+    "2. Areas/05 🏘️ Family/🚀 05 🏘️ Family.md",
+    "0. Daybook/2023/Daily/11/2023-11-14.md",
+    "2. Areas/05 🏘️ Family",
+    "2. Areas/00 🅰️ FAANG/02 Interview Prep/Week 1-2/🚀 Week 1-2.md",
+    "2. Areas/00 🅰️ FAANG/02 Interview Prep/FAANG Interview Preparation Plan.md",
+    "2. Areas/00 🅰️ FAANG/02 Interview Prep/🚀 02 Interview Prep.md",
+    "0. Daybook/2023/Daily/11/2023-11-26.md",
+    "2. Areas/00 🅰️ FAANG/02 Interview Prep/Week 1-2",
+    "3. Resources/Second Brain/Articles/Optimizing Your Time 🕚.md",
     "3. Resources/Second Brain/Articles/Make Better Decisions With Artificial Working Memory.md",
     "3. Resources/Second Brain/Articles/How to handle all your tasks effectively as a Solo-founder.md",
     "3. Resources/Second Brain/Articles",
@@ -222,24 +237,11 @@
     "_Inbox/Read Later/Gamification Strategies and Benefits for User Engagement.md",
     "_Inbox/Read Later/Building my second brain 🧠 with Obsidian.md",
     "_Inbox/Read Later/Applying the Onion Architecture to Angular Projects.md",
-    "_Inbox/Read Later/Animated Icons.md",
-    "_Inbox/Read Later/A guide to Auth & Access Control in web apps 🔐 - DEV Community.md",
-    "_Inbox/Read Later/[.md",
-    "0. Daybook/2023/Daily/11/2023-11-29.md",
     "_Inbox/Read Later/assets/--2.jpeg",
     "_Inbox/Read Later/assets/--1.jpeg",
     "_Inbox/Read Later/assets/-.jpeg",
     "_Inbox/Read Later/assets/OpenReplay.svg",
-    "0. Daybook/2023/Daily/11/2023-11-28.md",
-    "0. Daybook/2023/Daily/11/2023-11-27.md",
-    "0. Daybook/2023/Daily/11/2023-11-26.md",
-    "0. Daybook/2023/Daily/11/2023-11-25.md",
-    "0. Daybook/2023/Daily/11/2023-11-24.md",
     "0. Daybook/2023/Daily/11/~syncthing~2023-11-26.md.tmp",
-    "0. Daybook/Templates/Daily.md",
-    "3. Resources/Templates/Project Template.md",
-    "0. Daybook/2023 Daily Habit Tracker.md",
-    "4. Archive/Some Day/Janeth Course/00 Diplomado Virtual - README.md",
     "4. Archive/Platzi",
     "2. Areas/Personal Development/PROFILE LCROJANO4.png",
     "2. Areas/Personal Development/PROFILE LCROJANO3.png",
@@ -252,8 +254,6 @@
     "2. Areas/00 🅰️ FAANG/02 Interview Prep",
     "3. Resources/Software Engineering/Cmd",
     "3. Resources/Software Engineering/Auth",
-    "3. Resources/Software Engineering/Design Patterns",
-    "2. Areas/00 🅰️ FAANG/01 CSS Animation Practice",
     "1. Projects/Untitled.canvas",
     "1. Projects/01 IETLS Preparation/Untitled.canvas",
     "Dashboard canvas.canvas",
