@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Daybook/2023/Daily/11/2023-11-29.md",
+                "file": "0. Daybook/2023/Daily/11/2023-11-30.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#projects/mag-academy",
+                "query": "tag:#areas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "8488bc17781ccd8e",
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Daybook/2023/Daily/11/2023-11-29.md",
+                "file": "0. Daybook/2023/Daily/11/2023-11-30.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Daybook/2023/Daily/11/2023-11-29.md",
+                "file": "0. Daybook/2023/Daily/11/2023-11-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +160,7 @@
             }
           },
           {
-            "id": "48f539cbeac1018d",
+            "id": "7e7f8d4c8bfb8471",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -180,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Daybook/2023/Daily/11/2023-11-29.md"
+                "file": "0. Daybook/2023/Daily/11/2023-11-30.md"
               }
             }
           }
@@ -208,8 +209,11 @@
   },
   "active": "bb04e92c79fb25b3",
   "lastOpenFiles": [
-    "3. Resources/Daybook/Selenium save session.md",
+    "3. Resources/Software Engineering/JavaScript/Clean Code Javascript.md",
+    "0. Daybook/2023/Daily/11/2023-11-30.md",
     "0. Daybook/2023/Daily/11/2023-11-29.md",
+    "Dashboard.md",
+    "3. Resources/Daybook/Selenium save session.md",
     "2. Areas/00 ✍🏻 Blogger/🚀 00 ✍🏻 Blogger.md",
     "2. Areas/00 ✍🏻 Blogger/Angular 17 new updates.md",
     "1. Projects/02 🧠 Building a second brain/🚀 Building a Second Brain - README.md",
@@ -234,9 +238,6 @@
     "_Inbox/Read Later/How to Call an API in JavaScript – with Examples.md",
     "_Inbox/Read Later/How Creating Content as a Developer Changed My Life.md",
     "_Inbox/Read Later/How to build momentos.md",
-    "_Inbox/Read Later/Gamification Strategies and Benefits for User Engagement.md",
-    "_Inbox/Read Later/Building my second brain 🧠 with Obsidian.md",
-    "_Inbox/Read Later/Applying the Onion Architecture to Angular Projects.md",
     "_Inbox/Read Later/assets/--2.jpeg",
     "_Inbox/Read Later/assets/--1.jpeg",
     "_Inbox/Read Later/assets/-.jpeg",
