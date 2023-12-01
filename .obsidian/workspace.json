@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Areas/05 🏘️ Family/🚀 05 🏘️ Family.md",
+                "file": "0. Daybook/2023/Daily/11/2023-11-30.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "8488bc17781ccd8e",
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/05 🏘️ Family/🚀 05 🏘️ Family.md",
+                "file": "0. Daybook/2023/Daily/11/2023-11-30.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Areas/05 🏘️ Family/🚀 05 🏘️ Family.md",
+                "file": "0. Daybook/2023/Daily/11/2023-11-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +159,7 @@
             }
           },
           {
-            "id": "7e7f8d4c8bfb8471",
+            "id": "c489569407fd62d2",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -181,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Areas/05 🏘️ Family/🚀 05 🏘️ Family.md"
+                "file": "0. Daybook/2023/Daily/11/2023-11-30.md"
               }
             }
           }
@@ -207,18 +206,20 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "335bb286727f6de2",
+  "active": "c489569407fd62d2",
   "lastOpenFiles": [
+    "0. Daybook/2023/Daily/12/2023-12-01.md",
     "0. Daybook/2023/Daily/11/2023-11-30.md",
-    "3. Resources/Software Engineering/JavaScript/Clean Code Javascript.md",
     "0. Daybook/2023/Daily/11/2023-11-29.md",
+    "2. Areas/05 🏘️ Family/🚀 05 🏘️ Family.md",
+    "0. Daybook/2023/Daily/12",
+    "3. Resources/Software Engineering/JavaScript/Clean Code Javascript.md",
     "Dashboard.md",
     "3. Resources/Daybook/Selenium save session.md",
     "2. Areas/00 ✍🏻 Blogger/🚀 00 ✍🏻 Blogger.md",
     "2. Areas/00 ✍🏻 Blogger/Angular 17 new updates.md",
     "1. Projects/02 🧠 Building a second brain/🚀 Building a Second Brain - README.md",
     "1. Projects/02 🧠 Building a second brain/Project Template for Focusing on 80% Completed.md",
-    "2. Areas/05 🏘️ Family/🚀 05 🏘️ Family.md",
     "0. Daybook/2023/Daily/11/2023-11-14.md",
     "2. Areas/05 🏘️ Family",
     "2. Areas/00 🅰️ FAANG/02 Interview Prep/Week 1-2/🚀 Week 1-2.md",
@@ -237,7 +238,6 @@
     "1. Projects/02 🧠 Building a second brain/Implementing DataView.md",
     "_Inbox/Read Later/How to Call an API in JavaScript – with Examples.md",
     "_Inbox/Read Later/How Creating Content as a Developer Changed My Life.md",
-    "_Inbox/Read Later/How to build momentos.md",
     "_Inbox/Read Later/assets/--2.jpeg",
     "_Inbox/Read Later/assets/--1.jpeg",
     "_Inbox/Read Later/assets/-.jpeg",
@@ -254,7 +254,6 @@
     "2. Areas/00 🅰️ FAANG",
     "2. Areas/00 🅰️ FAANG/02 Interview Prep",
     "3. Resources/Software Engineering/Cmd",
-    "3. Resources/Software Engineering/Auth",
     "1. Projects/Untitled.canvas",
     "1. Projects/01 IETLS Preparation/Untitled.canvas",
     "Dashboard canvas.canvas",
