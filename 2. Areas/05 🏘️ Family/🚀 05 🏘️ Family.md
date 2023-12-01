@@ -11,8 +11,34 @@ Date Started: 2023-11-29 16:22
 - To be accountable 
 ## ✅ **Tasks**
 
-- [ ] Pay nidia movistar line 🔼 🔁 every month ⏳ 2023-12-24 📅 2024-03-25
-- [x] Pay nidia movistar line 🔼 🔁 every month ⏳ 2023-11-25 📅 2024-02-25 ✅ 2023-11-29
+
+## Public services
+### Family Services
+- [ ] #bills/📱nidia [price:: $23,000] 🔁 every month ⏳ 2023-12-20 📅 2024-03-20  🔺 
+- [x] #bills/📱nidia 🔼 🔁 every month ⏳ 2023-11-25 📅 2024-02-25 ✅ 2023-11-29
+
+### 💦 Water
+- [ ] #bills/💦Water [price:: $251,000] 🔁 every month 🛫 2023-12-04 📅 2023-12-09 🔺 
+- [x] #bills/💦Water $63,971 ⏫ 🔁 every month 🛫 2023-11-04 ✅ 2023-11-30
+- [x] #bills/💦Water $63,971 🔁 every month 🛫 2023-10-04 ✅ 2023-11-30
+### 💡Electricity
+- [ ]  #bills/💡Electricity[price:: $63,971] 🔁 every month 🛫 2023-11-17 📅 2023-12-04  🔺 
+## 🍳Gas
+- [ ] #bills/🍳Gas [price:: $63,971] ⏫ 🔁 every month 🛫 2023-12-18 📅 2024-01-04 🔺 
+- [x] #bills/🍳Gas $63,971 ⏫ 🔁 every month 🛫 2023-11-17 📅 2023-12-04 ✅ 2023-12-01
+### 🌐 Internet 1
+- [ ] #bills/🌐Internet1 [price:: $108,944] ⏫ 🔁 every month 🛫 2023-12-02 📅 2023-12-09 ⏫ 
+- [x] #bills/🌐Internet1 $108,944 ⏫ 🔁 every month 🛫 2023-11-02 📅 2023-11-09 ✅ 2023-12-01
+### 🌏 Internet 2
+- [ ] #bills/🌏Internet2 [price:: $86,242] ⏫ 🔁 every month 🛫 2023-12-21 📅 2023-12-26 ⏫
+- [x] #bills/🌏Internet2 $86,242 ⏫ 🔁 every month 🛫 2023-11-21 📅 2023-11-26 ✅ 2023-12-01
+
+
+## cards
+
+- [ ] Card 1
+- [ ] Card 2
+- [ ] Card 3
 
 
 ---

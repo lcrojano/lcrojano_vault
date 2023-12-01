@@ -38,7 +38,7 @@
   "counterBehavior": "Filter",
   "useQuickEntry": true,
   "entryPosition": "today",
-  "useYearHeader": true,
+  "useYearHeader": false,
   "useRelative": true,
   "useRecurrence": true,
   "usePriority": true,

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Daybook/2023/Daily/11/2023-11-30.md",
+                "file": "2. Areas/05 🏘️ Family/🚀 05 🏘️ Family.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#areas",
+                "query": " [price:: $63,971]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Daybook/2023/Daily/11/2023-11-30.md",
+                "file": "2. Areas/05 🏘️ Family/🚀 05 🏘️ Family.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Daybook/2023/Daily/11/2023-11-30.md",
+                "file": "2. Areas/05 🏘️ Family/🚀 05 🏘️ Family.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Daybook/2023/Daily/11/2023-11-30.md"
+                "file": "2. Areas/05 🏘️ Family/🚀 05 🏘️ Family.md"
               }
             }
           }
@@ -207,10 +207,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "bb04e92c79fb25b3",
+  "active": "335bb286727f6de2",
   "lastOpenFiles": [
-    "3. Resources/Software Engineering/JavaScript/Clean Code Javascript.md",
     "0. Daybook/2023/Daily/11/2023-11-30.md",
+    "3. Resources/Software Engineering/JavaScript/Clean Code Javascript.md",
     "0. Daybook/2023/Daily/11/2023-11-29.md",
     "Dashboard.md",
     "3. Resources/Daybook/Selenium save session.md",
