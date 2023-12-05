@@ -86,13 +86,29 @@ var exampleModalDefinition = {
       name: "multi_example_2",
       label: "Multi select fixed",
       description: "Allows to pick many notes from a fixed list",
-      input: { type: "multiselect", source: "fixed", multi_select_options: ["Android", "iOS", "Windows", "MacOS", "Linux", "Solaris", "MS2"] }
+      input: {
+        type: "multiselect",
+        source: "fixed",
+        multi_select_options: [
+          "Android",
+          "iOS",
+          "Windows",
+          "MacOS",
+          "Linux",
+          "Solaris",
+          "MS2"
+        ]
+      }
     },
     {
       name: "multi_select_dataview",
       label: "Multi select dataview",
       description: "Allows to pick several values from a dv query",
-      input: { type: "multiselect", source: "dataview", query: 'dv.pages("#person").map(p => p.file.name)' }
+      input: {
+        type: "multiselect",
+        source: "dataview",
+        query: 'dv.pages("#person").map(p => p.file.name)'
+      }
     },
     {
       name: "best_fried",
@@ -151,6 +167,11 @@ var exampleModalDefinition = {
       input: {
         type: "textarea"
       }
+    },
+    {
+      name: "Tags",
+      description: "Tags input example",
+      input: { type: "tag" }
     }
   ]
 };
@@ -1357,38 +1378,81 @@ function findFieldErrors(fields) {
 
 // src/core/formDefinitionSchema.ts
 function nonEmptyString(name) {
-  return string(`${name} should be a string`, [toTrimmed(), minLength(1, `${name} should not be empty`)]);
+  return string(`${name} should be a string`, [
+    toTrimmed(),
+    minLength(1, `${name} should not be empty`)
+  ]);
 }
-var InputBasicTypeSchema = enumType(["text", "number", "date", "time", "datetime", "textarea", "toggle", "email", "tel"]);
-var SelectFromNotesSchema = object({ type: literal("select"), source: literal("notes"), folder: nonEmptyString("folder name") });
-var InputSliderSchema = object({ type: literal("slider"), min: number(), max: number() });
-var InputNoteFromFolderSchema = object({ type: literal("note"), folder: nonEmptyString("folder name") });
-var InputDataviewSourceSchema = object({ type: literal("dataview"), query: nonEmptyString("dataview query") });
+var InputBasicTypeSchema = enumType([
+  "text",
+  "number",
+  "date",
+  "time",
+  "datetime",
+  "textarea",
+  "toggle",
+  "email",
+  "tel"
+]);
+var SelectFromNotesSchema = object({
+  type: literal("select"),
+  source: literal("notes"),
+  folder: nonEmptyString("folder name")
+});
+var InputTagSchema = object({
+  type: literal("tag"),
+  exclude: optional(string())
+  // This should be a regex string
+});
+var InputSliderSchema = object({
+  type: literal("slider"),
+  min: number(),
+  max: number()
+});
+var InputNoteFromFolderSchema = object({
+  type: literal("note"),
+  folder: nonEmptyString("folder name")
+});
+var InputDataviewSourceSchema = object({
+  type: literal("dataview"),
+  query: nonEmptyString("dataview query")
+});
 var InputBasicSchema = object({ type: InputBasicTypeSchema });
 var InputSelectFixedSchema = object({
   type: literal("select"),
   source: literal("fixed"),
-  options: array(object({
-    value: string([toTrimmed()]),
-    label: string()
-  }))
+  options: array(
+    object({
+      value: string([toTrimmed()]),
+      label: string()
+    })
+  )
 });
 var MultiSelectNotesSchema = object({
   type: literal("multiselect"),
   source: literal("notes"),
   folder: nonEmptyString("multi select source folder")
 });
-var MultiSelectFixedSchema = object({ type: literal("multiselect"), source: literal("fixed"), multi_select_options: array(string()) });
+var MultiSelectFixedSchema = object({
+  type: literal("multiselect"),
+  source: literal("fixed"),
+  multi_select_options: array(string())
+});
 var MultiSelectQuerySchema = object({
   type: literal("multiselect"),
   source: literal("dataview"),
   query: nonEmptyString("dataview query")
 });
-var MultiselectSchema = union([MultiSelectNotesSchema, MultiSelectFixedSchema, MultiSelectQuerySchema]);
+var MultiselectSchema = union([
+  MultiSelectNotesSchema,
+  MultiSelectFixedSchema,
+  MultiSelectQuerySchema
+]);
 var InputTypeSchema = union([
   InputBasicSchema,
   InputNoteFromFolderSchema,
   InputSliderSchema,
+  InputTagSchema,
   SelectFromNotesSchema,
   InputDataviewSourceSchema,
   InputSelectFixedSchema,
@@ -1406,6 +1470,7 @@ var InputTypeToParserMap = {
   toggle: parseC(InputBasicSchema),
   note: parseC(InputNoteFromFolderSchema),
   slider: parseC(InputSliderSchema),
+  tag: parseC(InputTagSchema),
   select: trySchemas([SelectFromNotesSchema, InputSelectFixedSchema]),
   dataview: parseC(InputDataviewSourceSchema),
   multiselect: parseC(MultiselectSchema)
@@ -1416,10 +1481,12 @@ var FieldDefinitionSchema = object({
   description: string(),
   input: InputTypeSchema
 });
-var FieldMinimalSchema = passthrough(merge([
-  FieldDefinitionSchema,
-  object({ input: passthrough(object({ type: string() })) })
-]));
+var FieldMinimalSchema = passthrough(
+  merge([
+    FieldDefinitionSchema,
+    object({ input: passthrough(object({ type: string() })) })
+  ])
+);
 var FieldListSchema = array(FieldDefinitionSchema);
 var FormDefinitionBasicSchema = object({
   title: nonEmptyString("form title"),
@@ -1427,10 +1494,13 @@ var FormDefinitionBasicSchema = object({
   customClassname: optional(string()),
   fields: array(unknown())
 });
-var FormDefinitionV1Schema = merge([FormDefinitionBasicSchema, object({
-  version: literal("1"),
-  fields: FieldListSchema
-})]);
+var FormDefinitionV1Schema = merge([
+  FormDefinitionBasicSchema,
+  object({
+    version: literal("1"),
+    fields: FieldListSchema
+  })
+]);
 var FormDefinitionLatestSchema = FormDefinitionV1Schema;
 var MigrationError = class {
   constructor(form, error) {
@@ -1443,7 +1513,7 @@ var MigrationError = class {
             ${this.error.message}
             ${this.error.issues.map((issue) => issue.message).join(", ")}`;
   }
-  // This allows to store the error in the settings, along with the rest of the forms and 
+  // This allows to store the error in the settings, along with the rest of the forms and
   // have save all the data in one go transparently.
   // This is required so we don't lose the form, even if it is invalid
   toJSON() {
@@ -1474,11 +1544,13 @@ function migrateToLatest(data) {
   return pipe2(
     // first try a quick one with the latest schema
     parse2(FormDefinitionLatestSchema, data, { abortEarly: true }),
-    orElse(() => pipe2(
-      parse2(FormDefinitionBasicSchema, data),
-      mapLeft((error) => new InvalidData(data, error)),
-      map(fromV0toV1)
-    ))
+    orElse(
+      () => pipe2(
+        parse2(FormDefinitionBasicSchema, data),
+        mapLeft((error) => new InvalidData(data, error)),
+        map(fromV0toV1)
+      )
+    )
   );
 }
 function formNeedsMigration(data) {
@@ -3008,15 +3080,13 @@ var FormModal = class extends import_obsidian8.Modal {
         case "email":
         case "tel":
         case "text":
-          return fieldBase.addText(
-            (text2) => {
-              text2.inputEl.type = type;
-              initialValue !== void 0 && text2.setValue(String(initialValue));
-              return text2.onChange(async (value) => {
-                this.formResult[definition.name] = value;
-              });
-            }
-          );
+          return fieldBase.addText((text2) => {
+            text2.inputEl.type = type;
+            initialValue !== void 0 && text2.setValue(String(initialValue));
+            return text2.onChange(async (value) => {
+              this.formResult[definition.name] = value;
+            });
+          });
         case "number":
           return fieldBase.addText((text2) => {
             text2.inputEl.type = "number";
@@ -3052,25 +3122,28 @@ var FormModal = class extends import_obsidian8.Modal {
             });
           });
         case "toggle":
-          return fieldBase.addToggle(
-            (toggle) => {
-              toggle.setValue(!!initialValue);
-              this.formResult[definition.name] = !!initialValue;
-              return toggle.onChange(async (value) => {
-                this.formResult[definition.name] = value;
-              });
-            }
-          );
+          return fieldBase.addToggle((toggle) => {
+            toggle.setValue(!!initialValue);
+            this.formResult[definition.name] = !!initialValue;
+            return toggle.onChange(async (value) => {
+              this.formResult[definition.name] = value;
+            });
+          });
         case "note":
           return fieldBase.addText((element2) => {
-            new FileSuggest(this.app, element2.inputEl, {
-              renderSuggestion(file) {
-                return file.basename;
+            new FileSuggest(
+              this.app,
+              element2.inputEl,
+              {
+                renderSuggestion(file) {
+                  return file.basename;
+                },
+                selectSuggestion(file) {
+                  return file.basename;
+                }
               },
-              selectSuggestion(file) {
-                return file.basename;
-              }
-            }, fieldInput.folder);
+              fieldInput.folder
+            );
             element2.onChange(async (value) => {
               this.formResult[definition.name] = value;
             });
@@ -3092,22 +3165,48 @@ var FormModal = class extends import_obsidian8.Modal {
           this.formResult[definition.name] = this.formResult[definition.name] || [];
           const source = fieldInput.source;
           const options = source == "fixed" ? fieldInput.multi_select_options : source == "notes" ? pipe2(
-            get_tfiles_from_folder(fieldInput.folder, this.app),
+            get_tfiles_from_folder(
+              fieldInput.folder,
+              this.app
+            ),
             E.map(A.map((file) => file.basename)),
             E.getOrElse((err) => {
               log_error(err);
               return [];
             })
-          ) : executeSandboxedDvQuery(sandboxedDvQuery(fieldInput.query), this.app);
-          this.svelteComponents.push(new MultiSelect_default({
-            target: fieldBase.controlEl,
-            props: {
-              selectedVales: this.formResult[definition.name],
-              availableOptions: options,
-              setting: fieldBase,
-              app: this.app
-            }
-          }));
+          ) : executeSandboxedDvQuery(
+            sandboxedDvQuery(fieldInput.query),
+            this.app
+          );
+          this.svelteComponents.push(
+            new MultiSelect_default({
+              target: fieldBase.controlEl,
+              props: {
+                selectedVales: this.formResult[definition.name],
+                availableOptions: options,
+                setting: fieldBase,
+                app: this.app
+              }
+            })
+          );
+          return;
+        }
+        case "tag": {
+          const options = Object.keys(
+            this.app.metadataCache.getTags()
+          ).map((tag) => tag.slice(1));
+          this.formResult[definition.name] = this.formResult[definition.name] || [];
+          this.svelteComponents.push(
+            new MultiSelect_default({
+              target: fieldBase.controlEl,
+              props: {
+                selectedVales: this.formResult[definition.name],
+                availableOptions: options,
+                setting: fieldBase,
+                app: this.app
+              }
+            })
+          );
           return;
         }
         case "dataview": {
@@ -3125,11 +3224,12 @@ var FormModal = class extends import_obsidian8.Modal {
             switch (source) {
               case "fixed":
                 return fieldBase.addDropdown((element2) => {
-                  fieldInput.options.forEach(
-                    (option) => {
-                      element2.addOption(option.value, option.label);
-                    }
-                  );
+                  fieldInput.options.forEach((option) => {
+                    element2.addOption(
+                      option.value,
+                      option.label
+                    );
+                  });
                   this.formResult[definition.name] = element2.getValue();
                   element2.onChange(async (value) => {
                     this.formResult[definition.name] = value;
@@ -3137,16 +3237,21 @@ var FormModal = class extends import_obsidian8.Modal {
                 });
               case "notes":
                 return fieldBase.addDropdown((element2) => {
-                  const files = get_tfiles_from_folder(fieldInput.folder, this.app);
+                  const files = get_tfiles_from_folder(
+                    fieldInput.folder,
+                    this.app
+                  );
                   pipe2(
                     files,
-                    E.map((files2) => files2.reduce(
-                      (acc, option) => {
-                        acc[option.basename] = option.basename;
-                        return acc;
-                      },
-                      {}
-                    )),
+                    E.map(
+                      (files2) => files2.reduce(
+                        (acc, option) => {
+                          acc[option.basename] = option.basename;
+                          return acc;
+                        },
+                        {}
+                      )
+                    ),
                     E.mapLeft((err) => {
                       log_error(err);
                       return err;
@@ -3298,6 +3403,7 @@ var import_obsidian13 = require("obsidian");
 var FieldTypeReadable = {
   text: "Text",
   number: "Number",
+  tag: "Tags",
   email: "Email",
   tel: "Phone",
   date: "Date",
@@ -3305,11 +3411,11 @@ var FieldTypeReadable = {
   datetime: "DateTime",
   textarea: "Text area",
   toggle: "Toggle",
-  "note": "Note",
-  "slider": "Slider",
-  "select": "Select",
-  "dataview": "Dataview",
-  "multiselect": "Multiselect"
+  note: "Note",
+  slider: "Slider",
+  select: "Select",
+  dataview: "Dataview",
+  multiselect: "Multiselect"
 };
 function validateFields(fields) {
   const result = safeParse(FieldListSchema, fields);
@@ -3317,16 +3423,14 @@ function validateFields(fields) {
     return [];
   }
   console.error("Fields issues", result.issues);
-  return result.issues.map(
-    (issue) => {
-      var _a, _b, _c, _d;
-      return {
-        message: issue.message,
-        path: (_a = issue.path) == null ? void 0 : _a.map((item) => item.key).join("."),
-        index: (_d = (_c = (_b = issue.path) == null ? void 0 : _b[0]) == null ? void 0 : _c.key) != null ? _d : 0
-      };
-    }
-  );
+  return result.issues.map((issue) => {
+    var _a, _b, _c, _d;
+    return {
+      message: issue.message,
+      path: (_a = issue.path) == null ? void 0 : _a.map((item) => item.key).join("."),
+      index: (_d = (_c = (_b = issue.path) == null ? void 0 : _b[0]) == null ? void 0 : _c.key) != null ? _d : 0
+    };
+  });
 }
 function isValidFormDefinition(input) {
   if (!is(FormDefinitionBasicSchema, input)) {

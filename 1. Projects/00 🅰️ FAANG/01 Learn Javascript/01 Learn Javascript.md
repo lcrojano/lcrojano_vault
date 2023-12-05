@@ -28,6 +28,9 @@ This online course is a self-paced learning experience. Because you are taking s
 	- [ ]  [[Coursera Syllabus - Programming with JavaScript#^cdc63a| Module 3]]
 	- [ ]  [[Coursera Syllabus - Programming with JavaScript#^31b6e4| Module 4]]
 	- [ ]  [[Coursera Syllabus - Programming with JavaScript#^d1e9c8| Module 5]]
+- [ ] Platzi Javascript Course
+- [ ] Solo Learn Course
+- [ ] FreeCodeCamp
 
 
 ---

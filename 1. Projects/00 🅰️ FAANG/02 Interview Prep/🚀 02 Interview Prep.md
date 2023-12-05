@@ -20,7 +20,8 @@ Date Started: 2023-11-22 13:55
 
 - [x] Set Time frame to achieve goal ✅ 2023-11-29
 - [ ] Create list of book to read
-- [ ] Create a [[FAANG Interview Preparation Plan]]
+- [x] Create a [[FAANG Interview Preparation Plan]] ✅ 2023-12-
+- [ ] Finish [[🚀 Week 1-2]]
 
 
 ---
