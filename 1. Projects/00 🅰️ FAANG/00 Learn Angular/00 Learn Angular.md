@@ -1,21 +1,15 @@
-<%*
-const folders = tp.file.folder(true).split('/') 
-let parentFolder = folders[folders.length - 1]
-let title = tp.file.title 
-title = await tp.system.prompt("Title", parentFolder); 
-await tp.file.rename(title); 
-tR += "---" 
-%>
+---
 Type: Project
-tags: [projects/<% await title.replace(/ /g, "-") %>]
+tags: [projects/00-Learn-Angular]
 Status: 🟡 New
 Short Description:
-Date Started: <% tp.file.creation_date() %>
+Date Started: 2023-12-03 15:28
 ---
-> 🌟 **Embrace the Challenge:** 
+🌟 **Embrace the Challenge:** 
 > This project is your opportunity to transform aspirations into reality. Embark on a journey of growth and discovery, where your skills and determination converge to achieve meaningful goals.
 
-- [ ] Project: <% title %> 🛫 <% tp.file.creation_date() %>
+- [ ] Project: 00 Learn Angular 🛫 2023-12-03 15:28 📅 2023-12-31 🔁 every day 🔺  
+
 ## 🎯 **Goals**
 [💡^]: Remember to set [[S.M.A.R.T]] goals
 [💡^]: Use the [[5 Whys Technique - Root Cause Analysis]]
@@ -75,4 +69,5 @@ WHERE contains(file.tags,this.file.tags[0])
 
 **Embrace the excitement and embark on your journey of accomplishment!**
 
-<% tp.web.daily_quote() %>
+> [!quote] In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.
+> — Leonardo da Vinci

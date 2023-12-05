@@ -1,30 +1,24 @@
-<%*
-const folders = tp.file.folder(true).split('/') 
-let parentFolder = folders[folders.length - 1]
-let title = tp.file.title 
-title = await tp.system.prompt("Title", parentFolder); 
-await tp.file.rename(title); 
-tR += "---" 
-%>
+---
 Type: Project
-tags: [projects/<% await title.replace(/ /g, "-") %>]
+tags: [projects/00-💰-Sell-Old-Products]
 Status: 🟡 New
 Short Description:
-Date Started: <% tp.file.creation_date() %>
+Date Started: 2023-12-01 10:20
 ---
 > 🌟 **Embrace the Challenge:** 
 > This project is your opportunity to transform aspirations into reality. Embark on a journey of growth and discovery, where your skills and determination converge to achieve meaningful goals.
 
-- [ ] Project: <% title %> 🛫 <% tp.file.creation_date() %>
+- [ ] Project: 00 💰 Sell Old Products 🛫 2023-12-01 10:20 📅 2023-12-31
 ## 🎯 **Goals**
 [💡^]: Remember to set [[S.M.A.R.T]] goals
 [💡^]: Use the [[5 Whys Technique - Root Cause Analysis]]
 
-
+- To Sell item that I no longer use so people could benefit from them at a lower price.
 ## ✅ **Tasks**
 
-- [ ] **Actionable task 1:** 
-- [ ] **Actionable task 2:** 
+- [ ] Review Excel created by marie anne
+- [ ] define prices for each item
+- [ ] list of posible website to sell items
 
 
 ---
@@ -75,4 +69,5 @@ WHERE contains(file.tags,this.file.tags[0])
 
 **Embrace the excitement and embark on your journey of accomplishment!**
 
-<% tp.web.daily_quote() %>
+> [!quote] When something is important enough, you do it even if the odds are not in your favor.
+> — Elon Musk
