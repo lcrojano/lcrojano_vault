@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1. Projects/00 🅰️ FAANG/00 Learn Angular/00 Learn Angular.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,25 +47,12 @@
             }
           },
           {
-            "id": "e2661d7b179b9e72",
+            "id": "b27122a74cff7ce9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60ba8e84b2d56753",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "1. Projects/00 🅰️ FAANG/00 Learn Angular/2. What is a Component.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -180,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "1. Projects/00 🅰️ FAANG/00 Learn Angular/2. What is a Component.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "1. Projects/00 🅰️ FAANG/00 Learn Angular/2. What is a Component.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +199,7 @@
             }
           },
           {
-            "id": "47157e536e02fc19",
+            "id": "69f1414dd62f9887",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -233,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "1. Projects/00 🅰️ FAANG/00 Learn Angular/2. What is a Component.md"
               }
             }
           }
@@ -259,12 +246,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e2661d7b179b9e72",
+  "active": "b27122a74cff7ce9",
   "lastOpenFiles": [
-    "README.md",
-    "Untitled.md",
-    "0. Daybook/2023/Daily/12/2023-12-05.md",
     "1. Projects/00 🅰️ FAANG/00 Learn Angular/00 Learn Angular.md",
+    "1. Projects/00 🅰️ FAANG/00 Learn Angular/2. What is a Component.md",
+    "0. Daybook/2023/Daily/12/2023-12-05.md",
+    "Untitled.md",
+    "README.md",
     "0. Daybook/2023/Daily/12/2023-12-03.md",
     "0. Daybook/2023/Daily/12/2023-12-04.md",
     "_Inbox/Read Later/How Google writes clean, maintainable code.md",
@@ -297,7 +285,6 @@
     "1. Projects/00 🅰️ FAANG/00 Learn Angular/Angular CLI/ng new command.md",
     "1. Projects/00 🅰️ FAANG/00 Learn Angular/Angular CLI",
     "1. Projects/00 🅰️ FAANG/00 Learn Angular/Angular CLI/ng serve command.md",
-    "0. Daybook/Templates/Daily.md",
     "1. Projects/00 🅰️ FAANG/01 Learn Javascript",
     "1. Projects/00 🅰️ FAANG/01 Learn Typescript",
     "1. Projects/00 🅰️ FAANG/00 Learn Angular",

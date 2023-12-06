@@ -17,8 +17,7 @@ Date Started: 2023-12-03 15:28
 
 ## ✅ **Tasks**
 
-- [ ] **Actionable task 1:** 
-- [ ] **Actionable task 2:** 
+- [ ] Finish Solo Solo Learn Angular 
 
 
 ---
