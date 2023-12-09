@@ -8,7 +8,7 @@ Date Started: 2023-12-03 15:40
 > 🌟 **Embrace the Challenge:** 
 > This project is your opportunity to transform aspirations into reality. Embark on a journey of growth and discovery, where your skills and determination converge to achieve meaningful goals.
 
-- [ ] Project: 01 Learn Typescript 🛫 2023-12-03 15:40
+- [ ] Project: 01 Learn Typescript 🛫 2023-12-06 15:40
 ## 🎯 **Goals**
 [💡^]: Remember to set [[S.M.A.R.T]] goals
 [💡^]: Use the [[5 Whys Technique - Root Cause Analysis]]

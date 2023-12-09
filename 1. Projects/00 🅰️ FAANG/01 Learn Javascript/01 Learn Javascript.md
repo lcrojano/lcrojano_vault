@@ -8,7 +8,8 @@ Date Started: 2023-12-03 15:41
 > 🌟 **Embrace the Challenge:** 
 > This project is your opportunity to transform aspirations into reality. Embark on a journey of growth and discovery, where your skills and determination converge to achieve meaningful goals.
 
-- [ ] Project: 01 Learn Javascript 🛫 2023-12-03 15:41 📅 2023-12-10
+- [ ] Project: 01 Learn Javascript 📅 2023-12-12
+
 ## 🎯 **Goals**
 [💡^]: Remember to set [[S.M.A.R.T]] goals
 [💡^]: Use the [[5 Whys Technique - Root Cause Analysis]]
@@ -28,6 +29,8 @@ This online course is a self-paced learning experience. Because you are taking s
 	- [ ]  [[Coursera Syllabus - Programming with JavaScript#^cdc63a| Module 3]]
 	- [ ]  [[Coursera Syllabus - Programming with JavaScript#^31b6e4| Module 4]]
 	- [ ]  [[Coursera Syllabus - Programming with JavaScript#^d1e9c8| Module 5]]
+	- [ ] One Class of JavaScript coursera 🛫 2023-12-05, 🔺 🔁 every day ⏳ 2023-12-06
+	- [x] One Class of JavaScript coursera 🛫 2023-12-05, 🔺 🔁 every day ⏳ 2023-12-05 ✅ 2023-12-05
 - [ ] Platzi Javascript Course
 - [ ] Solo Learn Course
 - [ ] FreeCodeCamp

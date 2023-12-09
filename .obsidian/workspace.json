@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/00 🅰️ FAANG/01 Learn Javascript/Coursera Syllabus - Programming with JavaScript.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7938f698c61b0d42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Projects/00 🅰️ FAANG/01 Learn Javascript/01 Learn Javascript.md",
+                "file": "0. Daybook/2023/Daily/12/2023-12-08.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/00 🅰️ FAANG/00 Learn Angular/00 Learn Angular.md",
+                "file": "3. Resources/Templates/Area Template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,15 +39,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/00 🅰️ FAANG/00 Learn Angular/2. What is a Component.md",
+                "file": "3. Resources/Templates/Project Template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/00 🅰️ FAANG/00 Learn Angular/2. What is a Component.md",
+                "file": "0. Daybook/2023/Daily/12/2023-12-08.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/00 🅰️ FAANG/00 Learn Angular/2. What is a Component.md",
+                "file": "0. Daybook/2023/Daily/12/2023-12-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +185,7 @@
             }
           },
           {
-            "id": "69f1414dd62f9887",
+            "id": "e51e2344df9b584f",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -220,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/00 🅰️ FAANG/00 Learn Angular/2. What is a Component.md"
+                "file": "0. Daybook/2023/Daily/12/2023-12-08.md"
               }
             }
           }
@@ -246,45 +232,45 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "b27122a74cff7ce9",
+  "active": "9e03a23128d5d205",
   "lastOpenFiles": [
+    "_Inbox/Read Later/5 Angular best practices for robust development.md",
+    "0. Daybook/2023/Daily/12/2023-12-08.md",
+    "1. Projects/00 💰 Sell Old Products/00 💰 Sell Old Products.md",
+    "0. Daybook/2023/Daily/12/2023-12-06.md",
+    "_Inbox/Read Later/The Universe Will Now Explode For Your Pleasure.md",
+    "_Inbox/Read Later/Project People vs. Area People Are You Running a Sprint Or a Marathon - Forte Labs.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/Coursera Syllabus - Programming with JavaScript.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/01 Learn Javascript.md",
+    "3. Resources/Templates/Area Template.md",
+    "3. Resources/Templates/Project Template.md",
     "1. Projects/00 🅰️ FAANG/00 Learn Angular/00 Learn Angular.md",
-    "1. Projects/00 🅰️ FAANG/00 Learn Angular/2. What is a Component.md",
+    "_Inbox/Read Later/Artisans Taste In Software.md",
+    "2. Areas/05 🏘️ Family/🚀 05 🏘️ Family.md",
+    "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34abc7d5-28ab-4105-8444-4d46a29c5baf_1728x1163.png",
     "0. Daybook/2023/Daily/12/2023-12-05.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/01 Javascript Data Types.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/Boolean.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/String.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/Number.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Typescript/01 Learn Typescript.md",
+    "1. Projects/00 🅰️ FAANG/02 Interview Prep/FAANG Interview Preparation Plan.md",
+    "1. Projects/00 🅰️ FAANG/00 Learn Angular/2. What is a Component.md",
     "Untitled.md",
     "README.md",
     "0. Daybook/2023/Daily/12/2023-12-03.md",
     "0. Daybook/2023/Daily/12/2023-12-04.md",
     "_Inbox/Read Later/How Google writes clean, maintainable code.md",
-    "_Inbox/Read Later/How Instagram scaled to 14 million users with only 3 engineers.md",
-    "_Inbox/Read Later/7 simple habits of the top 1% of engineers.md",
     "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd644ba96-4f13-4fe2-8e9f-e01cdec85171_1005x395.png",
     "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96c6476f-b900-4591-a672-295048bda0a4_1466x597.png",
     "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb586cf1d-c74f-4166-abe3-c143c54c4151_682x678.png",
     "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa279781f-8c76-4e67-8a63-6b9930d1a48c_1984x937.png",
     "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1f72ce0-1963-4176-a493-517a1788a277_374x395.png",
     "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2e2b88d-751d-4c2c-b87e-95cd90aef20e_642x395.png",
-    "_Inbox/Read Later/How psychology design products that win customers.md",
     "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb830d9c-0072-45e2-a0db-356bfefd4cba_1850x650.png",
     "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64e58201-aee1-43cf-bf38-44ecd98dbe5f_1003x850.png",
     "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9afa94c-7524-417f-9e7d-e746c606bdc3_1142x476.png",
-    "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc326faa-fe17-46b3-9a02-a8b36ebf31ff_1150x750.png",
-    "_Inbox/Read Later/10 Best Practices in Front-end Development (React) - Renan Olovics - Medium.md",
-    "_Inbox/Read Later/How Google takes the pain out of code reviews, with 97% dev satisfaction.md",
-    "1. Projects/00 🅰️ FAANG/02 Interview Prep/🚀 02 Interview Prep.md",
-    "1. Projects/00 🅰️ FAANG/02 Interview Prep/Week 1-2/🚀 Week 1-2.md",
-    "1. Projects/00 🅰️ FAANG/02 Interview Prep/Week 1-2/target companies within FAANG.md",
-    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/01 Javascript Data Types.md",
-    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/01 Learn Javascript.md",
-    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/Coursera Syllabus - Programming with JavaScript.md",
-    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/Recommended Extensions.md",
-    "1. Projects/00 🅰️ FAANG/00 Learn Angular/1. Create a Project in Agular.md",
-    "0. Daybook/2023/Daily/12/2023-12-01.md",
-    "Untitled 1.md",
-    "2. Areas/05 🏘️ Family/🚀 05 🏘️ Family.md",
-    "1. Projects/00 🅰️ FAANG/00 Learn Angular/Angular CLI/ng new command.md",
     "1. Projects/00 🅰️ FAANG/00 Learn Angular/Angular CLI",
-    "1. Projects/00 🅰️ FAANG/00 Learn Angular/Angular CLI/ng serve command.md",
     "1. Projects/00 🅰️ FAANG/01 Learn Javascript",
     "1. Projects/00 🅰️ FAANG/01 Learn Typescript",
     "1. Projects/00 🅰️ FAANG/00 Learn Angular",

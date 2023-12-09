@@ -17,9 +17,10 @@ Date Started: <% tp.file.creation_date() %>
 
 - [ ] Project: <% title %> 🛫 <% tp.file.creation_date() %>
 ## 🎯 **Goals**
-[💡^]: Remember to set [[S.M.A.R.T]] goals
+[💡^]: Remember to set [[S.M.A.R.T]] 
 [💡^]: Use the [[5 Whys Technique - Root Cause Analysis]]
-
+[💡^]: goals excitement, achievement, and recognition
+### 🏁 Outcomes
 
 ## ✅ **Tasks**
 

@@ -18,7 +18,14 @@ Date Started: 2023-12-01 10:20
 
 - [ ] Review Excel created by marie anne
 - [ ] define prices for each item
+	- [x] Price for ps4 slim ✅ 2023-12-06
+		- [x] Mercadolibre ✅ 2023-12-06
+		- [ ] Marketplace
+	- [ ] Price for Bed
+	- [ ] Price For baby bed
 - [ ] list of posible website to sell items
+	- mercadolibre
+	- marketplace
 
 
 ---
