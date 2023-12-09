@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Daybook/2023/Daily/12/2023-12-08.md",
+                "file": "0. Daybook/2023/Daily/12/2023-12-09.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#projects/00-Learn-Angular",
+                "query": "took from",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "8488bc17781ccd8e",
@@ -153,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Daybook/2023/Daily/12/2023-12-08.md",
+                "file": "0. Daybook/2023/Daily/12/2023-12-09.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Daybook/2023/Daily/12/2023-12-08.md",
+                "file": "0. Daybook/2023/Daily/12/2023-12-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +186,7 @@
             }
           },
           {
-            "id": "e51e2344df9b584f",
+            "id": "7270dc7a12d47983",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -206,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Daybook/2023/Daily/12/2023-12-08.md"
+                "file": "0. Daybook/2023/Daily/12/2023-12-09.md"
               }
             }
           }
@@ -234,8 +235,12 @@
   },
   "active": "9e03a23128d5d205",
   "lastOpenFiles": [
-    "_Inbox/Read Later/5 Angular best practices for robust development.md",
+    "0. Daybook/2023/Daily/11/2023-11-30.md",
+    "0. Daybook/2023/Daily/12/2023-12-09.md",
+    "0. Daybook/2023/Daily/12/2023-12-04.md",
+    "_Inbox/Read Later/Note 2023-12-09 00-54-43.md",
     "0. Daybook/2023/Daily/12/2023-12-08.md",
+    "_Inbox/Read Later/5 Angular best practices for robust development.md",
     "1. Projects/00 💰 Sell Old Products/00 💰 Sell Old Products.md",
     "0. Daybook/2023/Daily/12/2023-12-06.md",
     "_Inbox/Read Later/The Universe Will Now Explode For Your Pleasure.md",
@@ -257,10 +262,6 @@
     "1. Projects/00 🅰️ FAANG/02 Interview Prep/FAANG Interview Preparation Plan.md",
     "1. Projects/00 🅰️ FAANG/00 Learn Angular/2. What is a Component.md",
     "Untitled.md",
-    "README.md",
-    "0. Daybook/2023/Daily/12/2023-12-03.md",
-    "0. Daybook/2023/Daily/12/2023-12-04.md",
-    "_Inbox/Read Later/How Google writes clean, maintainable code.md",
     "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd644ba96-4f13-4fe2-8e9f-e01cdec85171_1005x395.png",
     "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96c6476f-b900-4591-a672-295048bda0a4_1466x597.png",
     "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb586cf1d-c74f-4166-abe3-c143c54c4151_682x678.png",
