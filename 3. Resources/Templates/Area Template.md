@@ -7,7 +7,7 @@ await tp.file.rename(title);
 tR += "---" 
 %>
 Type: Project
-tags: [projects/<% await title.replace(/ /g, "-") %>]
+tags: [areas/<% await title.replace(/ /g, "-") %>]
 Status: 🟡 New
 Short Description:
 Date Started: <% tp.file.creation_date() %>

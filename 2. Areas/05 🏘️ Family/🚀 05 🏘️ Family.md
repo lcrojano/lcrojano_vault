@@ -17,8 +17,9 @@ Date Started: 2023-11-29 16:22
 - [ ] 🏘️  #bills/📱nidia [price:: $23,000] 🔁 every month ⏳ 2023-12-20 📅 2024-03-20  🔺 
 - [x] #bills/📱nidia 🔼 🔁 every month ⏳ 2023-11-25 📅 2024-02-25 ✅ 2023-11-29
 
-### 💦 Wat
-- [ ]  💦 #bills/💦Water [price:: $243,863] 🔁 every month 🛫 2023-12-04 📅 2023-12-09 🔺 
+### 💦 Water
+- [ ] 💦 #bills/💦Water [price:: $243,863] 🔺 🔁 every month 🛫 2024-01-04 📅 2024-01-09
+- [x] 💦 #bills/💦Water [price:: $243,863] 🔺 🔁 every month 🛫 2023-12-04 📅 2023-12-09 ✅ 2023-12-09
 - [x] #bills/💦Water $63,971 ⏫ 🔁 every month 🛫 2023-11-04 ✅ 2023-11-30
 - [x] #bills/💦Water $63,971 🔁 every month 🛫 2023-10-04 ✅ 2023-11-30
 ### 💡Electricity
@@ -28,7 +29,8 @@ Date Started: 2023-11-29 16:22
 - [ ] 🍳  #bills/🍳Gas [price:: $63,971] ⏫ 🔁 every month 🛫 2023-12-18 📅 2024-01-04 🔺 
 - [x] #bills/🍳Gas $63,971 ⏫ 🔁 every month 🛫 2023-11-17 📅 2023-12-04 ✅ 2023-12-01
 ### 🌐 Internet 1
-- [ ]  🌐  #bills/🌐Internet1 [price:: $108,944] ⏫ 🔁 every month 🛫 2023-12-04 📅 2023-12-09 ⏫ 
+- [ ] 🌐  #bills/🌐Internet1 [price:: $108,944] ⏫ 🔁 every month 🛫 2024-01-04 📅 2024-01-09
+- [x] 🌐  #bills/🌐Internet1 [price:: $108,944] ⏫ 🔁 every month 🛫 2023-12-04 📅 2023-12-09 ✅ 2023-12-09
 - [x] #bills/🌐Internet1 $108,944 ⏫ 🔁 every month 🛫 2023-11-02 📅 2023-11-09 ✅ 2023-12-01
 ### 🌏 Internet 2
 - [ ] 🌏  #bills/🌏Internet2 [price:: $86,242] ⏫ 🔁 every month 🛫 2023-12-21 📅 2023-12-26 ⏫
@@ -50,7 +52,7 @@ Date Started: 2023-11-29 16:22
 LIST item.text
 FROM "0. Daybook"
 FLATTEN file.lists as item
-WHERE contains(item.tags, this.file.tags[0])
+WHERE contains(item.tags, this.file.frontmatter.tags[0])
 
 ```
 

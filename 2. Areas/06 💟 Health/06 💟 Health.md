@@ -1,35 +1,35 @@
 ---
 Type: Project
-tags: [projects/00-💰-Sell-Old-Products]
+tags: [areas/06-💟-Health]
 Status: 🟡 New
 Short Description:
-Date Started: 2023-12-01 10:20
+Date Started: 2023-12-09 22:54
 ---
 > 🌟 **Embrace the Challenge:** 
 > This project is your opportunity to transform aspirations into reality. Embark on a journey of growth and discovery, where your skills and determination converge to achieve meaningful goals.
 
-- [ ] Project: 00 💰 Sell Old Products 🛫 2023-12-01 10:20 📅 2023-12-31
-## 🎯 **Goals**
-[💡^]: Remember to set [[S.M.A.R.T]] goals
-[💡^]: Use the [[5 Whys Technique - Root Cause Analysis]]
 
-- To Sell item that I no longer use so people could benefit from them at a lower price.
+## 🎯 **Standards of Performance**
+[💡^]: standard of performance (or a “quality bar”) for the product you are responsible for. 
+[💡^]: Balance, peace, and meaning. 
+
 ## ✅ **Tasks**
 
-- [ ] Review Excel created by marie anne
-- [ ] define prices for each item
-	- [x] Price for ps4 slim ✅ 2023-12-06
-		- [x] Mercadolibre ✅ 2023-12-06
-		- [ ] Marketplace  📅 2023-12-10 ⏫ 
-	- [ ] Price for Bed
-	- [ ] Price For baby bed
-- [ ] list of posible website to sell items
-	- mercadolibre
-	- marketplace
-- [ ] finish [docs.google.com/spreadsheets/d/1GxaP155dADXKbDVmAjyudKv7t8xph0E3/edit#gid=1550613623](https://docs.google.com/spreadsheets/d/1GxaP155dADXKbDVmAjyudKv7t8xph0E3/edit#gid=1550613623)
-- [ ] 
+- [ ] **Actionable task 1:** 
+- [ ] **Actionable task 2:** 
+
 
 ---
+
+## 🤝 Related Projects
+[💭^]: Explore connections and synergies between this project and other ongoing ventures. Identify opportunities for collaboration and knowledge sharing.
+``` dataview
+LIST 
+FROM "1. Projects"
+or "2. Areas"
+WHERE contains(file.tags, this.file.frontmatter.tags[0]) and file.name != this.file.name
+```
+
 ## 📖 Journal Insights
 [💭^]: Reflect on your progress, challenges, and inspirations throughout the project. Use this space to capture your thoughts, ideas, and emotions.
 
@@ -50,15 +50,6 @@ and  contains(file.folder, this.file.folder)
 ```
 
 
-## 🤝 Related Projects
-[💭^]: Explore connections and synergies between this project and other ongoing ventures. Identify opportunities for collaboration and knowledge sharing.
-``` dataview
-LIST 
-FROM "1. Projects"
-AND "2. Areas"
-WHERE contains(file.tags,this.file.tags[0]) and file.name != this.file.name
-```
-
 ## 📚 Resources
 [💭^]: Compile a list of helpful tools, articles, tutorials, and external resources that can support your project's success.
 ``` dataview
@@ -77,5 +68,5 @@ WHERE contains(file.tags,this.file.tags[0])
 
 **Embrace the excitement and embark on your journey of accomplishment!**
 
-> [!quote] When something is important enough, you do it even if the odds are not in your favor.
-> — Elon Musk
+> [!quote] We are stuck with technology when what we really want is just stuff that works.
+> — Douglas Adams

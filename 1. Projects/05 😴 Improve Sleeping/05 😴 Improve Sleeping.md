@@ -1,33 +1,34 @@
 ---
-Type: Project
-tags: [projects/00-💰-Sell-Old-Products]
+Type:
+  - Project
+tags:
+  - projects/05-😴-Improve-Sleeping
+  - areas/06-💟-Health
 Status: 🟡 New
-Short Description:
-Date Started: 2023-12-01 10:20
+Short Description: 
+Date Started: 2023-12-09 22:56
+Area: []
 ---
 > 🌟 **Embrace the Challenge:** 
 > This project is your opportunity to transform aspirations into reality. Embark on a journey of growth and discovery, where your skills and determination converge to achieve meaningful goals.
 
-- [ ] Project: 00 💰 Sell Old Products 🛫 2023-12-01 10:20 📅 2023-12-31
+- [ ] Project: 05 😴 Improve Sleeping 🛫 2023-12-09 22:56 📅 2023-12-31
+#areas/06-💟-Health
 ## 🎯 **Goals**
-[💡^]: Remember to set [[S.M.A.R.T]] goals
+[💡^]: Remember to set [[S.M.A.R.T]] 
 [💡^]: Use the [[5 Whys Technique - Root Cause Analysis]]
+[💡^]: goals excitement, achievement, and recognition
+### 🏁 Outcomes
+- 7 h Sleep time average
+- Max go to bed time 23:00 
+- Max wake up time 6:00
 
-- To Sell item that I no longer use so people could benefit from them at a lower price.
 ## ✅ **Tasks**
 
-- [ ] Review Excel created by marie anne
-- [ ] define prices for each item
-	- [x] Price for ps4 slim ✅ 2023-12-06
-		- [x] Mercadolibre ✅ 2023-12-06
-		- [ ] Marketplace  📅 2023-12-10 ⏫ 
-	- [ ] Price for Bed
-	- [ ] Price For baby bed
-- [ ] list of posible website to sell items
-	- mercadolibre
-	- marketplace
-- [ ] finish [docs.google.com/spreadsheets/d/1GxaP155dADXKbDVmAjyudKv7t8xph0E3/edit#gid=1550613623](https://docs.google.com/spreadsheets/d/1GxaP155dADXKbDVmAjyudKv7t8xph0E3/edit#gid=1550613623)
-- [ ] 
+- Wake Up at
+
+- Sleep at
+
 
 ---
 ## 📖 Journal Insights
@@ -77,5 +78,5 @@ WHERE contains(file.tags,this.file.tags[0])
 
 **Embrace the excitement and embark on your journey of accomplishment!**
 
-> [!quote] When something is important enough, you do it even if the odds are not in your favor.
-> — Elon Musk
+> [!quote] To be wrong is nothing unless you continue to remember it.
+> — Confucius

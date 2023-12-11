@@ -43,6 +43,9 @@
 ### 🎮 Others
 - [ ] [Microsoft Rewards:: ]: Earn 500 points
 
+### 05 😴 Improve Sleeping
+- [ ] [Sleep at :: 23:00]  
+- [ ] [Wake up at:: 6:00 ]  
 ## **📝 Reflect and Plan**
 
 ### End-of-Day Reflection
