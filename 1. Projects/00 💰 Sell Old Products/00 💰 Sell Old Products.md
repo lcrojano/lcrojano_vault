@@ -16,18 +16,18 @@ Date Started: 2023-12-01 10:20
 - To Sell item that I no longer use so people could benefit from them at a lower price.
 ## ✅ **Tasks**
 
-- [ ] Review Excel created by marie anne
+- [x] Review Excel created by marie anne ✅ 2023-12-12
 - [ ] define prices for each item
 	- [x] Price for ps4 slim ✅ 2023-12-06
 		- [x] Mercadolibre ✅ 2023-12-06
-		- [ ] Marketplace  📅 2023-12-10 ⏫ 
+		- [x] Marketplace ⏫ 📅 2023-12-10 ✅ 2023-12-12
 	- [ ] Price for Bed
 	- [ ] Price For baby bed
 - [ ] list of posible website to sell items
 	- mercadolibre
 	- marketplace
 - [ ] finish [docs.google.com/spreadsheets/d/1GxaP155dADXKbDVmAjyudKv7t8xph0E3/edit#gid=1550613623](https://docs.google.com/spreadsheets/d/1GxaP155dADXKbDVmAjyudKv7t8xph0E3/edit#gid=1550613623)
-- [ ] 
+
 
 ---
 ## 📖 Journal Insights

@@ -21,8 +21,6 @@ Date Started: 2023-11-18 13:13
 
 ## ✅ **Tasks**
 
-- [ ] **Actionable task 1:** 
-- [ ] **Actionable task 2:** 
 
 
 ---

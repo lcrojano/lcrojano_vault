@@ -1,6 +1,8 @@
 {
   "filterEmpty": true,
-  "excludePaths": [],
+  "excludePaths": [
+    "0. Daybook"
+  ],
   "includePaths": [],
   "useIncludeTags": false,
   "taskIncludeTags": [],

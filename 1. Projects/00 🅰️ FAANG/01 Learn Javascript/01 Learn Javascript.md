@@ -8,7 +8,7 @@ Date Started: 2023-12-03 15:41
 > 🌟 **Embrace the Challenge:** 
 > This project is your opportunity to transform aspirations into reality. Embark on a journey of growth and discovery, where your skills and determination converge to achieve meaningful goals.
 
-- [ ] Project: 01 Learn Javascript 📅 2023-12-12
+- [ ] Project: 01 Learn Javascript 🛫 2023-12-01 📅 2023-12-24
 
 ## 🎯 **Goals**
 [💡^]: Remember to set [[S.M.A.R.T]] goals
@@ -23,13 +23,14 @@ This online course is a self-paced learning experience. Because you are taking s
 
 ## ✅ **Tasks**
 
-- [ ] Finish all modules of [[Coursera Syllabus - Programming with JavaScript]] 
-	- [ ] [[Coursera Syllabus - Programming with JavaScript#^10c58b| Module 1]]
-	- [ ]  [[Coursera Syllabus - Programming with JavaScript#^1e32c2| Module 2]]
-	- [ ]  [[Coursera Syllabus - Programming with JavaScript#^cdc63a| Module 3]]
-	- [ ]  [[Coursera Syllabus - Programming with JavaScript#^31b6e4| Module 4]]
-	- [ ]  [[Coursera Syllabus - Programming with JavaScript#^d1e9c8| Module 5]]
-	- [ ] One Class of JavaScript coursera 🔺 🔁 every day ⏳ 2023-12-10
+- [ ] Finish all modules of [[00 Coursera Syllabus - Programming with JavaScript]] 
+	- [ ] [[00 Coursera Syllabus - Programming with JavaScript#^10c58b| Module 1]]
+	- [ ]  [[00 Coursera Syllabus - Programming with JavaScript#^1e32c2| Module 2]]
+	- [ ]  [[00 Coursera Syllabus - Programming with JavaScript#^cdc63a| Module 3]]
+	- [ ]  [[00 Coursera Syllabus - Programming with JavaScript#^31b6e4| Module 4]]
+	- [ ]  [[00 Coursera Syllabus - Programming with JavaScript#^d1e9c8| Module 5]]
+	- [ ] One Class of JavaScript coursera 🔺 🔁 every day ⏳ 2023-12-12
+	- [x] One Class of JavaScript coursera 🔺 🔁 every day ⏳ 2023-12-11 ✅ 2023-12-11
 	- [x] One Class of JavaScript coursera 🛫 2023-12-05, 🔺 🔁 every day ⏳ 2023-12-05 ✅ 2023-12-05
 - [ ] Platzi Javascript Course
 - [ ] Solo Learn Course

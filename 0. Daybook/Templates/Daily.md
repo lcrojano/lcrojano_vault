@@ -4,9 +4,8 @@
 
 ##  **🗓️ Daily Agenda** 
 ### Top Priority
-- [-] Complete [Specific Project Task] by [Deadline] ([Link to Project]) #projects #areas
+
 ### Other Tasks 
-- 
 
 ## 💡Daily Review
 ### Journal
@@ -16,7 +15,7 @@
 ## **✨ Power Habits! 💪**
 
 ### 🏆 Practice
-- [x] [Fast Typing:: 40]: Practice for 30 minutes [Learn Touch Typing Free - TypingClub](https://www.typingclub.com/) ✅ 2023-11-18
+- [ ] [Fast Typing:: 40]: Practice for 30 minutes [Learn Touch Typing Free - TypingClub](https://www.typingclub.com/)
 - [ ] [Reading:: ]: Read at least 40 pages 
 - [ ] [Talk:: ]: Practice to improve accent
 - [ ] [IELTS:: ]: Prepare for IELTS to achieve a higher level.

@@ -15,12 +15,12 @@ Date Started: 2023-11-29 16:12
 [💡^]: Use the [[5 Whys Technique - Root Cause Analysis]]
 
 1. **Understand the Role:**
-   - Research the specific requirements for the role you're targeting within FAANG.
-   - Identify key technical and behavioral competencies.
+   - [ ] Research the specific requirements for the role you're targeting within FAANG.
+   - [ ] Identify key technical and behavioral competencies.
 
 2. **Assess Current Skills:**
-   - Take a baseline coding assessment on platforms like LeetCode.
-   - Evaluate your knowledge of relevant technologies (e.g., Angular).
+   - [ ] Take a baseline coding assessment on platforms like LeetCode.
+   - [ ] Evaluate your knowledge of relevant technologies (e.g., Angular).
 
 ## ✅ **Tasks**
 

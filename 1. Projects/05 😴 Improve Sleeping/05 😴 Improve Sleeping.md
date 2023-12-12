@@ -26,9 +26,22 @@ Area: []
 ## ✅ **Tasks**
 
 - Wake Up at
+``` dataview
+TABLE item.text
+FROM "0. Daybook"
+FLATTEN file.lists as item
+WHERE item["Wake up at"] 
+SORT file DESC
+```
 
 - Sleep at
-
+``` dataview
+TABLE item.text
+FROM "0. Daybook"
+FLATTEN file.lists as item
+WHERE item["Sleep at"] 
+SORT file DESC
+```
 
 ---
 ## 📖 Journal Insights

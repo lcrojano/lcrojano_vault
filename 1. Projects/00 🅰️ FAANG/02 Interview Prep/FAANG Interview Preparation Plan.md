@@ -8,11 +8,11 @@ Three months
 
 ## Week 1-2: Self-Assessment and Goal 
 
-- [/] 1️⃣ [[🚀 Week 1-2]] of [[FAANG Interview Preparation Plan]] 🔺 🔁 every day 🛫 2023-12-11⏳ 2023-12-16
+- [ ] 1️⃣ [[🚀 Week 1-2]] of [[FAANG Interview Preparation Plan]] 🔺 🔁 every day 🛫 2023-12-11 📅 2023-12-16
 
 
 ## Week 3-4: Technical Skill Enhancement
-- [ ] 2️⃣ Week 3-4 [[FAANG Interview Preparation Plan]] 🔺 🔁 every day 🛫 2023-12-16 ⏳ 2023-12-31
+- [ ] 2️⃣  Week 3-4 [[FAANG Interview Preparation Plan]] 🔺 🔁 every day 🛫 2023-12-16 📅 2023-12-31 
 ### Goals
 1. **Technical Learning:**
    - Enroll in online courses for Angular and relevant technologies.
@@ -35,7 +35,7 @@ Three months
 - Improvement in coding challenge success rates.
 
 ## Week 5-6: System Design Mastery
-- [ ] 3️⃣ Week 5-6 [[FAANG Interview Preparation Plan]] 🔺 🔁 every day 🛫 2023-12-31 ⏳ 2024-01-14
+- [ ] 3️⃣ Week 5-6 [[FAANG Interview Preparation Plan]] 🔺 🔁 every day 🛫 2023-12-31 📅  2024-01-14
 
 ### Goals
 1. **System Design Concepts:**
@@ -58,7 +58,7 @@ Three months
 - Completion of the personal project.
 
 ## Week 7-8: Mock Interviews and Feedback
-- [ ] 4️⃣  Week 7-8 [[FAANG Interview Preparation Plan]] 🔺 🔁 every day 🛫 2024-01-14⏳ 2024-01-28
+- [ ] 4️⃣  Week 7-8 [[FAANG Interview Preparation Plan]] 🔺 🔁 every day 🛫 2024-01-14 📅  2024-01-28
 ### Goals
 1. **Mock Interviews:**
    - Schedule regular mock interviews.
@@ -81,7 +81,7 @@ Three months
 - Improvement in performance based on feedback.
 
 ## Week 9-10: Networking and Soft Skills
-- [ ] 5️⃣  Week 9-10 [[FAANG Interview Preparation Plan]] 🔺 🔁 every day 🛫 2024-01-28 ⏳ 2024-02-12
+- [ ] 5️⃣  Week 9-10 [[FAANG Interview Preparation Plan]] 🔺 🔁 every day 🛫 2024-01-28 📅  2024-02-12
 ### Goals
 1. **Networking:**
    - Attend industry events or virtual meetups.
