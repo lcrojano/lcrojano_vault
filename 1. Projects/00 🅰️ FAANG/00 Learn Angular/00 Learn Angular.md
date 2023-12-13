@@ -18,11 +18,13 @@ Date Started: 2023-12-03 15:28
 ## ✅ **Tasks**
 
 - [ ] Finish Solo Solo Learn Angular 📅 2023-12-14
-	- [ ] Do one or more Angular modules by day 🔁 every day 🛫 2023-12-12
+	- [ ] Do one or more Angular modules by day 🔁 every day 🛫 2023-12-13
+	- [x] Do one or more Angular modules by day 🔁 every day 🛫 2023-12-12 ✅ 2023-12-12
 	- [x] Do one or more Angular modules by day 🔁 every day 🛫 2023-12-11 ✅ 2023-12-11
 	- [x] Do one or more modules by day 🔁 every day 🛫 2023-12-05 ✅ 2023-12-05
 	- [x] Do one or more modules by day 🔁 every day 🛫 2023-12-04 ✅ 2023-12-05
 
+[angular-quiz.md](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/angular/angular-quiz.md)
 
 ---
 ## 📖 Journal Insights

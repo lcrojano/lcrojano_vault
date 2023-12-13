@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "30fda98b6aacfdd1",
+            "id": "0448db2fb28e4e45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/02 🧠 Building a second brain/🚀 Building a Second Brain - README.md",
+                "file": "3. Resources/QSI/01 White Hat.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +47,116 @@
             }
           },
           {
-            "id": "0448db2fb28e4e45",
+            "id": "3cd57bf42fb1887c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/02 🧠 Building a second brain/1. Second Brain & PKM  Workflow.md",
+                "file": "3. Resources/QSI/03 🏦Proofs White Hats Control IMF, UN, WEF, WB.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d5d8c8f9c12efdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/00 🅰️ FAANG/00 Learn Angular/2.2 How to create components.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a83e77f17ee4f20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/00 🅰️ FAANG/00 Learn Angular/3.1 interpolation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "433f00d3628d9523",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/00 🅰️ FAANG/00 Learn Angular/4. Binding.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "879f9a9914a51805",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/00 🅰️ FAANG/00 Learn Angular/4.1 Binding HTML attributes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f150488d47612d45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/00 🅰️ FAANG/00 Learn Angular/4. Binding.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9b3b2f614477764",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/00 🅰️ FAANG/01 Learn Javascript/01 Learn Javascript.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4c716bc79aea2f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/00 🅰️ FAANG/01 Learn Javascript/1. Javascript Data Types.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6a5afd4b65c2b6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/00 🅰️ FAANG/01 Learn Javascript/2. Conditionals and loops.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -126,7 +230,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.51103591918945
+    "width": 295.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "2d1ab4ea006b17c6",
@@ -154,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/02 🧠 Building a second brain/1. Second Brain & PKM  Workflow.md",
+                "file": "1. Projects/00 🅰️ FAANG/01 Learn Javascript/2. Conditionals and loops.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/02 🧠 Building a second brain/1. Second Brain & PKM  Workflow.md",
+                "file": "1. Projects/00 🅰️ FAANG/01 Learn Javascript/2. Conditionals and loops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +312,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/02 🧠 Building a second brain/1. Second Brain & PKM  Workflow.md"
+                "file": "1. Projects/00 🅰️ FAANG/01 Learn Javascript/2. Conditionals and loops.md"
               }
             }
           }
@@ -215,7 +320,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446.5
+    "width": 446.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,34 +339,34 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "0448db2fb28e4e45",
+  "active": "c6a5afd4b65c2b6d",
   "lastOpenFiles": [
-    "1. Projects/02 🧠 Building a second brain/🚀 Building a Second Brain - README.md",
-    "1. Projects/02 🧠 Building a second brain/1. Second Brain & PKM  Workflow.md",
-    "3. Resources/Templates/Area Template.md",
-    "2. Areas/03 🏫 Student/Angular.md",
-    "2. Areas/01 🌍 Webmaster/1500 En Venta Directa/Venta direct website.md",
-    "2. Areas/01 🌍 Webmaster/1400 Robottel e-commerce/🗒️ Robottel Kanban.md",
-    "1. Projects/02 🧠 Building a second brain/Build a PARA - GTD framework.md",
-    "1. Projects/00 🅰️ FAANG/3000 Hacktoberfest/150 Alice in Wonderland/TODO lead.md",
-    "1. Projects/00 🅰️ FAANG/3000 Hacktoberfest/150 Alice in Wonderland/TODO all.md",
-    "1. Projects/00 🅰️ FAANG/3000 Hacktoberfest/150 Alice in Wonderland/Game Logic/Gameplay mechanics.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/1. Javascript Data Types.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/2. Conditionals and loops.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/Additional resources.md",
     "1. Projects/00 🅰️ FAANG/01 Learn Javascript/01 Learn Javascript.md",
-    "1. Projects/00 🅰️ FAANG/01 CSS Animation Practice/🚀 01 CSS Animation Practice.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/00 Coursera Syllabus - Programming with JavaScript.md",
     "1. Projects/00 🅰️ FAANG/00 Learn Angular/00 Learn Angular.md",
-    "0. Daybook/2023/Daily/11/2023-11-24.md",
-    "4. Archive/Some Day/Janeth Course/00 Diplomado Virtual - README.md",
-    "0. Daybook/2023/Daily/12/2023-12-01.md",
-    "_Inbox/_Task.md",
+    "1. Projects/00 🅰️ FAANG/00 Learn Angular/4. Binding.md",
+    "1. Projects/00 🅰️ FAANG/00 Learn Angular/4.2 Binding DOM properties.md",
+    "1. Projects/00 🅰️ FAANG/00 Learn Angular/4.1 Binding HTML attributes.md",
+    "1. Projects/00 🅰️ FAANG/00 Learn Angular/4.3 Binding Classes.md",
+    "1. Projects/00 🅰️ FAANG/00 Learn Angular/3.1 interpolation.md",
+    "1. Projects/00 🅰️ FAANG/00 Learn Angular/3. Templates.md",
+    "1. Projects/00 🅰️ FAANG/00 Learn Angular/2.2 How to create components.md",
+    "1. Projects/00 🅰️ FAANG/00 Learn Angular/2. Components.md",
+    "1. Projects/00 🅰️ FAANG/00 Learn Angular/2.1 When to use Angular Components.md",
+    "1. Projects/00 🅰️ FAANG/00 Learn Angular/1. Create a Project in Agular.md",
+    "1. Projects/00 🅰️ FAANG/02 Interview Prep/FAANG Interview Preparation Plan.md",
     "1. Projects/00 💰 Sell Old Products/00 💰 Sell Old Products.md",
     "1. Projects/00 🅰️ FAANG/02 Interview Prep/Week 1-2/🚀 Week 1-2.md",
-    "1. Projects/00 🅰️ FAANG/02 Interview Prep/Week 1-2/target companies within FAANG.md",
-    "1. Projects/00 🅰️ FAANG/02 Interview Prep/FAANG Interview Preparation Plan.md",
     "1. Projects/00 🅰️ FAANG/01 Learn Typescript/01 Learn Typescript.md",
     "1. Projects/05 😴 Improve Sleeping/05 😴 Improve Sleeping.md",
-    "3. Resources/Templates/Project Template.md",
     "0. Daybook/2023/Daily/12/2023-12-12.md",
-    "0. Daybook/2023/Daily/12/2023-12-11.md",
+    "3. Resources/QSI/Untitled.md",
+    "3. Resources/QSI/03 🏦Proofs White Hats Control IMF, UN, WEF, WB.md",
+    "3. Resources/QSI/00 Welcome to Part 1.md",
+    "3. Resources/QSI/🚀 QSI.md",
     "3. Resources/Components",
     "1. Projects/06 🍁 Giov/pptc445-eng.pdf",
     "1. Projects/06 🍁 Giov/pptc116-eng.pdf",

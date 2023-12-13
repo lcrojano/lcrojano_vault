@@ -22,8 +22,9 @@ Date Started: 2023-12-01 10:20
 		- [x] Mercadolibre ✅ 2023-12-06
 		- [x] Marketplace ⏫ 📅 2023-12-10 ✅ 2023-12-12
 	- [ ] Price for Bed
-	- [ ] Price For baby bed
-- [ ] list of posible website to sell items
+	- [ ] Price For baby bed 📅 2023-12-13 
+		- [ ] Update sizing, photos and pricing
+- [x] list of posible website to sell items ✅ 2023-12-12
 	- mercadolibre
 	- marketplace
 - [ ] finish [docs.google.com/spreadsheets/d/1GxaP155dADXKbDVmAjyudKv7t8xph0E3/edit#gid=1550613623](https://docs.google.com/spreadsheets/d/1GxaP155dADXKbDVmAjyudKv7t8xph0E3/edit#gid=1550613623)
