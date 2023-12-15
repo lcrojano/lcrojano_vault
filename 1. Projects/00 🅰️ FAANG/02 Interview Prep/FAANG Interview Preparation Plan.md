@@ -8,11 +8,11 @@ Three months
 
 ## Week 1-2: Self-Assessment and Goal 
 
-- [ ] 1️⃣ [[🚀 Week 1-2]] of [[FAANG Interview Preparation Plan]] 🔺 🔁 every day 🛫 2023-12-12 📅 2023-12-16
+- [ ] 1️⃣ [[🚀 Week 1-2]] of [[FAANG Interview Preparation Plan]] 🔺 🔁 every day 🛫 2023-12-18 📅 2023-12-24
 
 
 ## Week 3-4: Technical Skill Enhancement
-- [ ] 2️⃣  Week 3-4 [[FAANG Interview Preparation Plan]] 🔺 🔁 every day 🛫 2023-12-16 📅 2023-12-31 
+- [ ] 2️⃣  Week 3-4 [[FAANG Interview Preparation Plan]] 🔺 🔁 every day 🛫 2023-12-25📅 2023-12-31 
 ### Goals
 1. **Technical Learning:**
    - Enroll in online courses for Angular and relevant technologies.

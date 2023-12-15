@@ -1,22 +1,26 @@
 ---
-Type: Project
-tags: [projects/01-Learn-Typescript]
+Type:
+  - Project
+tags:
+  - projects/07-Robottel
 Status: 🟡 New
-Short Description:
-Date Started: 2023-12-03 15:40
+Short Description: 
+Date Started: 2023-12-14 11:24
 ---
-> 🌟 **Embrace the Challenge:** 
-> This project is your opportunity to transform aspirations into reality. Embark on a journey of growth and discovery, where your skills and determination converge to achieve meaningful goals.
+#areas/🚀-05-🏘️-Family 
 
-- [ ] Project: 01 Learn Typescript 📅  2023-12-31 15:40
+- [ ] Project: 07 🤖 Robottel S.A.S 🛫 2023-12-14 11:24 📅 2023-12-20 
 ## 🎯 **Goals**
-[💡^]: Remember to set [[S.M.A.R.T]] goals
+[💡^]: Remember to set [[S.M.A.R.T]] 
 [💡^]: Use the [[5 Whys Technique - Root Cause Analysis]]
-
-
+[💡^]: goals excitement, achievement, and recognition
+### 🏁 Outcomes
+- Create an e-commerce
+- Script to automatic update product from syscom
 ## ✅ **Tasks**
- 
- - [ ] One Class of Typescript  Platzi 🔺 🔁 every day ⏳  2023-12-14
+
+- [ ] Check Api at [SYSCOM Colombia Dev](https://developers.syscomcolombia.com/docs)
+- [ ] Define if it's odoo still worthy
 
 
 ---
@@ -67,5 +71,5 @@ WHERE contains(file.tags,this.file.tags[0])
 
 **Embrace the excitement and embark on your journey of accomplishment!**
 
-> [!quote] Friendship is also about liking a person for their failings, their weakness. It's also about mutual help, not about exploitation.
-> — Paul Theroux
+> [!quote] The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.
+> — Seneca the Younger

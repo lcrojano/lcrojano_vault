@@ -17,13 +17,13 @@ Date Started: 2023-12-01 10:20
 ## ✅ **Tasks**
 
 - [x] Review Excel created by marie anne ✅ 2023-12-12
-- [ ] define prices for each item
+- [x] define prices for each item ✅ 2023-12-14
 	- [x] Price for ps4 slim ✅ 2023-12-06
 		- [x] Mercadolibre ✅ 2023-12-06
 		- [x] Marketplace ⏫ 📅 2023-12-10 ✅ 2023-12-12
-	- [ ] Price for Bed
-	- [ ] Price For baby bed 📅 2023-12-13 
-		- [ ] Update sizing, photos and pricing
+	- [x] Price for Beds ✅ 2023-12-14
+	- [x] Price For baby bed 📅 2023-12-14 ✅ 2023-12-14
+		- [x] Update sizing, photos and pricing ✅ 2023-12-14
 - [x] list of posible website to sell items ✅ 2023-12-12
 	- mercadolibre
 	- marketplace

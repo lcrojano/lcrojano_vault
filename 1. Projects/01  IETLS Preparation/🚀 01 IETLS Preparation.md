@@ -22,8 +22,8 @@ Date Started: 2023-11-16 23:42
 ## ✅ **Tasks**
 
 ### Stage 1 
-- [ ] Learn About [[IETLS basics]] 📅 2023-11-23
-- [ ] Find [[IETLS Online Tutorials and videos]] 📅 2023-11-23
+- [ ] Learn About [[IETLS basics]] 📅 2023-12-15
+- [ ] Find [[IETLS Online Tutorials and videos]] 📅 2023-12-15
 
 
 

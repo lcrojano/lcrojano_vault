@@ -156,7 +156,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/00 🅰️ FAANG/01 Learn Javascript/2. Conditionals and loops.md",
+                "file": "0. Daybook/2023/Daily/12/2023-12-14.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -200,7 +200,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:projects/06-💟-Health",
+                "query": "tag:projects/06-🍁-Giov",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,7 +209,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "8488bc17781ccd8e",
@@ -230,8 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.51103591918945,
-    "collapsed": true
+    "width": 295.51103591918945
   },
   "right": {
     "id": "2d1ab4ea006b17c6",
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/00 🅰️ FAANG/01 Learn Javascript/2. Conditionals and loops.md",
+                "file": "0. Daybook/2023/Daily/12/2023-12-14.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/00 🅰️ FAANG/01 Learn Javascript/2. Conditionals and loops.md",
+                "file": "0. Daybook/2023/Daily/12/2023-12-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +291,7 @@
             }
           },
           {
-            "id": "dbc9568d97a0c41e",
+            "id": "8e9763d0fdcc92dd",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -312,7 +312,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/00 🅰️ FAANG/01 Learn Javascript/2. Conditionals and loops.md"
+                "file": "0. Daybook/2023/Daily/12/2023-12-14.md"
               }
             }
           }
@@ -320,8 +320,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446.5,
-    "collapsed": true
+    "width": 446.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -341,32 +340,35 @@
   },
   "active": "c6a5afd4b65c2b6d",
   "lastOpenFiles": [
-    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/1. Javascript Data Types.md",
-    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/2. Conditionals and loops.md",
-    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/Additional resources.md",
-    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/01 Learn Javascript.md",
-    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/00 Coursera Syllabus - Programming with JavaScript.md",
-    "1. Projects/00 🅰️ FAANG/00 Learn Angular/00 Learn Angular.md",
-    "1. Projects/00 🅰️ FAANG/00 Learn Angular/4. Binding.md",
-    "1. Projects/00 🅰️ FAANG/00 Learn Angular/4.2 Binding DOM properties.md",
-    "1. Projects/00 🅰️ FAANG/00 Learn Angular/4.1 Binding HTML attributes.md",
-    "1. Projects/00 🅰️ FAANG/00 Learn Angular/4.3 Binding Classes.md",
-    "1. Projects/00 🅰️ FAANG/00 Learn Angular/3.1 interpolation.md",
-    "1. Projects/00 🅰️ FAANG/00 Learn Angular/3. Templates.md",
-    "1. Projects/00 🅰️ FAANG/00 Learn Angular/2.2 How to create components.md",
-    "1. Projects/00 🅰️ FAANG/00 Learn Angular/2. Components.md",
-    "1. Projects/00 🅰️ FAANG/00 Learn Angular/2.1 When to use Angular Components.md",
-    "1. Projects/00 🅰️ FAANG/00 Learn Angular/1. Create a Project in Agular.md",
-    "1. Projects/00 🅰️ FAANG/02 Interview Prep/FAANG Interview Preparation Plan.md",
-    "1. Projects/00 💰 Sell Old Products/00 💰 Sell Old Products.md",
-    "1. Projects/00 🅰️ FAANG/02 Interview Prep/Week 1-2/🚀 Week 1-2.md",
-    "1. Projects/00 🅰️ FAANG/01 Learn Typescript/01 Learn Typescript.md",
     "1. Projects/05 😴 Improve Sleeping/05 😴 Improve Sleeping.md",
+    "1. Projects/00 🅰️ FAANG/00 Learn Angular/00 Learn Angular.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/01 Learn Javascript.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Typescript/01 Learn Typescript.md",
+    "1. Projects/07 🤖 Robottel S.A.S/07 🤖 Robottel S.A.S.md",
+    "1. Projects/00 💰 Sell Old Products/00 💰 Sell Old Products.md",
+    "1. Projects/06 🍁 Giov/Immigration from 1.md",
+    "1. Projects/06 🍁 Giov/06 🍁 Giov.md",
+    "2. Areas/05 🏘️ Family/🚀 05 🏘️ Family.md",
+    "1. Projects/07 🤖 Robottel S.A.S",
+    "0. Daybook/2023/Daily/12/2023-12-14.md",
+    "_Inbox/Read Later/ULID and Snowflake ID The Cool Coder’s Alternative to Boring UUIDs.md",
+    "_Inbox/Read Later/Why you should never use an UUID as the primary key in SQL Databases.md",
+    "2. Areas/00 ✍🏻 Blogger/How To build momentum.md",
+    "2. Areas/03 🏫 Student/Git y Github.md",
+    "2. Areas/03 🏫 Student/Angular.md",
+    "1. Projects/01  IETLS Preparation/🚀 01 IETLS Preparation.md",
+    "1. Projects/00 🅰️ FAANG/02 Interview Prep/FAANG Interview Preparation Plan.md",
+    "_Inbox/Read Later/OAuth vs SAML vs OpenID Learn the Differences between Them.md",
+    "_Inbox/Read Later/What is SAML and how does SAML Authentication Work.md",
+    "_Inbox/Read Later/assets/SAML.jpg",
+    "_Inbox/Read Later/assets/Tweet.svg",
+    "0. Daybook/2023/Daily/12/2023-12-13.md",
     "0. Daybook/2023/Daily/12/2023-12-12.md",
-    "3. Resources/QSI/Untitled.md",
-    "3. Resources/QSI/03 🏦Proofs White Hats Control IMF, UN, WEF, WB.md",
-    "3. Resources/QSI/00 Welcome to Part 1.md",
-    "3. Resources/QSI/🚀 QSI.md",
+    "3. Resources/Components/Top Task.md",
+    "0. Daybook/2023/Daily/12/2023-12-04.md",
+    "0. Daybook/2023/Daily/12/2023-12-05.md",
+    "0. Daybook/2023/Daily/12/2023-12-06.md",
+    "0. Daybook/2023/Daily/12/2023-12-08.md",
     "3. Resources/Components",
     "1. Projects/06 🍁 Giov/pptc445-eng.pdf",
     "1. Projects/06 🍁 Giov/pptc116-eng.pdf",
@@ -384,9 +386,6 @@
     "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1f72ce0-1963-4176-a493-517a1788a277_374x395.png",
     "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2e2b88d-751d-4c2c-b87e-95cd90aef20e_642x395.png",
     "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb830d9c-0072-45e2-a0db-356bfefd4cba_1850x650.png",
-    "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64e58201-aee1-43cf-bf38-44ecd98dbe5f_1003x850.png",
-    "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9afa94c-7524-417f-9e7d-e746c606bdc3_1142x476.png",
-    "1. Projects/00 🅰️ FAANG/00 Learn Angular/Angular CLI",
     "1. Projects/Untitled.canvas",
     "1. Projects/01 IETLS Preparation/Untitled.canvas",
     "Dashboard canvas.canvas",

@@ -5,10 +5,8 @@ Status: 🟡 New
 Short Description:
 Date Started: 2023-12-10 14:54
 ---
-> 🌟 **Embrace the Challenge:** 
-> This project is your opportunity to transform aspirations into reality. Embark on a journey of growth and discovery, where your skills and determination converge to achieve meaningful goals.
-
-- [ ] Project: 06 🍁 Giov 🛫 2023-12-10 14:54 📅 2023-12-11 
+#areas/🚀-05-🏘️-Family 
+- [ ] Project: 06 🍁 Giov 🛫 2023-12-10 14:54 📅 2023-12-14
 ## 🎯 **Goals**
 [💡^]: Remember to set [[S.M.A.R.T]] 
 [💡^]: Use the [[5 Whys Technique - Root Cause Analysis]]
