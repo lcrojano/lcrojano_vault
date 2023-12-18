@@ -5,6 +5,7 @@ Status: 🟡 New
 Short Description:
 Date Started: 2023-12-01 10:20
 ---
+
 > 🌟 **Embrace the Challenge:** 
 > This project is your opportunity to transform aspirations into reality. Embark on a journey of growth and discovery, where your skills and determination converge to achieve meaningful goals.
 
@@ -24,11 +25,24 @@ Date Started: 2023-12-01 10:20
 	- [x] Price for Beds ✅ 2023-12-14
 	- [x] Price For baby bed 📅 2023-12-14 ✅ 2023-12-14
 		- [x] Update sizing, photos and pricing ✅ 2023-12-14
-- [x] list of posible website to sell items ✅ 2023-12-12
+- [x] list of possible website to sell items ✅ 2023-12-12
 	- mercadolibre
 	- marketplace
 - [ ] finish [docs.google.com/spreadsheets/d/1GxaP155dADXKbDVmAjyudKv7t8xph0E3/edit#gid=1550613623](https://docs.google.com/spreadsheets/d/1GxaP155dADXKbDVmAjyudKv7t8xph0E3/edit#gid=1550613623)
-
+	- [ ] Take new photos of table with chairs wood
+	- [ ] upload new listing of only wood table with new photos
+	- [ ] Colchon sizing
+- [ ] New Listings-
+	- [ ] Create a listing for each bed
+	- [ ] Create a listing for bed table one for each
+	- [ ] Create a listing for a massage bed
+	- [ ] Listing for nest café machine
+	- [ ] listing for PC parts
+	- [ ] listing for violin
+	- [ ] listing for L table
+	- [ ] couch  white 
+	- [ ] puff white
+	- [ ] houses
 
 ---
 ## 📖 Journal Insights

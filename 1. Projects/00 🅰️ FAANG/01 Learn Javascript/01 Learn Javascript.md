@@ -35,7 +35,7 @@ This online course is a self-paced learning experience. Because you are taking s
 - [ ] Platzi Javascript Course
 - [ ] Solo Learn Course
 - [ ] FreeCodeCamp
-
+- [ ] [Create a Virtual World for Self-Driving Cars with JavaScript](https://www.freecodecamp.org/news/create-a-virtual-world-with-javascript/)
 
 ---
 ## 📖 Journal Insights

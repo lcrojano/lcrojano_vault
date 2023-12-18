@@ -22,6 +22,7 @@ Date Started: 2023-11-22 13:55
 - [ ] Create list of book to read
 - [x] Create a [[FAANG Interview Preparation Plan]] ✅ 2023-12-
 - [ ] Finish [[🚀 Week 1-2]]
+- [ ] do [Blind75 Questions with Answers](https://www.designgurus.io/blind75)
 
 
 ---
