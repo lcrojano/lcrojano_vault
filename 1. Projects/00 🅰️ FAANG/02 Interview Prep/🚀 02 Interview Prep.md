@@ -23,6 +23,7 @@ Date Started: 2023-11-22 13:55
 - [x] Create a [[FAANG Interview Preparation Plan]] ✅ 2023-12-
 - [ ] Finish [[🚀 Week 1-2]]
 - [ ] do [Blind75 Questions with Answers](https://www.designgurus.io/blind75)
+- [ ] read [🗺️ How to prepare the technical interview - by Fran Soto](https://strategizeyourcareer.substack.com/p/how-to-prepare-the-technical-interview?utm_source=tldrwebdev)
 
 
 ---

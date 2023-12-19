@@ -8,7 +8,7 @@ Three months
 
 ## Week 1-2: Self-Assessment and Goal 
 
-- [ ] 1️⃣ [[🚀 Week 1-2]] of [[FAANG Interview Preparation Plan]] 🔺 🔁 every day 🛫 2023-12-18 📅 2023-12-24
+- [ ] 1️⃣ [[🚀 Week 1-2]] of [[FAANG Interview Preparation Plan]] 🔺 🔁 every day 🛫 2023-12-19 📅 2023-12-24
 
 
 ## Week 3-4: Technical Skill Enhancement

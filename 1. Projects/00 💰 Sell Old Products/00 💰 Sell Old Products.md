@@ -33,6 +33,7 @@ Date Started: 2023-12-01 10:20
 	- [ ] upload new listing of only wood table with new photos
 	- [ ] Colchon sizing
 - [ ] New Listings-
+	- [ ] Pa;alera
 	- [ ] Create a listing for each bed
 	- [ ] Create a listing for bed table one for each
 	- [ ] Create a listing for a massage bed

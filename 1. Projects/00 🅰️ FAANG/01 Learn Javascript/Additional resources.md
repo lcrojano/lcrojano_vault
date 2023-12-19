@@ -27,3 +27,11 @@ Here is a list of resources that may be helpful as you continue your learning jo
 [Conditional statements](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
 
 In JavaScript, there is also a shorthand version of writing a conditional statement, known as the conditional (ternary) operator: [Conditional (ternary) operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
+
+
+# Additional resources
+
+Here is a list of resources that may be helpful as you continue your learning journey.
+
+[  
+](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)

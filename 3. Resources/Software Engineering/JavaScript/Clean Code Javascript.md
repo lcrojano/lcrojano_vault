@@ -956,7 +956,7 @@ annotation-target-type: pdf
 
 >%%
 >```annotation-json
->{"created":"2023-11-16T03:22:11.544Z","updated":"2023-11-16T03:22:11.544Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":59975,"end":60541},{"type":"TextQuoteSelector","exact":"La idea fundamental de este principio es quedebemos tratar de dividir las funciones de un sistema en dos categorías claramenteseparadas:• Consultas (queries): son funciones puras que respetan el principio de transpa-rencia referencial, es decir, devuelven un valor y no alteran el estado del sistema.Siempre devuelven un valor.• Comandos (commands): son funciones que cambian el estado intrínseco delsistema, es decir, generan un side effect. También pueden ser conocidos comomodificadores (modifiers) o mutadores (mutators). No deberían devolverningún valor (void).","prefix":"Oriented Software Construction. ","suffix":"Echemos un vistazo a la firma de"}]}]}
+>{"target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":59975,"end":60541},{"type":"TextQuoteSelector","exact":"La idea fundamental de este principio es quedebemos tratar de dividir las funciones de un sistema en dos categorías claramenteseparadas:• Consultas (queries): son funciones puras que respetan el principio de transpa-rencia referencial, es decir, devuelven un valor y no alteran el estado del sistema.Siempre devuelven un valor.• Comandos (commands): son funciones que cambian el estado intrínseco delsistema, es decir, generan un side effect. También pueden ser conocidos comomodificadores (modifiers) o mutadores (mutators). No deberían devolverningún valor (void).","prefix":"Oriented Software Construction.","suffix":"Echemos un vistazo a la firma de"}]}],"created":"2023-11-16T03:22:11.544Z","updated":"2023-11-16T03:22:11.544Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}
 >```
 >%%
 >*%%PREFIX%%Oriented Software Construction.%%HIGHLIGHT%% ==La idea fundamental de este principio es quedebemos tratar de dividir las funciones de un sistema en dos categorías claramenteseparadas:• Consultas (queries): son funciones puras que respetan el principio de transpa-rencia referencial, es decir, devuelven un valor y no alteran el estado del sistema.Siempre devuelven un valor.• Comandos (commands): son funciones que cambian el estado intrínseco delsistema, es decir, generan un side effect. También pueden ser conocidos comomodificadores (modifiers) o mutadores (mutators). No deberían devolverningún valor (void).== %%POSTFIX%%Echemos un vistazo a la firma de*
@@ -964,7 +964,7 @@ annotation-target-type: pdf
 >%%COMMENT%%
 >
 >%%TAGS%%
->
+>#por definir
 ^5q3svt1dr7
 
 
@@ -2118,3 +2118,31 @@ annotation-target-type: pdf
 >%%TAGS%%
 >
 ^nkmjwycox9o
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-18T14:17:35.189Z","updated":"2023-12-18T14:17:35.189Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":43784,"end":43946},{"type":"TextQuoteSelector","exact":"Aunque NaN (not a number) no es el resultado intuitivo, tiene sentido en JavaScript,ya que dentro de setInterval() this ha perdido la referencia al objeto counter","prefix":"er.increase(); //NaN NaN NaN ...","suffix":". Antes dela aparición de las ar"}]}]}
+>```
+>%%
+>*%%PREFIX%%er.increase(); //NaN NaN NaN ...%%HIGHLIGHT%% ==Aunque NaN (not a number) no es el resultado intuitivo, tiene sentido en JavaScript,ya que dentro de setInterval() this ha perdido la referencia al objeto counter== %%POSTFIX%%. Antes dela aparición de las ar*
+>%%LINK%%[[#^kpkifjcogj9|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^kpkifjcogj9
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-18T14:18:10.007Z","updated":"2023-12-18T14:18:10.007Z","document":{"title":"Clean JavaScript","link":[{"href":"urn:x-pdf:863999c23171408e06b76aaf471e4f56"},{"href":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download="}],"documentFingerprint":"863999c23171408e06b76aaf471e4f56"},"uri":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","target":[{"source":"https://github.com/lcrojano/books/raw/main/Software%20Engineering/Javascript/clean-code-javascript.pdf?download=","selector":[{"type":"TextPositionSelector","start":43993,"end":44076},{"type":"TextQuoteSelector","exact":"este problema con los callbacks se solía corregirhaciendo una copia del objeto this","prefix":"arición de las arrow functions, ","suffix":":Funciones 30this en arrow funct"}]}]}
+>```
+>%%
+>*%%PREFIX%%arición de las arrow functions,%%HIGHLIGHT%% ==este problema con los callbacks se solía corregirhaciendo una copia del objeto this== %%POSTFIX%%:Funciones 30this en arrow funct*
+>%%LINK%%[[#^dz189qypuf|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^dz189qypuf

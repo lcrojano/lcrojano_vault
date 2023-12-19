@@ -23,7 +23,8 @@ Date Started: 2023-11-29 16:22
 - [x] #bills/💦Water $63,971 ⏫ 🔁 every month 🛫 2023-11-04 ✅ 2023-11-30
 - [x] #bills/💦Water $63,971 🔁 every month 🛫 2023-10-04 ✅ 2023-11-30
 ### 💡Electricity
-- [ ] 💡 #bills/💡Electricity[price:: $63,971] 🔺 🔁 every month 🛫 2023-12-13 📅 2023-12-16
+- [ ] 💡 #bills/💡Electricity[price:: $682,971] 🔺 🔁 every month 🛫 2024-01-13 📅 2024-01-16
+- [x] 💡 #bills/💡Electricity[price:: $682,971] 🔺 🔁 every month 🛫 2023-12-13 📅 2023-12-16 ✅ 2023-12-18
 - [x] 💡 #bills/💡Electricity[price:: $63,971] 🔺 🔁 every month 🛫 2023-11-17 📅 2023-12-04 ✅ 2023-12-02
 ### 🍳Gas
 - [ ] 🍳  #bills/🍳Gas [price:: $63,971] ⏫ 🔁 every month 🛫 2023-12-18 📅 2024-01-04 🔺 

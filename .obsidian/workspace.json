@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cfd6885049751c64",
+            "id": "1e0cfb052b296d9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/00 🅰️ FAANG/01 Learn Javascript/3. Array, Object And functions.md",
+                "file": "1. Projects/00 🅰️ FAANG/01 Learn Typescript/2. TypeScript Types.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,64 +21,12 @@
             }
           },
           {
-            "id": "1a5934a3562895ad",
+            "id": "5a156711f34a953f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/00 🅰️ FAANG/01 Learn Javascript/3.3 Objects.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa532fc73a7eada4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Projects/00 🅰️ FAANG/01 Learn Javascript/3.3 Objects.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7d7a333f0bf2760",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Projects/00 🅰️ FAANG/01 Learn Javascript/3.3.2 Math object.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49a7ba45f8524c3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Projects/00 🅰️ FAANG/01 Learn Javascript/3.3.2.1 Random.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3f7da3c7b139734",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Projects/00 🅰️ FAANG/01 Learn Javascript/4. Iterable.md",
+                "file": "0. Daybook/2023/Daily/12/2023-12-19.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "8488bc17781ccd8e",
@@ -180,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/00 🅰️ FAANG/01 Learn Javascript/4. Iterable.md",
+                "file": "0. Daybook/2023/Daily/12/2023-12-19.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/00 🅰️ FAANG/01 Learn Javascript/4. Iterable.md",
+                "file": "0. Daybook/2023/Daily/12/2023-12-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +161,7 @@
             }
           },
           {
-            "id": "924033adafa1ed62",
+            "id": "f0bcdbf1a2f1a25b",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -233,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/00 🅰️ FAANG/01 Learn Javascript/4. Iterable.md"
+                "file": "0. Daybook/2023/Daily/12/2023-12-19.md"
               }
             }
           }
@@ -259,44 +208,44 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "a3f7da3c7b139734",
+  "active": "5a156711f34a953f",
   "lastOpenFiles": [
-    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/3.3.2.1 Random.md",
-    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/4. Iterable.md",
-    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/3.3.2 Math object.md",
-    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/3.3 Objects.md",
-    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/3.2 Array.md",
-    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/3.3.1 object literal notation.md",
-    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/3. Array, Object And functions.md",
-    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/3.1 Functions.md",
-    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/4. Array.md",
+    "1. Projects/00 🅰️ FAANG/00 Learn Angular/7.3 Form Validation.md",
+    "0. Daybook/2023/Daily/12/2023-12-19.md",
     "1. Projects/00 🅰️ FAANG/00 Learn Angular/7.1 Template Driven Forms.md",
     "1. Projects/00 🅰️ FAANG/00 Learn Angular/7. Form.md",
+    "0. Daybook/2023/Daily/12/2023-12-18.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Typescript/1. What is Typescript.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Typescript/2.1 Type Inferance.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Typescript/2. TypeScript Types.md",
+    "4. Archive/06 🍁 Giov/06 🍁 Giov.md",
     "1. Projects/00 💰 Sell Old Products/00 💰 Sell Old Products.md",
-    "0. Daybook/2023/Daily/12/2023-12-17.md",
+    "2. Areas/05 🏘️ Family/🚀 05 🏘️ Family.md",
+    "1. Projects/00 🅰️ FAANG/03 DevOps/03 DevOps.md",
+    "1. Projects/07 🤖 Robottel S.A.S/07 🤖 Robottel S.A.S.md",
     "1. Projects/05 😴 Improve Sleeping/05 😴 Improve Sleeping.md",
     "1. Projects/00 🅰️ FAANG/01 Learn Javascript/01 Learn Javascript.md",
+    "1. Projects/00 🅰️ FAANG/02 Interview Prep/FAANG Interview Preparation Plan.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Typescript/01 Learn Typescript.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/00 Coursera Syllabus - Programming with JavaScript.md",
     "1. Projects/00 🅰️ FAANG/00 Learn Angular/00 Learn Angular.md",
-    "3. Resources/QSI/01 White Hat.md",
-    "1. Projects/00 🅰️ FAANG/00 Learn Angular/6. Control Flow.md",
-    "1. Projects/00 🅰️ FAANG/00 Learn Angular/6.2 @if block.md",
-    "1. Projects/00 🅰️ FAANG/00 Learn Angular/6.1 @for block.md",
-    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/2. Conditionals and loops.md",
-    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/2.4 For Loop.md",
-    "1. Projects/00 🅰️ FAANG/00 Learn Angular/5. Event Binding.md",
-    "1. Projects/00 🅰️ FAANG/00 Learn Angular/4.4 Binding Key Differences.md",
-    "1. Projects/00 🅰️ FAANG/00 Learn Angular/4.3 Binding Css Classes.md",
-    "1. Projects/00 🅰️ FAANG/00 Learn Angular/4. Binding.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/3.3 Objects.md",
+    "1. Projects/00 🅰️ FAANG/00 Learn Angular/1.2 App Prefix.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Typescript/1.1 Typescript installation.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/1. Javascript Data Types.md",
+    "0. Daybook/2023/Daily/12/2023-12-17.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/3. Array, Object And functions.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/Additional resources.md",
     "1. Projects/00 🅰️ FAANG/03 DevOps",
     "1. Projects/07 🤖 Robottel S.A.S",
     "_Inbox/Read Later/assets/SAML.jpg",
     "_Inbox/Read Later/assets/Tweet.svg",
     "3. Resources/Components",
-    "1. Projects/06 🍁 Giov/pptc445-eng.pdf",
-    "1. Projects/06 🍁 Giov/pptc116-eng.pdf",
+    "4. Archive/06 🍁 Giov/pptc445-eng.pdf",
+    "4. Archive/06 🍁 Giov/pptc116-eng.pdf",
     "1. Projects/06 🍁 Giov/Unconfirmed 382671.crdownload",
     "1. Projects/06 🍁 Giov/Unconfirmed 155833.crdownload",
-    "1. Projects/06 🍁 Giov",
+    "4. Archive/06 🍁 Giov",
     "1. Projects/Nueva carpeta",
     "1. Projects/05 😴 Improve Sleeping",
     "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34abc7d5-28ab-4105-8444-4d46a29c5baf_1728x1163.png",
