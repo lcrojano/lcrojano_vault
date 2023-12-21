@@ -16,7 +16,8 @@ Date Started: 2023-12-03 15:40
 
 ## ✅ **Tasks**
  
- - [ ] One Class of Typescript  Platzi 🔺 🔁 every day ⏳ 2023-12-19
+ - [ ] One Class of Typescript 🔺 🔁 every day ⏳ 2023-12-20
+ - [x] One Class of Typescript 🔺 🔁 every day ⏳ 2023-12-19 ✅ 2023-12-19
  - [x] One Class of Typescript  Platzi 🔺 🔁 every day ⏳ 2023-12-18 ✅ 2023-12-18
 
 

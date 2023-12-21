@@ -18,7 +18,8 @@ Date Started: 2023-12-03 15:28
 ## ✅ **Tasks**
 
 - [ ] Finish Solo Solo Learn Angular 📅 2023-12-24
-	- [ ] Do one or more Angular modules by day 🔁 every day 🛫 2023-12-19
+	- [ ] Do one or more Angular modules by day 🔁 every day 🛫 2023-12-21
+	- [x] Do one or more Angular modules by day 🔁 every day 🛫 2023-12-19 ✅ 2023-12-21
 	- [x] Do one or more Angular modules by day 🔁 every day 🛫 2023-12-18 ✅ 2023-12-18
 	- [x] Do one or more Angular modules by day 🔁 every day 🛫 2023-12-17 ✅ 2023-12-17
 	- [x] Do one or more Angular modules by day 🔁 every day 🛫 2023-12-16 ✅ 2023-12-16

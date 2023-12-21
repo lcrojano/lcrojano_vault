@@ -8,7 +8,7 @@ Date Started: 2023-12-15 12:12
 > 🌟 **Embrace the Challenge:** 
 > This project is your opportunity to transform aspirations into reality. Embark on a journey of growth and discovery, where your skills and determination converge to achieve meaningful goals.
 
-- [ ] Project: 03 DevOps 🛫 2023-12-15 12:12
+- [ ] Project: 03 DevOps 🛫 2024-01-1 12:12
 ## 🎯 **Goals**
 [💡^]: Remember to set [[S.M.A.R.T]] 
 [💡^]: Use the [[5 Whys Technique - Root Cause Analysis]]

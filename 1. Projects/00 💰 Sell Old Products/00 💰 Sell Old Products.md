@@ -19,7 +19,7 @@ Date Started: 2023-12-01 10:20
 
 - [x] Review Excel created by marie anne ✅ 2023-12-12
 - [x] define prices for each item ✅ 2023-12-14
-	- [x] Price for ps4 slim ✅ 2023-12-06
+	- [x] [[Price for ps4 slim]] ✅ 2023-12-06
 		- [x] Mercadolibre ✅ 2023-12-06
 		- [x] Marketplace ⏫ 📅 2023-12-10 ✅ 2023-12-12
 	- [x] Price for Beds ✅ 2023-12-14
@@ -33,7 +33,7 @@ Date Started: 2023-12-01 10:20
 	- [ ] upload new listing of only wood table with new photos
 	- [ ] Colchon sizing
 - [ ] New Listings-
-	- [ ] Pa;alera
+	- [ ] Baby trash can
 	- [ ] Create a listing for each bed
 	- [ ] Create a listing for bed table one for each
 	- [ ] Create a listing for a massage bed

@@ -8,7 +8,7 @@ Date Started: 2023-12-03 15:41
 > 🌟 **Embrace the Challenge:** 
 > This project is your opportunity to transform aspirations into reality. Embark on a journey of growth and discovery, where your skills and determination converge to achieve meaningful goals.
 
-- [ ] Project: 01 Learn Javascript 🛫 2023-12-01 📅 2023-12-24
+- [ ] Project: 01 Learn Javascript 🛫 2023-12-01 📅 2023-12-24 
 
 ## 🎯 **Goals**
 [💡^]: Remember to set [[S.M.A.R.T]] goals
@@ -29,7 +29,9 @@ This online course is a self-paced learning experience. Because you are taking s
 	- [ ]  [[00 Coursera Syllabus - Programming with JavaScript#^cdc63a| Module 3]]
 	- [ ]  [[00 Coursera Syllabus - Programming with JavaScript#^31b6e4| Module 4]]
 	- [ ]  [[00 Coursera Syllabus - Programming with JavaScript#^d1e9c8| Module 5]]
-	- [ ] One Class of JavaScript coursera 🔺 🔁 every day ⏳ 2023-12-19
+	- [ ] One Class of JavaScript coursera 🔺 🔁 every day ⏳ 2023-12-22
+	- [x] 🛫 2023-12-01 One Class of JavaScript coursera 🔺 🔁 every day ⏳ 2023-12-21 ✅ 2023-12-21
+	- [x] One Class of JavaScript coursera 🔺 🔁 every day ⏳ 2023-12-19 ✅ 2023-12-19
 	- [x] One Class of JavaScript coursera 🔺 🔁 every day ⏳ 2023-12-18 ✅ 2023-12-18
 	- [x] One Class of JavaScript coursera 🔺 🔁 every day ⏳ 2023-12-17 ✅ 2023-12-18
 	- [x] One Class of JavaScript coursera 🔺 🔁 every day ⏳ 2023-12-16 ✅ 2023-12-18

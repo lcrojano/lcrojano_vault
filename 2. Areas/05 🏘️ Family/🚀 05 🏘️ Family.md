@@ -14,7 +14,8 @@ Date Started: 2023-11-29 16:22
 
 ## Public services
 ### Family Services
-- [ ] 🏘️  #bills/📱nidia [price:: $23,000] 🔁 every month ⏳ 2023-12-20 📅 2024-03-20  🔺 
+- [ ] 🏘️  #bills/📱nidia [price:: $23,000] 🔺 🔁 every month ⏳ 2024-01-20 📅 2024-04-20
+- [x] 🏘️  #bills/📱nidia [price:: $23,000] 🔺 🔁 every month ⏳ 2023-12-20 📅 2024-03-20 ✅ 2023-12-20
 - [x] #bills/📱nidia 🔼 🔁 every month ⏳ 2023-11-25 📅 2024-02-25 ✅ 2023-11-29
 
 ### 💦 Water
@@ -27,7 +28,7 @@ Date Started: 2023-11-29 16:22
 - [x] 💡 #bills/💡Electricity[price:: $682,971] 🔺 🔁 every month 🛫 2023-12-13 📅 2023-12-16 ✅ 2023-12-18
 - [x] 💡 #bills/💡Electricity[price:: $63,971] 🔺 🔁 every month 🛫 2023-11-17 📅 2023-12-04 ✅ 2023-12-02
 ### 🍳Gas
-- [ ] 🍳  #bills/🍳Gas [price:: $63,971] ⏫ 🔁 every month 🛫 2023-12-18 📅 2024-01-04 🔺 
+- [ ] 🍳  #bills/🍳Gas [price:: $63,971] ⏫ 🔁 every month 🛫 2023-12-20 📅 2024-01-04 🔺 
 - [x] #bills/🍳Gas $63,971 ⏫ 🔁 every month 🛫 2023-11-17 📅 2023-12-04 ✅ 2023-12-01
 ### 🌐 Internet 1
 - [ ] 🌐  #bills/🌐Internet1 [price:: $108,944] ⏫ 🔁 every month 🛫 2024-01-04 📅 2024-01-09
