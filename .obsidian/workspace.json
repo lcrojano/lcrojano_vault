@@ -26,7 +26,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Daybook/2023 Daily Habit Tracker.md",
+                "file": "0. Daybook/2023/Daily/12/2023-12-21.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab626d87500da9a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Daybook/2023/Daily/12/3.1.1 Difference Between Function Declaration and function Expresion.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6da286e23a1ebd9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/00 🅰️ FAANG/00 Learn Angular/00 Learn Angular.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "011f3649a3468993",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Daybook/2023/Daily/12/2023-12-22.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -70,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:projects/01-Learn-Javascript",
+                "query": "tag:projects/00-💰-Sell-Old-Products",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Daybook/2023 Daily Habit Tracker.md",
+                "file": "0. Daybook/2023/Daily/12/2023-12-22.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Daybook/2023 Daily Habit Tracker.md",
+                "file": "0. Daybook/2023/Daily/12/2023-12-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +213,7 @@
             }
           },
           {
-            "id": "96c9e5f9efdaff8d",
+            "id": "c2992d2b4e1da33f",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -195,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Daybook/2023 Daily Habit Tracker.md"
+                "file": "0. Daybook/2023/Daily/12/2023-12-22.md"
               }
             }
           }
@@ -221,8 +260,24 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "4dbc1527b64d6b42",
+  "active": "011f3649a3468993",
   "lastOpenFiles": [
+    "1. Projects/00 💰 Sell Old Products/00 💰 Sell Old Products.md",
+    "0. Daybook/2023/Daily/12/2023-12-22.md",
+    "0. Daybook/2023 Daily Habit Tracker.md",
+    "1. Projects/05 😴 Improve Sleeping/05 😴 Improve Sleeping.md",
+    "1. Projects/00 🅰️ FAANG/00 Learn Angular/00 Learn Angular.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/01 Learn Javascript.md",
+    "2. Areas/05 🏘️ Family/🚀 05 🏘️ Family.md",
+    "0. Daybook/2023/Daily/12/2023-12-21.md",
+    "1. Projects/00 🅰️ FAANG/00 Learn Angular/7.2 Reactive Forms.md",
+    "1. Projects/00 🅰️ FAANG/00 Learn Angular/7. Form.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Typescript/01 Learn Typescript.md",
+    "1. Projects/00 🅰️ FAANG/01 CSS Animation Practice/🚀 01 CSS Animation Practice.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/Additional resources.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/6. Error Handling.md",
+    "0. Daybook/2023/Daily/12/6.4 Exercise - Defensive programming.md",
+    "0. Daybook/2023/Daily/12/3.1.1 Difference Between Function Declaration and function Expresion.md",
     "1. Projects/🚀 Projects Ideas.md",
     "3. Resources/Startup/Recursos para Startups.md",
     "Dashboard.md",
@@ -234,22 +289,6 @@
     "Untitled 1.md",
     "3. Resources/Templates/Project Template.md",
     "3. Resources/Templates/Untitled.md",
-    "3. Resources/Components/Top Task.md",
-    "3. Resources/Components/Quote of the day.md",
-    "3. Resources/excalibrain.md",
-    "3. Resources/_Books Url.md",
-    "0. Daybook/2023/Daily/12/2023-12-21.md",
-    "1. Projects/00 🅰️ FAANG/01 Learn Typescript/01 Learn Typescript.md",
-    "1. Projects/00 💰 Sell Old Products/00 💰 Sell Old Products.md",
-    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/01 Learn Javascript.md",
-    "1. Projects/05 😴 Improve Sleeping/05 😴 Improve Sleeping.md",
-    "2. Areas/05 🏘️ Family/🚀 05 🏘️ Family.md",
-    "1. Projects/00 🅰️ FAANG/00 Learn Angular/00 Learn Angular.md",
-    "1. Projects/00 🅰️ FAANG/02 Interview Prep/FAANG Interview Preparation Plan.md",
-    "1. Projects/00 🅰️ FAANG/03 DevOps/03 DevOps.md",
-    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/6.3 Undefined, null and empty values.md",
-    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/6. Error Handling.md",
-    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/6.2 Throw, Try,  Catch.md",
     "1. Projects/00 🅰️ FAANG/03 DevOps",
     "1. Projects/07 🤖 Robottel S.A.S",
     "_Inbox/Read Later/assets/SAML.jpg",

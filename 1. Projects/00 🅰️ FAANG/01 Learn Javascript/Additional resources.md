@@ -15,7 +15,7 @@
 [Emojis](http://unicode.org/emoji/charts/full-emoji-list.html#1f600)
 
 
-
+# Additional resources
 Here is a list of resources that may be helpful as you continue your learning journey.
 
 [Comparison Operators](https://www.javascripttutorial.net/javascript-comparison-operators/) 
@@ -33,5 +33,25 @@ In JavaScript, there is also a shorthand version of writing a conditional statem
 
 Here is a list of resources that may be helpful as you continue your learning journey.
 
-[  
-](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
+
+
+# Additional resources
+
+Here is a list of resources that may be helpful as you continue your learning journey.
+
+[MDN functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function) 
+
+[MDN try...catch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch) 
+
+[Iteration protocols](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols) 
+
+[The Math object on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math) 
+
+[The String object on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) 
+
+[MDN JavaScript error reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors) 
+
+[The null value on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null) 
+
+[The undefined property on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined)
