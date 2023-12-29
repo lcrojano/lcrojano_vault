@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Daybook/2023/Daily/12/2023-12-22.md",
+                "file": "1. Projects/00 New years Celebration/00 🎅🏻 New years Celebration.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,8 +118,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "8488bc17781ccd8e",
@@ -168,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Daybook/2023/Daily/12/2023-12-22.md",
+                "file": "1. Projects/00 New years Celebration/00 🎅🏻 New years Celebration.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Daybook/2023/Daily/12/2023-12-22.md",
+                "file": "1. Projects/00 New years Celebration/00 🎅🏻 New years Celebration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,20 +199,7 @@
             }
           },
           {
-            "id": "9044f3b49a72134f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Resources/Components/Top Task.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2992d2b4e1da33f",
+            "id": "a00d04c932eae525",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -221,7 +207,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "a34bfd7309944f75",
@@ -234,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Daybook/2023/Daily/12/2023-12-22.md"
+                "file": "1. Projects/00 New years Celebration/00 🎅🏻 New years Celebration.md"
               }
             }
           }
@@ -262,13 +248,22 @@
   },
   "active": "011f3649a3468993",
   "lastOpenFiles": [
+    "0. Daybook/2023/Daily/12/2023-12-28.md",
+    "1. Projects/00 New years Celebration/00 🎅🏻 New years Celebration.md",
+    "3. Resources/Components/Top Task.md",
+    "1. Projects/00 New years Celebration",
+    "1. Projects/05 😴 Improve Sleeping/05 😴 Improve Sleeping.md",
+    "0. Daybook/2023/Daily/12/2023-12-27.md",
+    "2. Areas/05 🏘️ Family/🚀 05 🏘️ Family.md",
+    "0. Daybook/2023/Daily/12/2023-12-26.md",
     "1. Projects/00 💰 Sell Old Products/00 💰 Sell Old Products.md",
+    "_Inbox/Read Later/How to Spend Way Less Time on Email Every Day.md",
+    "_Inbox/Read Later/assets/Jan19_18_639102368.jpg",
+    "0. Daybook/2023/Daily/12/2023-12-23.md",
     "0. Daybook/2023/Daily/12/2023-12-22.md",
     "0. Daybook/2023 Daily Habit Tracker.md",
-    "1. Projects/05 😴 Improve Sleeping/05 😴 Improve Sleeping.md",
     "1. Projects/00 🅰️ FAANG/00 Learn Angular/00 Learn Angular.md",
     "1. Projects/00 🅰️ FAANG/01 Learn Javascript/01 Learn Javascript.md",
-    "2. Areas/05 🏘️ Family/🚀 05 🏘️ Family.md",
     "0. Daybook/2023/Daily/12/2023-12-21.md",
     "1. Projects/00 🅰️ FAANG/00 Learn Angular/7.2 Reactive Forms.md",
     "1. Projects/00 🅰️ FAANG/00 Learn Angular/7. Form.md",
@@ -282,13 +277,6 @@
     "3. Resources/Startup/Recursos para Startups.md",
     "Dashboard.md",
     "Dashboard canvas.canvas",
-    "LICENSE.md",
-    "README.md",
-    "3. Resources/Templates/Area Template.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "3. Resources/Templates/Project Template.md",
-    "3. Resources/Templates/Untitled.md",
     "1. Projects/00 🅰️ FAANG/03 DevOps",
     "1. Projects/07 🤖 Robottel S.A.S",
     "_Inbox/Read Later/assets/SAML.jpg",
@@ -300,7 +288,6 @@
     "1. Projects/06 🍁 Giov/Unconfirmed 155833.crdownload",
     "4. Archive/06 🍁 Giov",
     "1. Projects/Nueva carpeta",
-    "1. Projects/05 😴 Improve Sleeping",
     "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34abc7d5-28ab-4105-8444-4d46a29c5baf_1728x1163.png",
     "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd644ba96-4f13-4fe2-8e9f-e01cdec85171_1005x395.png",
     "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96c6476f-b900-4591-a672-295048bda0a4_1466x597.png",
@@ -308,7 +295,6 @@
     "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa279781f-8c76-4e67-8a63-6b9930d1a48c_1984x937.png",
     "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1f72ce0-1963-4176-a493-517a1788a277_374x395.png",
     "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2e2b88d-751d-4c2c-b87e-95cd90aef20e_642x395.png",
-    "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb830d9c-0072-45e2-a0db-356bfefd4cba_1850x650.png",
     "1. Projects/Untitled.canvas",
     "1. Projects/01 IETLS Preparation/Untitled.canvas",
     "3. Resources/Second Brain/GTD/_GTD mindmap.canvas"
