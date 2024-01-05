@@ -55,3 +55,5 @@ Here is a list of resources that may be helpful as you continue your learning jo
 [The null value on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null) 
 
 [The undefined property on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined)
+
+

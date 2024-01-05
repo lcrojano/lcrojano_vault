@@ -4,68 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "33c095b82eaba9a3",
+        "id": "5918deb964064995",
         "type": "tabs",
         "children": [
           {
-            "id": "52900c9eb3b5652d",
+            "id": "cbdcd1e75bc98781",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/00 🅰️ FAANG/01 Learn Javascript/6. Error Handling.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4dbc1527b64d6b42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Daybook/2023/Daily/12/2023-12-21.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab626d87500da9a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Daybook/2023/Daily/12/3.1.1 Difference Between Function Declaration and function Expresion.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6da286e23a1ebd9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Projects/00 🅰️ FAANG/00 Learn Angular/00 Learn Angular.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "011f3649a3468993",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Projects/00 New years Celebration/00 🎅🏻 New years Celebration.md",
+                "file": "0. Daybook/2024/Daily/01/2024-01-04.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +21,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -109,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:projects/00-💰-Sell-Old-Products",
+                "query": "tag:#projects/00-Learn-Angular",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/00 New years Celebration/00 🎅🏻 New years Celebration.md",
+                "file": "0. Daybook/2024/Daily/01/2024-01-04.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,22 +132,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/00 New years Celebration/00 🎅🏻 New years Celebration.md",
+                "file": "0. Daybook/2024/Daily/01/2024-01-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b90ad2112255a7bb",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "a00d04c932eae525",
+            "id": "eb3cf60cd008ee42",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -207,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "a34bfd7309944f75",
@@ -220,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/00 New years Celebration/00 🎅🏻 New years Celebration.md"
+                "file": "0. Daybook/2024/Daily/01/2024-01-04.md"
               }
             }
           }
@@ -228,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446.5
+    "width": 446.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,62 +180,61 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "obsidian-projects:Open projects": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-projects:Open projects": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "011f3649a3468993",
+  "active": "cbdcd1e75bc98781",
   "lastOpenFiles": [
-    "0. Daybook/2023/Daily/12/2023-12-28.md",
-    "1. Projects/00 New years Celebration/00 🎅🏻 New years Celebration.md",
-    "3. Resources/Components/Top Task.md",
-    "1. Projects/00 New years Celebration",
-    "1. Projects/05 😴 Improve Sleeping/05 😴 Improve Sleeping.md",
-    "0. Daybook/2023/Daily/12/2023-12-27.md",
-    "2. Areas/05 🏘️ Family/🚀 05 🏘️ Family.md",
-    "0. Daybook/2023/Daily/12/2023-12-26.md",
-    "1. Projects/00 💰 Sell Old Products/00 💰 Sell Old Products.md",
-    "_Inbox/Read Later/How to Spend Way Less Time on Email Every Day.md",
-    "_Inbox/Read Later/assets/Jan19_18_639102368.jpg",
-    "0. Daybook/2023/Daily/12/2023-12-23.md",
-    "0. Daybook/2023/Daily/12/2023-12-22.md",
-    "0. Daybook/2023 Daily Habit Tracker.md",
-    "1. Projects/00 🅰️ FAANG/00 Learn Angular/00 Learn Angular.md",
-    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/01 Learn Javascript.md",
-    "0. Daybook/2023/Daily/12/2023-12-21.md",
-    "1. Projects/00 🅰️ FAANG/00 Learn Angular/7.2 Reactive Forms.md",
-    "1. Projects/00 🅰️ FAANG/00 Learn Angular/7. Form.md",
-    "1. Projects/00 🅰️ FAANG/01 Learn Typescript/01 Learn Typescript.md",
-    "1. Projects/00 🅰️ FAANG/01 CSS Animation Practice/🚀 01 CSS Animation Practice.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Typescript/2. TypeScript Types.md",
+    "0. Daybook/2024/Daily/01/2024-01-04.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/8. Scope.md",
     "1. Projects/00 🅰️ FAANG/01 Learn Javascript/Additional resources.md",
-    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/6. Error Handling.md",
-    "0. Daybook/2023/Daily/12/6.4 Exercise - Defensive programming.md",
-    "0. Daybook/2023/Daily/12/3.1.1 Difference Between Function Declaration and function Expresion.md",
-    "1. Projects/🚀 Projects Ideas.md",
-    "3. Resources/Startup/Recursos para Startups.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/8.4.2 Function scope.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/8.2.1 function scope.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/8.4 Scoping with var, let and const.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/8.4.1 Comparison between var let and const.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/9.3 Pure functions and side-effects.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/9. Functional Programming.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/9.2 Higher-order function.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/9.1 First-class functions.md",
+    "_Inbox/1704375072424.jpeg",
+    "_Inbox/1704375072424.jpeg.crdownload",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/7. Recursion.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/6.3 Undefined, null and empty values.md",
+    "0. Daybook/2024/Daily/01/Untitled.md",
+    "0. Daybook/2024/Daily/01/2024-01-03.md",
+    "2. Areas/07 📖 Reader/07 📖 Reader.md",
     "Dashboard.md",
     "Dashboard canvas.canvas",
+    "1. Projects/00 🅰️ FAANG/01 Learn Javascript/01 Learn Javascript.md",
+    "1. Projects/00 🅰️ FAANG/01 Learn Typescript/01 Learn Typescript.md",
+    "1. Projects/00 🅰️ FAANG/00 Learn Angular/7.2 Reactive Forms.md",
+    "1. Projects/00 🅰️ FAANG/00 Learn Angular/7.3 Form Validation.md",
+    "1. Projects/00 🅰️ FAANG/00 Learn Angular/7. Form.md",
+    "1. Projects/00 🅰️ FAANG/00 Learn Angular/7.1 Template Driven Forms.md",
+    "0. Daybook/2024/Daily/01/2024-01-02.md",
+    "1. Projects/05 😴 Improve Sleeping/05 😴 Improve Sleeping.md",
+    "0. Daybook/2024/Daily/01",
+    "0. Daybook/2024/Daily",
+    "0. Daybook/2024",
+    "2. Areas/07 📖 Reader",
+    "1. Projects/00 New years Celebration",
+    "_Inbox/Read Later/assets/Jan19_18_639102368.jpg",
     "1. Projects/00 🅰️ FAANG/03 DevOps",
     "1. Projects/07 🤖 Robottel S.A.S",
     "_Inbox/Read Later/assets/SAML.jpg",
     "_Inbox/Read Later/assets/Tweet.svg",
     "3. Resources/Components",
     "4. Archive/06 🍁 Giov/pptc445-eng.pdf",
-    "4. Archive/06 🍁 Giov/pptc116-eng.pdf",
-    "1. Projects/06 🍁 Giov/Unconfirmed 382671.crdownload",
-    "1. Projects/06 🍁 Giov/Unconfirmed 155833.crdownload",
-    "4. Archive/06 🍁 Giov",
-    "1. Projects/Nueva carpeta",
     "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34abc7d5-28ab-4105-8444-4d46a29c5baf_1728x1163.png",
     "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd644ba96-4f13-4fe2-8e9f-e01cdec85171_1005x395.png",
     "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96c6476f-b900-4591-a672-295048bda0a4_1466x597.png",
     "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb586cf1d-c74f-4166-abe3-c143c54c4151_682x678.png",
     "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa279781f-8c76-4e67-8a63-6b9930d1a48c_1984x937.png",
     "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1f72ce0-1963-4176-a493-517a1788a277_374x395.png",
-    "_Inbox/Read Later/assets/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2e2b88d-751d-4c2c-b87e-95cd90aef20e_642x395.png",
     "1. Projects/Untitled.canvas",
     "1. Projects/01 IETLS Preparation/Untitled.canvas",
     "3. Resources/Second Brain/GTD/_GTD mindmap.canvas"

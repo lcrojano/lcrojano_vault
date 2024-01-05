@@ -8,18 +8,17 @@
   "obsidian-kanban",
   "obsidian-excalidraw-plugin",
   "obsidian-projects",
-  "table-editor-obsidian",
   "obsidian-imgur-plugin",
   "obsidian-tasks-plugin",
   "obsidian-auto-link-title",
-  "highlightr-plugin",
   "obsidian-read-it-later",
   "excalibrain",
   "calendar",
   "heatmap-calendar",
   "habit-tracker",
-  "tasks-calendar-wrapper",
-  "obsidian-annotator",
   "templater-obsidian",
-  "quickadd"
+  "quickadd",
+  "obsidian-annotator",
+  "highlightr-plugin",
+  "tasks-calendar-wrapper"
 ]

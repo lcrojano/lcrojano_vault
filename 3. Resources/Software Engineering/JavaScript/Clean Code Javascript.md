@@ -7,7 +7,7 @@ Date Finished:
 Pages: "156"
 Current Page: 77
 Date Started: 2021-10-31
-annotation-target-type: pdf
+annotation-target-type:
 ---
 >%%
 >```annotation-json

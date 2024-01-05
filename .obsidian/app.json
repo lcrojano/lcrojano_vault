@@ -12,5 +12,11 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./attachments",
   "newFileLocation": "current",
-  "showInlineTitle": false
+  "showInlineTitle": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  }
 }

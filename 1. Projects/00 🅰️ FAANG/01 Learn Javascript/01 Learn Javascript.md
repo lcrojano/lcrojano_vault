@@ -29,7 +29,7 @@ This online course is a self-paced learning experience. Because you are taking s
 	- [ ]  [[00 Coursera Syllabus - Programming with JavaScript#^cdc63a| Module 3]]
 	- [ ]  [[00 Coursera Syllabus - Programming with JavaScript#^31b6e4| Module 4]]
 	- [ ]  [[00 Coursera Syllabus - Programming with JavaScript#^d1e9c8| Module 5]]
-	- [ ] One Class of JavaScript coursera 🔺 🔁 every day ⏳ 2023-12-22
+	- [ ] One Class of JavaScript coursera 🔺 🔁 every day ⏳ 2024-01-04
 	- [x] 🛫 2023-12-01 One Class of JavaScript coursera 🔺 🔁 every day ⏳ 2023-12-21 ✅ 2023-12-21
 	- [x] One Class of JavaScript coursera 🔺 🔁 every day ⏳ 2023-12-19 ✅ 2023-12-19
 	- [x] One Class of JavaScript coursera 🔺 🔁 every day ⏳ 2023-12-18 ✅ 2023-12-18

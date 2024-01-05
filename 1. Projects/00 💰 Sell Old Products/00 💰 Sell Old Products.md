@@ -9,7 +9,8 @@ Date Started: 2023-12-01 10:20
 > 🌟 **Embrace the Challenge:** 
 > This project is your opportunity to transform aspirations into reality. Embark on a journey of growth and discovery, where your skills and determination converge to achieve meaningful goals.
 
-- [ ] Project: 00 💰 Sell Old Products 🛫 2023-12-01 10:20 📅 2023-12-31
+- [x] Project: 00 💰 Sell Old Products 🛫 2023-12-01 10:20 📅 2023-12-31 ✅ 2023-12-31
+- [ ]  Project: 00 💰 Sell Old Products  Part 2 🛫 2024-01-01 10:20 📅 2024-01-15 ✅ 2023-12-31
 ## 🎯 **Goals**
 [💡^]: Remember to set [[S.M.A.R.T]] goals
 [💡^]: Use the [[5 Whys Technique - Root Cause Analysis]]

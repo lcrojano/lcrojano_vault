@@ -8,7 +8,7 @@ Date Started: 2023-12-28 20:48
 > 🌟 **Embrace the Challenge:** 
 > This project is your opportunity to transform aspirations into reality. Embark on a journey of growth and discovery, where your skills and determination converge to achieve meaningful goals.
 
-- [ ] Project: 00 New years Celebration 🛫 2023-12-28 20:48  📅 2023-12-31 
+- [x] Project: 00 New years Celebration 🛫 2023-12-28 20:48 📅 2023-12-31 ✅ 2024-01-01
 
 ### 🏁 Outcomes
 - Host a New year Celebration like a pro
@@ -22,19 +22,20 @@ Date Started: 2023-12-28 20:48
 		- [ ] ![](https://i.imgur.com/aNmC50e.png)
 
 	- [ ] water coloured bottles
-	- [ ] mantel
+	- [x] mantel ✅ 2024-01-01
 	- [ ] lights
-	- [ ] candles
-	- [ ] Table path
-- [ ] **Main Meal
-	- [ ] Lasagnes
-- [ ] **Snacks**
-	- [ ] Cake
+	- [x] candles ✅ 2024-01-01
+	- [x] Table path ✅ 2024-01-01
+- [x] **Main Meal ✅ 2024-01-01
+	- [x] Lasagnes ✅ 2023-12-31
+- [x] **Snacks** ✅ 2024-01-01
+	- [x] Cake ✅ 2023-12-31
 	- [ ] Cupcakes
 	- [ ] Sweets
-- [ ] Drinks
-	- [ ] Champagne ![](https://i.imgur.com/FoCrG2v.png)
-	- [ ] ![](https://i.imgur.com/EoEnHyY.png)
+- [x] Drinks ✅ 2024-01-01
+	- [x] vodka cotails ✅ 2023-12-31
+	- [x] Champagne ![](https://i.imgur.com/FoCrG2v.png) ✅ 2023-12-31
+	- [x] ![](https://i.imgur.com/EoEnHyY.png) ✅ 2024-01-01
 
 - [ ] **Activities
 	- [ ] Photo showcase

@@ -12,7 +12,9 @@ Area: []
 > 🌟 **Embrace the Challenge:** 
 > This project is your opportunity to transform aspirations into reality. Embark on a journey of growth and discovery, where your skills and determination converge to achieve meaningful goals.
 
-- [ ] Project: 05 😴 Improve Sleeping 🛫 2023-12-09 22:56 📅 2023-12-31
+- [x] Project: 05 😴 Improve Sleeping 🛫 2023-12-09 22:56 📅 2023-12-31 ✅ 2023-12-31
+	- Reduced Wake up tome to 9 am, but need to improve sleep time.
+- [ ]  Project: 05 😴 Improve Sleeping 🛫 2024-01-02  📅 2024-01-15
 #areas/06-💟-Health
 ## 🎯 **Goals**
 [💡^]: Remember to set [[S.M.A.R.T]] 
