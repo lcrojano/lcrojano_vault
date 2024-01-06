@@ -1,4 +1,4 @@
-# JavaScript improvements
+
 
 In this reading, you will learn about the history of JavaScript and the importance of ECMA (European Computer Manufacturers Association) and ECMAScript.
 

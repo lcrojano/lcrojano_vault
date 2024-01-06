@@ -1,25 +1,28 @@
 ---
 Type: Project
-tags: [projects/03-DevOps]
+tags: [areas/03-🏫-Student]
 Status: 🟡 New
 Short Description:
-Date Started: 2023-12-15 12:12
+Date Started: 2024-01-05 23:17
 ---
 > 🌟 **Embrace the Challenge:** 
 > This project is your opportunity to transform aspirations into reality. Embark on a journey of growth and discovery, where your skills and determination converge to achieve meaningful goals.
 
-- [ ] Project: 03 DevOps 🛫 2024-01-1 12:12
-## 🎯 **Goals**
-[💡^]: Remember to set [[S.M.A.R.T]] 
-[💡^]: Use the [[5 Whys Technique - Root Cause Analysis]]
-[💡^]: goals excitement, achievement, and recognition
-### 🏁 Outcomes
-
+## 🎯 **Standards of Performance**
+[💡^]: standard of performance (or a “quality bar”) for the product you are responsible for. 
+[💡^]: Balance, peace, and meaning. 
+- Keep a high mastery level of my principal stack habilites. 
+- Maintain a craftsman mindset
+- Expand my range of utility based on my skills
 ## ✅ **Tasks**
 
-- [ ] Learn serverless automation
-- [ ] Use AWS architecture
-
+- [x] Finish [[00 Learn Angular]] ✅ 2024-01-05
+- [x] Finish [[01 Learn Typescript]] ✅ 2024-01-05
+- [ ] Finish [[01 Learn Javascript]]
+- [ ] Finish [[🚀 01 CSS Animation Practice]]
+- [ ] Finish [[🚀 01 IETLS Preparation]]
+- [ ] Finish [[🚀 02 Interview Prep]]
+- [ ] Create a Project to learn French ⏫ 
 
 ---
 ## 📖 Journal Insights
@@ -69,5 +72,5 @@ WHERE contains(file.tags,this.file.tags[0])
 
 **Embrace the excitement and embark on your journey of accomplishment!**
 
-> [!quote] Ideas are the beginning points of all fortunes.
-> — Napoleon Hill
+> [!quote] Once you label me you negate me.
+> — Søren Kierkegaard

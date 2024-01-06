@@ -20,7 +20,8 @@ Date Started: 2023-11-18 13:13
 
 
 ## ✅ **Tasks**
-- Finish [¿Cómo colaboran los desarrolladores en el mundo real? - Colaboración de software | Coursera](https://www.coursera.org/learn/introduction-to-version-control/lecture/cHZra/how-do-developers-collaborate-in-the-real-world)
+
+- Learn Tailwind and Daysi
 
 
 

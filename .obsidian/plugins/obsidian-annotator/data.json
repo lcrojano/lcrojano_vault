@@ -5,7 +5,7 @@
     "contrast": 85,
     "sepia": 0
   },
-  "debugLogging": true,
+  "debugLogging": false,
   "customDefaultPath": "",
   "epubSettings": {
     "readingMode": "scroll",

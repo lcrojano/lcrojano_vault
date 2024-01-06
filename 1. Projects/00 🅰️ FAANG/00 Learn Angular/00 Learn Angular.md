@@ -8,7 +8,7 @@ Date Started: 2023-12-03 15:28
 🌟 **Embrace the Challenge:** 
 > This project is your opportunity to transform aspirations into reality. Embark on a journey of growth and discovery, where your skills and determination converge to achieve meaningful goals.
 
-- [ ] Project: 00 Learn Angular  📅 2023-12-31 🔁 every day 🔺  
+- [ ] Project: 00 Learn Angular  🔁 every day 📅 2023-12-31
 
 ## 🎯 **Goals**
 [💡^]: Remember to set [[S.M.A.R.T]] goals
@@ -18,8 +18,8 @@ Date Started: 2023-12-03 15:28
 ## ✅ **Tasks**
 
 - [ ] Finish Solo Solo Learn Angular 📅 2023-12-24
-	- [ ] Do one or more Angular modules by day 🔁 every day 🛫 2023-12-22
-	- [x] Do one or more Angular modules by day 🔁 every day 🛫 2023-12-21 ✅ 2023-12-21
+	- [ ] Do one or more Angular modules by day 🔁 every day 🛫 2024-01-6
+	- [x] Do one or more Angular modules by day 🔁 every day 🛫 2024-01-05 ✅ 2023-12-21
 	- [x] Do one or more Angular modules by day 🔁 every day 🛫 2023-12-19 ✅ 2023-12-21
 	- [x] Do one or more Angular modules by day 🔁 every day 🛫 2023-12-18 ✅ 2023-12-18
 	- [x] Do one or more Angular modules by day 🔁 every day 🛫 2023-12-17 ✅ 2023-12-17

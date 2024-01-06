@@ -16,6 +16,7 @@ Date Started: 2023-11-20 01:57
 ## ✅ **Tasks**
 
 - [ ] Implement  [GPRM : GitHub Profile ReadMe Maker](https://gprm.itsvg.in/) and [🙌 7 Tips to Build Your GitHub Profile Like a PRO 🚀 - DEV Community](https://dev.to/quine/7-tips-to-build-your-github-profile-like-a-pro-38bg)
+- [ ]  Finish [¿Cómo colaboran los desarrolladores en el mundo real? - Colaboración de software | Coursera](https://www.coursera.org/learn/introduction-to-version-control/lecture/cHZra/how-do-developers-collaborate-in-the-real-world)
 
 
 ---

@@ -1,24 +1,25 @@
 ---
 Type: Project
-tags: [projects/03-DevOps]
+tags: [projects/04-⌨️-Learn-Vim]
 Status: 🟡 New
 Short Description:
-Date Started: 2023-12-15 12:12
+Date Started: 2024-01-05 23:11
 ---
 > 🌟 **Embrace the Challenge:** 
 > This project is your opportunity to transform aspirations into reality. Embark on a journey of growth and discovery, where your skills and determination converge to achieve meaningful goals.
 
-- [ ] Project: 03 DevOps 🛫 2024-01-1 12:12
+- [ ] Project: 04 ⌨️ Learn Vim 🛫 2024-01-05 23:11
 ## 🎯 **Goals**
 [💡^]: Remember to set [[S.M.A.R.T]] 
 [💡^]: Use the [[5 Whys Technique - Root Cause Analysis]]
 [💡^]: goals excitement, achievement, and recognition
 ### 🏁 Outcomes
+- Achieve at leas 40 rmp speed at writing on keyboard
+- use vim to improve speed at coding
 
 ## ✅ **Tasks**
 
-- [ ] Learn serverless automation
-- [ ] Use AWS architecture
+- [ ] Practice for 30 minutes [Learn Touch Typing Free - TypingClub](https://www.typingclub.com/)
 
 
 ---
@@ -69,5 +70,5 @@ WHERE contains(file.tags,this.file.tags[0])
 
 **Embrace the excitement and embark on your journey of accomplishment!**
 
-> [!quote] Ideas are the beginning points of all fortunes.
-> — Napoleon Hill
+> [!quote] Mistakes are always forgivable, if one has the courage to admit them.
+> — Bruce Lee
